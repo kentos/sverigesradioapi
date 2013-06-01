@@ -1,4 +1,4 @@
 sverigesradioapi
 ================
 
-Development project for getting songs played on Sveriges Radio P3
+Development project for getting artists played, songs and playlists on Sveriges Radio P3
