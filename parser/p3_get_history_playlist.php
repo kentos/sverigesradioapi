@@ -18,7 +18,7 @@ date_default_timezone_set('UTC');
 $base_url = "http://sverigesradio.se/sida/latlista.aspx?programid=164&date=";
 $date = "2012-12-04"; //date("Y-m-d");
 
-for($i=180;$i < 360; $i++) {
+for($i=560;$i < 960; $i++) {
 	$the_date = date("Y-m-d", strtotime("-". $i ." day"));
 	
 	$json = get_playlist_by_date($the_date);

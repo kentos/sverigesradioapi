@@ -6,13 +6,17 @@ class Artist extends API {
 		
 		$this->get_search();
 		
-		$artist = $this->get_artist($this->search_string);
-		$plays = $this->get_plays($artist);
-		$meta = array(
-			"num_plays" => count($plays)
-		);
+		if(!$this->search_string > '' || $this->search_string > 0) {
+			$this->put(array("status"=> "no data"));
+		} else {
+			$artist = $this->get_artist($this->search_string);
+			$plays = $this->get_plays($artist);
+			$meta = array(
+				"num_plays" => count($plays)
+			);
 		
-		$this->put(array("meta" => $meta, "artist" => $artist, "plays" => $plays));
+			$this->put(array("meta" => $meta, "artist" => $artist, "plays" => $plays));
+		}
 	}
 	
 	private function get_artist($artist) {
