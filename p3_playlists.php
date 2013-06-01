@@ -3,14 +3,13 @@
 
 include("cache.php");
 include("phpquery/phpQuery.php");
+include("functions.php");
 
 date_default_timezone_set('UTC');
 
 $base_url = "http://sverigesradio.se/sida/latlista.aspx?programid=164&date=";
 $date = date("Y-m-d");
 
-$json = array();
-$current_index = 0;
 	
 /* main loop for playlists */
 for($i=0; $i <= 30; $i++) {
