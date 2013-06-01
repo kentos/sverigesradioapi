@@ -24,7 +24,7 @@ for($i=0; $i <= 30; $i++) {
 	foreach(pq("tbody tr") as $tr) {
 		
 		if(pq($tr)->hasClass("expand-container")) {
-			$json[$current_index] = (object) array(); // How the fuck do you do a object the easiest way??
+			$json[$current_index] = new stdClass; // How the fuck do you do a object the easiest way??
 			$json[$current_index]->time = $time = pq("td.time", $tr)->text();
 			$json[$current_index]->artist = trim(pq("span.artist", $tr)->text());
 			$json[$current_index]->song = trim(pq("span.title", $tr)->text());
