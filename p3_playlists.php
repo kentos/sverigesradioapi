@@ -1,6 +1,10 @@
 <?php
 #header("Content-type:application/json");
 
+/*
+	Run this script every once in a while to get the updated playlist from P3
+*/
+
 include("cache.php");
 include("phpquery/phpQuery.php");
 include("functions.php");
@@ -12,5 +16,4 @@ $date = date("Y-m-d");
 
 $json = get_playlist_by_date($date);
 
-echo json_encode($json);
-
+/* TODO: Save somewhere? */

@@ -1,10 +1,10 @@
 <?php
 
 function get_playlist_by_date($date) {
-	global $base_url, phpQuery;
+	global $base_url;
 	
 	$doc = $base_url . $date;
-	$content = cache_get_contents($doc);
+	$content = cache_get_contents($doc, true);
 	$rows = Array();
 	$current_index = 0;
 	
@@ -18,7 +18,7 @@ function get_playlist_by_date($date) {
 			$rows[$current_index]->artist = trim(pq("span.artist", $tr)->text());
 			$rows[$current_index]->song = trim(pq("span.title", $tr)->text());
 			$rows[$current_index]->date = $date;
-		} else {
+		} elseif(pq($tr)->hasClass("expanded-content")) {
 			$rows[$current_index]->composerinfo = str_replace("Kompositör: ", "", pq("span.composerinfo", $tr)->text());
 			$rows[$current_index]->spotifylink = pq("a.spotify", $tr)->attr("href");
 			
