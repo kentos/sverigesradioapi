@@ -11,8 +11,16 @@ class Artist extends API {
 		} else {
 			$artist = $this->get_artist($this->search_string);
 			$plays = $this->get_plays($artist);
+			
+			$unique_songs = array();
+			
+			foreach($plays as $p) {
+				$unique_songs[$p['song_id']] = true;
+			}
+			
 			$meta = array(
-				"num_plays" => count($plays)
+				"num_plays" => count($plays),
+				"unique_songs"=> count($unique_songs)
 			);
 		
 			$this->put(array("meta" => $meta, "artist" => $artist, "plays" => $plays));

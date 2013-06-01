@@ -11,7 +11,8 @@ class API {
 		$this->db = $db;
 		
 		$this->info = array(
-			"apiName"=> "Independent API for Sveriges Radio"
+			"apiName"=> "Independent API for Sveriges Radio",
+			"apiAuthot"=> "Kent C / @kentos / Do what you have to do."
 		);
 	}
 	
