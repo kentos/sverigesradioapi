@@ -1,6 +1,4 @@
 <?php
-#header("Content-type:application/json");
-
 /*
 	Run this script every once in a while to get the updated playlist from P3
 */
