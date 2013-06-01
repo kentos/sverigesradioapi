@@ -1,0 +1,4412 @@
+<!DOCTYPE html>
+<html lang="sv">
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        
+        
+        <meta name="description" content="SR P3 &#228;r den unga kanalen som bevakar samtiden och speglar popul&#228;rkulturen. I P3 h&#246;rs flera av Sveriges Radios mest popul&#228;ra humor- och underh&#229;llnings..." />
+        <meta name="keywords" content="P3, Sveriges Radio, musik, humor, kultur, samh&#228;lle, nyheter, t&#228;vlingar, lyssna, poddradio, webbradio, topplistor, hit, soul, hiphop, pop, rock, dans, klubb, rytm, reggae, disco, live, konserter" />
+        <meta name="author" content="Sveriges Radio" />
+        <meta name="robots" content="noindex" />
+
+    
+        
+        
+
+        
+    
+<link href="/sida/content/css/sr.min.css?10.22.4.28504" rel="stylesheet" media="all" type="text/css" />
+
+        
+        
+    
+	<script type="text/javascript">
+	window.SRonDocumentReadyQueue = function () {
+		var queue = [],
+			DOMReadyAlreadyHappened = false;
+		function push(funcionToBeExecutedOnDOMReadyOrImmediately) {
+			if (DOMReadyAlreadyHappened) {
+				funcionToBeExecutedOnDOMReadyOrImmediately();
+			}
+			else {
+				queue.push(funcionToBeExecutedOnDOMReadyOrImmediately);
+			}
+		}
+		function processQueuedFunctions() {
+			DOMReadyAlreadyHappened = true;
+			for (var iFunc = 0; iFunc < queue.length; ++iFunc) {
+				(queue[iFunc]).call();
+			}
+		}
+		return {
+			push: push,
+			processQueuedFunctions: processQueuedFunctions
+		};
+	} ();
+</script>
+
+
+
+        <!--[if lt IE 9]>
+            <script src="/sida/content/script-responsive/lib/html5shiv.js?10.22.4.28504"></script>
+        <![endif]-->
+        <title>L&#229;tlista - P3 - Tisdag 19 februari 2013 | Sveriges Radio</title>
+        
+
+    </head>
+    <body id="p3"         class="non-responsive th-p3 sr-detection-{&#39;status&#39;:&#39;ok&#39;,&#39;url&#39;:&#39;null&#39;,&#39;devicetype&#39;:&#39;computer&#39;,&#39;isIOS&#39;:&#39;false&#39;,&#39;isAndroid&#39;:&#39;false&#39;} latlista t5 unitid-164"
+>
+        <script type="text/javascript">
+            var _sf_startpt = (new Date()).getTime();
+            document.body.className += " js-on";
+        </script>
+        
+
+
+
+
+
+
+
+
+<div id="srPage" class="pageWidth">
+    
+<a href="#srMain" accesskey="S" class="offscreen">Hoppa till textinneh&aring;llet</a>
+<a href="#srFooter" accesskey="3" class="offscreen">Sajtkarta</a>
+<a href="/sida/default.aspx?programid=3756" accesskey="6" class="offscreen">Support</a>
+<a href="/sida/artikel.aspx?programid=3113&amp;artikel=1971594" accesskey="7" class="offscreen">Kontakta Sveriges radio</a>
+<a href="#srPlayer" accesskey="8" class="offscreen">Spelaren</a>
+<a href="/sida/allakanaler.aspx" accesskey="9" class="offscreen">Alla kanaler</a>
+<header>
+	<div id="topNavigationWrapper" class="nocontent">
+		<div id="srTopbarWrapper">
+   			<div id="srTopbar" class="clearfix">
+				<ul class="clearfix">
+					<li class="logo nobg">
+                        <a href="/" id="srHeaderLogo"
+                            class="main-sprite sr-logo-sprite ga-event {ga_category:&#39;toppnavigation&#39;,ga_action:&#39;navigera&#39;,ga_label:&#39;sveriges radio&#39;}" accesskey="1">
+                                <span class="offscreen">Sveriges Radio</span></a></li>
+                    <li id="myRadio-topbar" class="myRadio"><span class="topbaricon main-sprite myradio-heart-sprite">&nbsp;</span>
+                        <a href="#" class="ga-event {ga_category:&#39;toppnavigation&#39;,ga_action:&#39;navigera&#39;,ga_label:&#39;min radio&#39;}"><span>Min radio</span></a></li>
+                    <li><a class="ga-event {ga_category:&#39;toppnavigation&#39;,ga_action:&#39;navigera&#39;,ga_label:&#39;alla program&#39;}"
+                            href="http://sverigesradio.se/sida/allaprogram.aspx">Alla program</a></li>
+					<li><a class="ga-event {ga_category:&#39;toppnavigation&#39;,ga_action:&#39;navigera&#39;,ga_label:&#39;alla kanaler&#39;}"
+                            href="http://sverigesradio.se/sida/allakanaler.aspx">Alla kanaler</a></li>
+					<li><a href="/sida/artikel.aspx?programid=3113&amp;artikel=1971594"
+                            class="ga-event {ga_category:&#39;toppnavigation&#39;,ga_action:&#39;navigera&#39;,ga_label:&#39;kontakt&#39;}">Kontakt</a></li>
+				</ul>
+			</div>
+		</div>
+		<div id="srHeaderWrapper">
+   			<div id="srHeader" class="clearfix">
+				<ul id="srMainMenu" class="clearfix">
+				    <li class="ekot "><a href="/nyheter" accesskey="2" class="ga-event {ga_category:&#39;toppnavigation&#39;,ga_action:&#39;navigera&#39;,ga_label:&#39;nyheter&#39;}">Nyheter</a></li>
+                    <li class="p1 "><a href="/p1" class="ga-event {ga_category:&#39;toppnavigation&#39;,ga_action:&#39;navigera&#39;,ga_label:&#39;p1&#39;}">P1</a></li>
+					<li class="p2 "><a href="/p2" class="ga-event {ga_category:&#39;toppnavigation&#39;,ga_action:&#39;navigera&#39;,ga_label:&#39;p2&#39;}">P2</a></li>
+					<li class="p3 active"><a href="/p3" class="ga-event {ga_category:&#39;toppnavigation&#39;,ga_action:&#39;navigera&#39;,ga_label:&#39;p3&#39;}">P3</a></li>
+					<li class="p4 "><a href="/p4" class="sr-p4 sr-p4-dialog sr-p4-navigate srmem srmem-id-mainlocalchannel ga-event {ga_category:&#39;toppnavigation&#39;,ga_action:&#39;navigera&#39;,ga_label:&#39;p4&#39;}">P4</a></li>
+					<li class="sport "><a href="/radiosporten" class="ga-event {ga_category:&#39;toppnavigation&#39;,ga_action:&#39;navigera&#39;,ga_label:&#39;sport&#39;}">Sport</a></li>
+					<li class="vetenskap "><a href="/sida/default.aspx?programid=406" class="ga-event {ga_category:&#39;toppnavigation&#39;,ga_action:&#39;navigera&#39;,ga_label:&#39;vetenskap&amp;milj&#246;&#39;}">Vetenskap & miljö</a></li>
+					<li class="kultur "><a href="/sida/default.aspx?programid=478" class="ga-event {ga_category:&#39;toppnavigation&#39;,ga_action:&#39;navigera&#39;,ga_label:&#39;kultur&#39;}">Kultur</a></li>
+					<li class="language " id="srMainMenuLanguage">
+						<a class="modal ga-event {ga_category:&#39;toppnavigation&#39;,ga_action:&#39;navigera&#39;,ga_label:&#39;spr&#229;k&#39;,width:&#39;500&#39;,title:&#39;V&#228;lj spr&#229;k&#39;}" href="/international/">Spr&#229;k</a>
+						<div class="language-content modal-content">
+							<div class="column-container">
+								<div class="col-2">
+									<ul>
+										<li><a href="/sida/default.aspx?programid=2494">&#1575;&#1604;&#1593;&#1585;&#1576;&#1610;&#1577; (arabiska)</a></li>
+										<li><a href="/sida/default.aspx?programid=2054">English</a></li>
+										<li><a href="/sisuradio/">Suomi</a></li>
+										<li><a href="/sida/default.aspx?programid=2200">Kurdî کوردی</a></li>
+										<li><a href="/sida/default.aspx?programid=1017">Me&#228;nkieli</a></li>
+										<li><a href="/sida/default.aspx?programid=2493">&#1601;&#1575;&#1585;&#1587;&#1740; (persiska)</a></li>
+										<li><a href="/sida/default.aspx?programid=2122">Romani</a></li>
+										<li><a href="/sida/default.aspx?programid=2103">&#1056;&#1091;&#1089;&#1089;&#1082;&#1080;&#1081; (ryska)</a></li>
+										<li><a href="/sida/same_sisu.aspx?programid=224">Sámi</a></li>
+										<li><a href="/sida/default.aspx?programid=2172">Somali</a></li>
+										<li><a href="/sida/default.aspx?programid=2108">Deutsch</a></li>
+									</ul>
+								</div>
+								<div class="column-container col-2">
+									<span class="above-title">Kanaler</span>
+									<ul class="separator-languages">
+										<li><a href="/sameradion">Sameradion</a></li>
+										<li><a href="/sisuradio">Sisuradio</a></li>
+									</ul>
+									<ul>
+										<li><a href="/international">SR International på svenska</a></li>
+										<li><a href="/sida/default.aspx?programid=493">Nyheter på lätt svenska (Klartext)</a></li>
+									</ul>            
+								</div>
+							</div>
+						</div>
+					</li>			
+					<li class="barn ">
+						<a id="srMainMenuBarn" href="/sida/barn.aspx?programid=3878">
+							<span class="ga-event {ga_category:&#39;toppnavigation&#39;,ga_action:&#39;navigera&#39;,ga_label:&#39;barn&#39;}">Barn</span>
+							<span class="main-sprite radioapan-sprite ga-event {ga_category:&#39;toppnavigation&#39;,ga_action:&#39;navigera&#39;,ga_label:&#39;barn&#39;}"></span>
+						</a>
+					</li>
+					<li>
+						<a href="#" class="dropdown ga-event {ga_category:&#39;toppnavigation&#39;,ga_action:&#39;navigera&#39;,ga_label:&#39;mer&#39;,width:&#39;200&#39;,title:&#39;Mer&#39;}">Mer</a>
+						<div class="modal-content menu-content text-black">
+							<div class="listContainer row_1 c0">
+								<ul>
+									<li><a class="icon arrow" title="Medieormen – om journalistikens framtid (&#246;ppnas i eget f&#246;nster)" href="/sida/default.aspx?programid=3938">Medieormen – om journalistikens framtid</a></li>
+									<li><a class="icon arrow" title="Journalism 3.0 - Media Ecology and the Future (&#246;ppnas i eget f&#246;nster)" href="/sida/default.aspx?programid=4042 ">Journalism 3.0 - Media Ecology and the Future</a></li>
+								</ul>
+							</div>
+						</div>
+					</li>
+					<li id="srMainSearch" class="search nobg">
+						<form action="/sida/sok.aspx" method="get">
+							<label accesskey="4" class="fadeLabel" for="srMainSearchField">Sök program och kanaler</label>
+                            <div class="main-sprite main-search-button-sprite"></div>
+                            <input data-require="modules/sr.autocomplete" class="placeholder content-url-/sida/search/unitsearch {ga_category:&#39;toppnavigation&#39;,ga_action:&#39;s&#246;k&#39;,ga_label:&#39;starta&#39;}" type="text" name="q" id="srMainSearchField" value="Sök kanaler, program och personer" placeholder="Sök kanaler, program och personer" />
+						</form>
+					</li>
+				</ul>
+			</div>
+		</div>
+	</div>
+</header>
+    <section >
+            <div id="srSubTopWrapper" class="clearfix">
+                
+
+<div class="th-p3">
+    <div id="channel-top-bar" class="p3-channel-top-bar channel-gradient">
+        <div class="channel-top-shadow">
+            <a href="/p3" class="p-logo main-sprite p3-white-sprite">
+                
+            </a>
+            <h1 class="offscreen">P3</h1>
+        </div>
+        <div class="channel-top-arrow"></div>
+        <div class="right-now rn-update rn-id-164">
+                    <img class="unitImage" src="/diverse/appdata/isidor/images/news_images/4090/2167205_176_132.jpg" alt="" width="51" height="38" />
+                <a class="content channelbg hover play" href="/topsy/direkt/164.rtmp">
+                    <span class="icon white live">&nbsp;</span>
+                    <span class="programinfo">
+                        <span class="rn-program">
+                            P3 Spel 
+                        </span>
+                    </span>
+                        <span class="bar sr-progress sr-progress-1403-1500">
+                            <span>&nbsp;</span>
+                        </span>
+                    <span class="time">15:00</span><span class="rn-next-program">Ekonyheter</span> 
+                </a>
+                <a class="dropdown ajax channelbg hover {width:220,title:'', align:'right', className:'channel-dropdown p3'}" rel="nofollow" title="Mer information om vad som sänds på P3" aria-haspopup="true" href="http://sverigesradio.se/sida/layout/channeldropdowninfo?unitid=164">
+                    <span class="main-sprite down-arrow-white-sprite"></span>
+                </a>
+        </div>
+        <div class="header-functions">
+            
+<a href="/sida/tabla.aspx?programId=164">Tabl&#229;</a>
+<a data-require="modules/favorites" class="tooltip favourite broadcasting {unitid: 164, tooltipurl: '/sida/program/favouritetooltip?programid=164', alignment: 'rel', x: 0, y:-50}" href="/api/personal/insertflashfavorites.aspx?action=insert&typeid=3&objectid=164&title=P3" title="Spara kanalen som favorit i &quot;Min radio&quot;">
+    <span class="main-sprite white-favourite-sprite favourite-icon"></span>
+</a>
+<a class="tooltip dropdown dropdown-open share {width:150, category: 'channel', alignment: 'rel', x:0, y:-36, shareTitle: 'P3', shareUrl:'http%3a%2f%2fsverigesradio.se%2fsida%2fkanal.aspx%3fprogramid%3d3634', statkey:'P3'}" href="#" title="Dela med dig av kanalen till dina vänner!">
+    <span class="main-sprite white-share-sprite"></span>
+</a>
+
+
+        </div>
+    </div>
+</div>
+    <div id="srTopSubMenuWrapper" class="nocontent">
+        <div id="srTopSubMenu" class="clearfix channelNav">
+            <div class="content">                
+                
+<div class="listContainer row_0 c37">
+    <ul>
+			<li >
+    <a href="/sida/kanal.aspx?programid=3634"      >Startsida</a>
+			</li>
+			<li >
+    <a href="/sida/kanalprogramlista.aspx?programid=164"      >Program A till Ö</a>
+			</li>
+			<li >
+    <a href="/sida/tabla.aspx?programid=164"      >Tablå</a>
+			</li>
+			<li class="active">
+    <a href="/sida/latlista.aspx?programid=164"       class="selected"
+   >Låtlista</a>
+			</li>
+			<li >
+    <a href="/sida/artikel.aspx?programid=3634&amp;artikel=3625179"      >Om P3</a>
+			</li>
+			<li >
+    <a href="/sida/artikel.aspx?programid=3634&amp;artikel=3625125"      >Kontakta P3</a>
+			</li>
+			<li >
+    <a href="/sida/default.aspx?programid=1646"      >P3 Nyheter</a>
+			</li>
+    </ul>
+</div>
+
+
+
+
+        
+
+
+
+
+                
+
+
+
+
+
+
+
+            </div>
+        </div>
+    </div>
+
+            </div>
+        <div id="srMainWrapper" class="maincontent">
+            <div id="srMain" class="pageBackgroundColor">
+                <div class="content rc clearfix fw-p3">
+                               
+
+    <div id="pageWrapper" class="clearfix">
+        <div class="maincolumn">
+            <div class="article">
+                	<section role="main">
+		<div class="dataContainer timetable songlist">
+			<h1 class="large">L&#229;tlista P3</h1>
+
+
+<nav role="navigation">
+	<div class="archiveNavigation clearfix">
+	<div class="quickBar">
+		<a href="/sida/latlista.aspx?programid=164&amp;date=2013-02-18" class="icon backward-large"><span>Föregående</span></a>
+		<span class="dateRange">tisdag 19 februari 2013</span>
+		<a href="/sida/latlista.aspx?programid=164&amp;date=2013-02-20" class="icon forward-large"><span>Nästa</span></a>
+	</div>
+</div>
+</nav>
+
+
+        <h2 class="small">Morgon</h2>
+    <table cellpadding="0" cellspacing="0">
+        <thead id="listhead">
+            <tr>
+                <th scope="col">Tid</th>
+                <th scope="col">Låt</th>
+                <th class="latlista" scope="col">Mer om låten</th>
+            </tr>
+        </thead>
+        <tbody id="listbody">
+
+ <tr class="mainrow expand-container">
+    <td class="time">06:05</td>
+    <td>
+        <span class="artist">Marina And The Diamonds </span>-<span class="title"> How To Be A Heartbreaker</span>
+    </td>
+    <td class="moreinfo tune-list">
+        <a title="Mer information" href="#" class="icon expand-trigger plus blue" rel="nofollow"></a>
+    </td>
+</tr>
+<tr class="expandrow expanded-content">
+    <td></td>
+    <td colspan="2">
+            <span class="composerinfo">Komposit&#246;r: Marina Diamandis, Dan Omelio, Benjamin</span>
+        <span class="searchinfo">Sök: </span>
+        
+
+<a class="icon icnExternalLink spotify" href="http://open.spotify.com/search/artist:Marina And The Diamonds%20track:How To Be A Heartbreaker" rel="nofollow" target="_blank">Spotify</a>    
+<a class="icon icnExternalLink google" href="http://www.google.com/search?q=Marina And The Diamonds How To Be A Heartbreaker" rel="nofollow" target="_blank">Google</a>
+
+    </td>
+</tr>
+ <tr class="mainrow expand-container">
+    <td class="time">06:09</td>
+    <td>
+        <span class="artist">Daniel Adams-Ray </span>-<span class="title"> Gubben I L&#229;dan</span>
+    </td>
+    <td class="moreinfo tune-list">
+        <a title="Mer information" href="#" class="icon expand-trigger plus blue" rel="nofollow"></a>
+    </td>
+</tr>
+<tr class="expandrow expanded-content">
+    <td></td>
+    <td colspan="2">
+            <span class="recordinfo">Album: Svart Vitt Och Allt D&#228;remellan</span>
+        <span class="searchinfo">Sök: </span>
+        
+
+<a class="icon icnExternalLink spotify" href="http://open.spotify.com/search/artist:Daniel Adams-Ray%20track:Gubben I L&#229;dan" rel="nofollow" target="_blank">Spotify</a>    
+<a class="icon icnExternalLink google" href="http://www.google.com/search?q=Daniel Adams-Ray Gubben I L&#229;dan" rel="nofollow" target="_blank">Google</a>
+
+    </td>
+</tr>
+ <tr class="mainrow expand-container">
+    <td class="time">06:12</td>
+    <td>
+        <span class="artist">Labrinth &amp; Emeli Sand&#233; </span>-<span class="title"> Beneath Your Beautiful</span>
+    </td>
+    <td class="moreinfo tune-list">
+        <a title="Mer information" href="#" class="icon expand-trigger plus blue" rel="nofollow"></a>
+    </td>
+</tr>
+<tr class="expandrow expanded-content">
+    <td></td>
+    <td colspan="2">
+            <span class="composerinfo">Komposit&#246;r: Emeli Sande; Timothy McKenzie; Mike Pos</span>
+        <span class="searchinfo">Sök: </span>
+        
+
+<a class="icon icnExternalLink spotify" href="http://open.spotify.com/search/artist:Labrinth &amp; Emeli Sand&#233;%20track:Beneath Your Beautiful" rel="nofollow" target="_blank">Spotify</a>    
+<a class="icon icnExternalLink google" href="http://www.google.com/search?q=Labrinth &amp; Emeli Sand&#233; Beneath Your Beautiful" rel="nofollow" target="_blank">Google</a>
+
+    </td>
+</tr>
+ <tr class="mainrow expand-container">
+    <td class="time">06:17</td>
+    <td>
+        <span class="artist">Ellie Goulding </span>-<span class="title"> Anything Could Happen</span>
+    </td>
+    <td class="moreinfo tune-list">
+        <a title="Mer information" href="#" class="icon expand-trigger plus blue" rel="nofollow"></a>
+    </td>
+</tr>
+<tr class="expandrow expanded-content">
+    <td></td>
+    <td colspan="2">
+            <span class="composerinfo">Komposit&#246;r: Ellie Goulding, Jim Eliot</span>
+        <span class="searchinfo">Sök: </span>
+        
+
+<a class="icon icnExternalLink spotify" href="http://open.spotify.com/search/artist:Ellie Goulding%20track:Anything Could Happen" rel="nofollow" target="_blank">Spotify</a>    
+<a class="icon icnExternalLink google" href="http://www.google.com/search?q=Ellie Goulding Anything Could Happen" rel="nofollow" target="_blank">Google</a>
+
+    </td>
+</tr>
+ <tr class="mainrow expand-container">
+    <td class="time">06:20</td>
+    <td>
+        <span class="artist">Zara Larsson </span>-<span class="title"> Uncover</span>
+    </td>
+    <td class="moreinfo tune-list">
+        <a title="Mer information" href="#" class="icon expand-trigger plus blue" rel="nofollow"></a>
+    </td>
+</tr>
+<tr class="expandrow expanded-content">
+    <td></td>
+    <td colspan="2">
+            <span class="composerinfo">Komposit&#246;r: -</span>
+        <span class="searchinfo">Sök: </span>
+        
+
+<a class="icon icnExternalLink spotify" href="http://open.spotify.com/search/artist:Zara Larsson%20track:Uncover" rel="nofollow" target="_blank">Spotify</a>    
+<a class="icon icnExternalLink google" href="http://www.google.com/search?q=Zara Larsson Uncover" rel="nofollow" target="_blank">Google</a>
+
+    </td>
+</tr>
+ <tr class="mainrow expand-container">
+    <td class="time">06:24</td>
+    <td>
+        <span class="artist">Johnossi </span>-<span class="title"> Gone Forever</span>
+    </td>
+    <td class="moreinfo tune-list">
+        <a title="Mer information" href="#" class="icon expand-trigger plus blue" rel="nofollow"></a>
+    </td>
+</tr>
+<tr class="expandrow expanded-content">
+    <td></td>
+    <td colspan="2">
+            <span class="composerinfo">Komposit&#246;r: John Engelbert, Oskar Bonde</span>
+        <span class="searchinfo">Sök: </span>
+        
+
+<a class="icon icnExternalLink spotify" href="http://open.spotify.com/search/artist:Johnossi%20track:Gone Forever" rel="nofollow" target="_blank">Spotify</a>    
+<a class="icon icnExternalLink google" href="http://www.google.com/search?q=Johnossi Gone Forever" rel="nofollow" target="_blank">Google</a>
+
+    </td>
+</tr>
+ <tr class="mainrow expand-container">
+    <td class="time">06:28</td>
+    <td>
+        <span class="artist">The Tallest Man On Earth </span>-<span class="title"> 1904</span>
+    </td>
+    <td class="moreinfo tune-list">
+        <a title="Mer information" href="#" class="icon expand-trigger plus blue" rel="nofollow"></a>
+    </td>
+</tr>
+<tr class="expandrow expanded-content">
+    <td></td>
+    <td colspan="2">
+            <span class="composerinfo">Komposit&#246;r: Saras Per Kristian Matsson</span>
+        <span class="searchinfo">Sök: </span>
+        
+
+<a class="icon icnExternalLink spotify" href="http://open.spotify.com/search/artist:The Tallest Man On Earth%20track:1904" rel="nofollow" target="_blank">Spotify</a>    
+<a class="icon icnExternalLink google" href="http://www.google.com/search?q=The Tallest Man On Earth 1904" rel="nofollow" target="_blank">Google</a>
+
+    </td>
+</tr>
+ <tr class="mainrow expand-container">
+    <td class="time">06:31</td>
+    <td>
+        <span class="artist">Elliphant </span>-<span class="title"> Live Till I Die</span>
+    </td>
+    <td class="moreinfo tune-list">
+        <a title="Mer information" href="#" class="icon expand-trigger plus blue" rel="nofollow"></a>
+    </td>
+</tr>
+<tr class="expandrow expanded-content">
+    <td></td>
+    <td colspan="2">
+            <span class="composerinfo">Komposit&#246;r: Ted Krotkiewski, Tim Den&#233;ve, Ted Krotki</span>
+        <span class="searchinfo">Sök: </span>
+        
+
+<a class="icon icnExternalLink spotify" href="http://open.spotify.com/search/artist:Elliphant%20track:Live Till I Die" rel="nofollow" target="_blank">Spotify</a>    
+<a class="icon icnExternalLink google" href="http://www.google.com/search?q=Elliphant Live Till I Die" rel="nofollow" target="_blank">Google</a>
+
+    </td>
+</tr>
+ <tr class="mainrow expand-container">
+    <td class="time">06:41</td>
+    <td>
+        <span class="artist">Laleh </span>-<span class="title"> Some Die Young</span>
+    </td>
+    <td class="moreinfo tune-list">
+        <a title="Mer information" href="#" class="icon expand-trigger plus blue" rel="nofollow"></a>
+    </td>
+</tr>
+<tr class="expandrow expanded-content">
+    <td></td>
+    <td colspan="2">
+            <span class="recordinfo">Album: Sjung</span>
+            <span class="composerinfo">Komposit&#246;r: Pourkarim, Laleh</span>
+        <span class="searchinfo">Sök: </span>
+        
+
+<a class="icon icnExternalLink spotify" href="http://open.spotify.com/search/artist:Laleh%20track:Some Die Young" rel="nofollow" target="_blank">Spotify</a>    
+<a class="icon icnExternalLink google" href="http://www.google.com/search?q=Laleh Some Die Young" rel="nofollow" target="_blank">Google</a>
+
+    </td>
+</tr>
+ <tr class="mainrow expand-container">
+    <td class="time">06:44</td>
+    <td>
+        <span class="artist">The Fray </span>-<span class="title"> How To Save A Life</span>
+    </td>
+    <td class="moreinfo tune-list">
+        <a title="Mer information" href="#" class="icon expand-trigger plus blue" rel="nofollow"></a>
+    </td>
+</tr>
+<tr class="expandrow expanded-content">
+    <td></td>
+    <td colspan="2">
+        <span class="searchinfo">Sök: </span>
+        
+
+<a class="icon icnExternalLink spotify" href="http://open.spotify.com/search/artist:The Fray%20track:How To Save A Life" rel="nofollow" target="_blank">Spotify</a>    
+<a class="icon icnExternalLink google" href="http://www.google.com/search?q=The Fray How To Save A Life" rel="nofollow" target="_blank">Google</a>
+
+    </td>
+</tr>
+ <tr class="mainrow expand-container">
+    <td class="time">06:54</td>
+    <td>
+        <span class="artist">Andreas Moe </span>-<span class="title"> This Year</span>
+    </td>
+    <td class="moreinfo tune-list">
+        <a title="Mer information" href="#" class="icon expand-trigger plus blue" rel="nofollow"></a>
+    </td>
+</tr>
+<tr class="expandrow expanded-content">
+    <td></td>
+    <td colspan="2">
+            <span class="composerinfo">Komposit&#246;r: Hiten Bharadia; Curtis Richardson; Andr</span>
+        <span class="searchinfo">Sök: </span>
+        
+
+<a class="icon icnExternalLink spotify" href="http://open.spotify.com/search/artist:Andreas Moe%20track:This Year" rel="nofollow" target="_blank">Spotify</a>    
+<a class="icon icnExternalLink google" href="http://www.google.com/search?q=Andreas Moe This Year" rel="nofollow" target="_blank">Google</a>
+
+    </td>
+</tr>
+ <tr class="mainrow expand-container">
+    <td class="time">07:05</td>
+    <td>
+        <span class="artist">Petter &amp; Daniel Adams-Ray </span>-<span class="title"> H&#229;ll Om Mig</span>
+    </td>
+    <td class="moreinfo tune-list">
+        <a title="Mer information" href="#" class="icon expand-trigger plus blue" rel="nofollow"></a>
+    </td>
+</tr>
+<tr class="expandrow expanded-content">
+    <td></td>
+    <td colspan="2">
+            <span class="composerinfo">Komposit&#246;r: M. Lideh&#228;ll, S. Al-Fakir, V. Pontare, P</span>
+        <span class="searchinfo">Sök: </span>
+        
+
+<a class="icon icnExternalLink spotify" href="http://open.spotify.com/search/artist:Petter &amp; Daniel Adams-Ray%20track:H&#229;ll Om Mig" rel="nofollow" target="_blank">Spotify</a>    
+<a class="icon icnExternalLink google" href="http://www.google.com/search?q=Petter &amp; Daniel Adams-Ray H&#229;ll Om Mig" rel="nofollow" target="_blank">Google</a>
+
+    </td>
+</tr>
+ <tr class="mainrow expand-container">
+    <td class="time">07:13</td>
+    <td>
+        <span class="artist">Swedish House Mafia </span>-<span class="title"> Don&#39;t You Worry Child</span>
+    </td>
+    <td class="moreinfo tune-list">
+        <a title="Mer information" href="#" class="icon expand-trigger plus blue" rel="nofollow"></a>
+    </td>
+</tr>
+<tr class="expandrow expanded-content">
+    <td></td>
+    <td colspan="2">
+            <span class="composerinfo">Komposit&#246;r: Axwell, Sebstian Ingrosso</span>
+        <span class="searchinfo">Sök: </span>
+        
+
+<a class="icon icnExternalLink spotify" href="http://open.spotify.com/search/artist:Swedish House Mafia%20track:Don&#39;t You Worry Child" rel="nofollow" target="_blank">Spotify</a>    
+<a class="icon icnExternalLink google" href="http://www.google.com/search?q=Swedish House Mafia Don&#39;t You Worry Child" rel="nofollow" target="_blank">Google</a>
+
+    </td>
+</tr>
+ <tr class="mainrow expand-container">
+    <td class="time">07:23</td>
+    <td>
+        <span class="artist">First Aid Kit &amp; Conor Oberst </span>-<span class="title"> King Of The World</span>
+    </td>
+    <td class="moreinfo tune-list">
+        <a title="Mer information" href="#" class="icon expand-trigger plus blue" rel="nofollow"></a>
+    </td>
+</tr>
+<tr class="expandrow expanded-content">
+    <td></td>
+    <td colspan="2">
+            <span class="recordinfo">Album: The Lion&#39;s Roar</span>
+            <span class="composerinfo">Komposit&#246;r: Conor Oberst | Johanna S&#246;derberg | Klar</span>
+        <span class="searchinfo">Sök: </span>
+        
+
+<a class="icon icnExternalLink spotify" href="http://open.spotify.com/search/artist:First Aid Kit &amp; Conor Oberst%20track:King Of The World" rel="nofollow" target="_blank">Spotify</a>    
+<a class="icon icnExternalLink google" href="http://www.google.com/search?q=First Aid Kit &amp; Conor Oberst King Of The World" rel="nofollow" target="_blank">Google</a>
+
+    </td>
+</tr>
+ <tr class="mainrow expand-container">
+    <td class="time">07:35</td>
+    <td>
+        <span class="artist">Miriam Bryant </span>-<span class="title"> Push Play</span>
+    </td>
+    <td class="moreinfo tune-list">
+        <a title="Mer information" href="#" class="icon expand-trigger plus blue" rel="nofollow"></a>
+    </td>
+</tr>
+<tr class="expandrow expanded-content">
+    <td></td>
+    <td colspan="2">
+            <span class="composerinfo">Komposit&#246;r: Miriam Bryant,Victor R&#229;dstr&#246;m , Miriam</span>
+        <span class="searchinfo">Sök: </span>
+        
+
+<a class="icon icnExternalLink spotify" href="http://open.spotify.com/search/artist:Miriam Bryant%20track:Push Play" rel="nofollow" target="_blank">Spotify</a>    
+<a class="icon icnExternalLink google" href="http://www.google.com/search?q=Miriam Bryant Push Play" rel="nofollow" target="_blank">Google</a>
+
+    </td>
+</tr>
+ <tr class="mainrow expand-container">
+    <td class="time">07:41</td>
+    <td>
+        <span class="artist">Kapten R&#246;d </span>-<span class="title"> Ju Mer Dom Spottar</span>
+    </td>
+    <td class="moreinfo tune-list">
+        <a title="Mer information" href="#" class="icon expand-trigger plus blue" rel="nofollow"></a>
+    </td>
+</tr>
+<tr class="expandrow expanded-content">
+    <td></td>
+    <td colspan="2">
+            <span class="recordinfo">Album: .</span>
+            <span class="composerinfo">Komposit&#246;r: Bj&#228;&#246;rn &quot;Kapten R&#246;d! Nilson, Bj&#246;rn &quot;Kapt</span>
+        <span class="searchinfo">Sök: </span>
+        
+
+<a class="icon icnExternalLink spotify" href="http://open.spotify.com/search/artist:Kapten R&#246;d%20track:Ju Mer Dom Spottar" rel="nofollow" target="_blank">Spotify</a>    
+<a class="icon icnExternalLink google" href="http://www.google.com/search?q=Kapten R&#246;d Ju Mer Dom Spottar" rel="nofollow" target="_blank">Google</a>
+
+    </td>
+</tr>
+ <tr class="mainrow expand-container">
+    <td class="time">07:50</td>
+    <td>
+        <span class="artist">Will.I.Am &amp; Britney Spears </span>-<span class="title"> Scream &amp; Shout</span>
+    </td>
+    <td class="moreinfo tune-list">
+        <a title="Mer information" href="#" class="icon expand-trigger plus blue" rel="nofollow"></a>
+    </td>
+</tr>
+<tr class="expandrow expanded-content">
+    <td></td>
+    <td colspan="2">
+            <span class="composerinfo">Komposit&#246;r: William Adams, Jef Martens. , William A</span>
+        <span class="searchinfo">Sök: </span>
+        
+
+<a class="icon icnExternalLink spotify" href="http://open.spotify.com/search/artist:Will.I.Am &amp; Britney Spears%20track:Scream &amp; Shout" rel="nofollow" target="_blank">Spotify</a>    
+<a class="icon icnExternalLink google" href="http://www.google.com/search?q=Will.I.Am &amp; Britney Spears Scream &amp; Shout" rel="nofollow" target="_blank">Google</a>
+
+    </td>
+</tr>
+ <tr class="mainrow expand-container">
+    <td class="time">08:05</td>
+    <td>
+        <span class="artist">Taylor Swift </span>-<span class="title"> I Knew You Were Trouble</span>
+    </td>
+    <td class="moreinfo tune-list">
+        <a title="Mer information" href="#" class="icon expand-trigger plus blue" rel="nofollow"></a>
+    </td>
+</tr>
+<tr class="expandrow expanded-content">
+    <td></td>
+    <td colspan="2">
+            <span class="composerinfo">Komposit&#246;r: Taylor Swift, Max Martin, Shellback, Ta</span>
+        <span class="searchinfo">Sök: </span>
+        
+
+<a class="icon icnExternalLink spotify" href="http://open.spotify.com/search/artist:Taylor Swift%20track:I Knew You Were Trouble" rel="nofollow" target="_blank">Spotify</a>    
+<a class="icon icnExternalLink google" href="http://www.google.com/search?q=Taylor Swift I Knew You Were Trouble" rel="nofollow" target="_blank">Google</a>
+
+    </td>
+</tr>
+ <tr class="mainrow expand-container">
+    <td class="time">08:18</td>
+    <td>
+        <span class="artist">Jessie Ware </span>-<span class="title"> If You&#39;re Never Gonna Move</span>
+    </td>
+    <td class="moreinfo tune-list">
+        <a title="Mer information" href="#" class="icon expand-trigger plus blue" rel="nofollow"></a>
+    </td>
+</tr>
+<tr class="expandrow expanded-content">
+    <td></td>
+    <td colspan="2">
+            <span class="composerinfo">Komposit&#246;r: Julio Bashmore | Jessie Ware</span>
+        <span class="searchinfo">Sök: </span>
+        
+
+<a class="icon icnExternalLink spotify" href="http://open.spotify.com/search/artist:Jessie Ware%20track:If You&#39;re Never Gonna Move" rel="nofollow" target="_blank">Spotify</a>    
+<a class="icon icnExternalLink google" href="http://www.google.com/search?q=Jessie Ware If You&#39;re Never Gonna Move" rel="nofollow" target="_blank">Google</a>
+
+    </td>
+</tr>
+ <tr class="mainrow expand-container">
+    <td class="time">08:35</td>
+    <td>
+        <span class="artist">Bingo Players &amp; Far East Movement </span>-<span class="title"> Get Up (Rattle)</span>
+    </td>
+    <td class="moreinfo tune-list">
+        <a title="Mer information" href="#" class="icon expand-trigger plus blue" rel="nofollow"></a>
+    </td>
+</tr>
+<tr class="expandrow expanded-content">
+    <td></td>
+    <td colspan="2">
+            <span class="composerinfo">Komposit&#246;r: Kevin Nishimura; James Roh; Jae Choung;</span>
+        <span class="searchinfo">Sök: </span>
+        
+
+<a class="icon icnExternalLink spotify" href="http://open.spotify.com/search/artist:Bingo Players &amp; Far East Movement%20track:Get Up (Rattle)" rel="nofollow" target="_blank">Spotify</a>    
+<a class="icon icnExternalLink google" href="http://www.google.com/search?q=Bingo Players &amp; Far East Movement Get Up (Rattle)" rel="nofollow" target="_blank">Google</a>
+
+    </td>
+</tr>
+ <tr class="mainrow expand-container">
+    <td class="time">08:55</td>
+    <td>
+        <span class="artist">H&#228;stpojken </span>-<span class="title"> Sommarvin</span>
+    </td>
+    <td class="moreinfo tune-list">
+        <a title="Mer information" href="#" class="icon expand-trigger plus blue" rel="nofollow"></a>
+    </td>
+</tr>
+<tr class="expandrow expanded-content">
+    <td></td>
+    <td colspan="2">
+            <span class="composerinfo">Komposit&#246;r: Martin Elisson,  Adam Bolm&#232;us , Martin</span>
+        <span class="searchinfo">Sök: </span>
+        
+
+<a class="icon icnExternalLink spotify" href="http://open.spotify.com/search/artist:H&#228;stpojken%20track:Sommarvin" rel="nofollow" target="_blank">Spotify</a>    
+<a class="icon icnExternalLink google" href="http://www.google.com/search?q=H&#228;stpojken Sommarvin" rel="nofollow" target="_blank">Google</a>
+
+    </td>
+</tr>
+ <tr class="mainrow expand-container">
+    <td class="time">09:03</td>
+    <td>
+        <span class="artist">Sibille Attar </span>-<span class="title"> Come Night</span>
+    </td>
+    <td class="moreinfo tune-list">
+        <a title="Mer information" href="#" class="icon expand-trigger plus blue" rel="nofollow"></a>
+    </td>
+</tr>
+<tr class="expandrow expanded-content">
+    <td></td>
+    <td colspan="2">
+            <span class="composerinfo">Komposit&#246;r: Bj&#246;rn Yttling, Sibille Attar, Bj&#246;rn Ytt</span>
+        <span class="searchinfo">Sök: </span>
+        
+
+<a class="icon icnExternalLink spotify" href="http://open.spotify.com/search/artist:Sibille Attar%20track:Come Night" rel="nofollow" target="_blank">Spotify</a>    
+<a class="icon icnExternalLink google" href="http://www.google.com/search?q=Sibille Attar Come Night" rel="nofollow" target="_blank">Google</a>
+
+    </td>
+</tr>
+ <tr class="mainrow expand-container">
+    <td class="time">09:08</td>
+    <td>
+        <span class="artist">Avicii &amp; Nicky Romero </span>-<span class="title"> I Could Be The One</span>
+    </td>
+    <td class="moreinfo tune-list">
+        <a title="Mer information" href="#" class="icon expand-trigger plus blue" rel="nofollow"></a>
+    </td>
+</tr>
+<tr class="expandrow expanded-content">
+    <td></td>
+    <td colspan="2">
+            <span class="composerinfo">Komposit&#246;r: Tim Bergling, Nicky Romero, , Jonnali P</span>
+        <span class="searchinfo">Sök: </span>
+        
+
+<a class="icon icnExternalLink spotify" href="http://open.spotify.com/search/artist:Avicii &amp; Nicky Romero%20track:I Could Be The One" rel="nofollow" target="_blank">Spotify</a>    
+<a class="icon icnExternalLink google" href="http://www.google.com/search?q=Avicii &amp; Nicky Romero I Could Be The One" rel="nofollow" target="_blank">Google</a>
+
+    </td>
+</tr>
+ <tr class="mainrow expand-container">
+    <td class="time">09:17</td>
+    <td>
+        <span class="artist">Gnucci </span>-<span class="title"> 360 Donna</span>
+    </td>
+    <td class="moreinfo tune-list">
+        <a title="Mer information" href="#" class="icon expand-trigger plus blue" rel="nofollow"></a>
+    </td>
+</tr>
+<tr class="expandrow expanded-content">
+    <td></td>
+    <td colspan="2">
+            <span class="composerinfo">Komposit&#246;r: Ana Rab, Ana Rab</span>
+        <span class="searchinfo">Sök: </span>
+        
+
+<a class="icon icnExternalLink spotify" href="http://open.spotify.com/search/artist:Gnucci%20track:360 Donna" rel="nofollow" target="_blank">Spotify</a>    
+<a class="icon icnExternalLink google" href="http://www.google.com/search?q=Gnucci 360 Donna" rel="nofollow" target="_blank">Google</a>
+
+    </td>
+</tr>
+ <tr class="mainrow expand-container">
+    <td class="time">09:21</td>
+    <td>
+        <span class="artist">Kesha </span>-<span class="title"> Die Young</span>
+    </td>
+    <td class="moreinfo tune-list">
+        <a title="Mer information" href="#" class="icon expand-trigger plus blue" rel="nofollow"></a>
+    </td>
+</tr>
+<tr class="expandrow expanded-content">
+    <td></td>
+    <td colspan="2">
+            <span class="composerinfo">Komposit&#246;r: Benjamin Levin, Lukasz Gottwald, Henry</span>
+        <span class="searchinfo">Sök: </span>
+        
+
+<a class="icon icnExternalLink spotify" href="http://open.spotify.com/search/artist:Kesha%20track:Die Young" rel="nofollow" target="_blank">Spotify</a>    
+<a class="icon icnExternalLink google" href="http://www.google.com/search?q=Kesha Die Young" rel="nofollow" target="_blank">Google</a>
+
+    </td>
+</tr>
+ <tr class="mainrow expand-container">
+    <td class="time">09:30</td>
+    <td>
+        <span class="artist">Imagine Dragons </span>-<span class="title"> It&#39;s Time</span>
+    </td>
+    <td class="moreinfo tune-list">
+        <a title="Mer information" href="#" class="icon expand-trigger plus blue" rel="nofollow"></a>
+    </td>
+</tr>
+<tr class="expandrow expanded-content">
+    <td></td>
+    <td colspan="2">
+        <span class="searchinfo">Sök: </span>
+        
+
+<a class="icon icnExternalLink spotify" href="http://open.spotify.com/search/artist:Imagine Dragons%20track:It&#39;s Time" rel="nofollow" target="_blank">Spotify</a>    
+<a class="icon icnExternalLink google" href="http://www.google.com/search?q=Imagine Dragons It&#39;s Time" rel="nofollow" target="_blank">Google</a>
+
+    </td>
+</tr>
+ <tr class="mainrow expand-container">
+    <td class="time">09:37</td>
+    <td>
+        <span class="artist">Ola </span>-<span class="title"> Overdrive</span>
+    </td>
+    <td class="moreinfo tune-list">
+        <a title="Mer information" href="#" class="icon expand-trigger plus blue" rel="nofollow"></a>
+    </td>
+</tr>
+<tr class="expandrow expanded-content">
+    <td></td>
+    <td colspan="2">
+        <span class="searchinfo">Sök: </span>
+        
+
+<a class="icon icnExternalLink spotify" href="http://open.spotify.com/search/artist:Ola%20track:Overdrive" rel="nofollow" target="_blank">Spotify</a>    
+<a class="icon icnExternalLink google" href="http://www.google.com/search?q=Ola Overdrive" rel="nofollow" target="_blank">Google</a>
+
+    </td>
+</tr>
+ <tr class="mainrow expand-container">
+    <td class="time">09:43</td>
+    <td>
+        <span class="artist">Kate Boy </span>-<span class="title"> Northern Lights</span>
+    </td>
+    <td class="moreinfo tune-list">
+        <a title="Mer information" href="#" class="icon expand-trigger plus blue" rel="nofollow"></a>
+    </td>
+</tr>
+<tr class="expandrow expanded-content">
+    <td></td>
+    <td colspan="2">
+            <span class="composerinfo">Komposit&#246;r: Kate Boy</span>
+        <span class="searchinfo">Sök: </span>
+        
+
+<a class="icon icnExternalLink spotify" href="http://open.spotify.com/search/artist:Kate Boy%20track:Northern Lights" rel="nofollow" target="_blank">Spotify</a>    
+<a class="icon icnExternalLink google" href="http://www.google.com/search?q=Kate Boy Northern Lights" rel="nofollow" target="_blank">Google</a>
+
+    </td>
+</tr>
+ <tr class="mainrow expand-container">
+    <td class="time">09:50</td>
+    <td>
+        <span class="artist">Norlie &amp; KKV </span>-<span class="title"> Nej</span>
+    </td>
+    <td class="moreinfo tune-list">
+        <a title="Mer information" href="#" class="icon expand-trigger plus blue" rel="nofollow"></a>
+    </td>
+</tr>
+<tr class="expandrow expanded-content">
+    <td></td>
+    <td colspan="2">
+            <span class="composerinfo">Komposit&#246;r: John Alexis Mendoza, Sonny Fahlberg, Ki</span>
+        <span class="searchinfo">Sök: </span>
+        
+
+<a class="icon icnExternalLink spotify" href="http://open.spotify.com/search/artist:Norlie &amp; KKV%20track:Nej" rel="nofollow" target="_blank">Spotify</a>    
+<a class="icon icnExternalLink google" href="http://www.google.com/search?q=Norlie &amp; KKV Nej" rel="nofollow" target="_blank">Google</a>
+
+    </td>
+</tr>        </tbody>
+    </table>    
+        <h2 class="small">F&#246;rmiddag</h2>
+    <table cellpadding="0" cellspacing="0">
+        <thead id="listhead">
+            <tr>
+                <th scope="col">Tid</th>
+                <th scope="col">Låt</th>
+                <th class="latlista" scope="col">Mer om låten</th>
+            </tr>
+        </thead>
+        <tbody id="listbody">
+
+ <tr class="mainrow expand-container">
+    <td class="time">10:03</td>
+    <td>
+        <span class="artist">Lissi Dancefloor Disaster </span>-<span class="title"> Try</span>
+    </td>
+    <td class="moreinfo tune-list">
+        <a title="Mer information" href="#" class="icon expand-trigger plus blue" rel="nofollow"></a>
+    </td>
+</tr>
+<tr class="expandrow expanded-content">
+    <td></td>
+    <td colspan="2">
+            <span class="composerinfo">Komposit&#246;r: Lissi Dancefloor Disaster</span>
+        <span class="searchinfo">Sök: </span>
+        
+
+<a class="icon icnExternalLink spotify" href="http://open.spotify.com/search/artist:Lissi Dancefloor Disaster%20track:Try" rel="nofollow" target="_blank">Spotify</a>    
+<a class="icon icnExternalLink google" href="http://www.google.com/search?q=Lissi Dancefloor Disaster Try" rel="nofollow" target="_blank">Google</a>
+
+    </td>
+</tr>
+ <tr class="mainrow expand-container">
+    <td class="time">10:10</td>
+    <td>
+        <span class="artist">John De Sohn &amp; Kristin Amparo </span>-<span class="title"> Dance Our Tears Away</span>
+    </td>
+    <td class="moreinfo tune-list">
+        <a title="Mer information" href="#" class="icon expand-trigger plus blue" rel="nofollow"></a>
+    </td>
+</tr>
+<tr class="expandrow expanded-content">
+    <td></td>
+    <td colspan="2">
+            <span class="composerinfo">Komposit&#246;r: Bj&#246;rn Johnsson, Andreas Moe, Bj&#246;rn John</span>
+        <span class="searchinfo">Sök: </span>
+        
+
+<a class="icon icnExternalLink spotify" href="http://open.spotify.com/search/artist:John De Sohn &amp; Kristin Amparo%20track:Dance Our Tears Away" rel="nofollow" target="_blank">Spotify</a>    
+<a class="icon icnExternalLink google" href="http://www.google.com/search?q=John De Sohn &amp; Kristin Amparo Dance Our Tears Away" rel="nofollow" target="_blank">Google</a>
+
+    </td>
+</tr>
+ <tr class="mainrow expand-container">
+    <td class="time">10:16</td>
+    <td>
+        <span class="artist">Solange </span>-<span class="title"> Losing You</span>
+    </td>
+    <td class="moreinfo tune-list">
+        <a title="Mer information" href="#" class="icon expand-trigger plus blue" rel="nofollow"></a>
+    </td>
+</tr>
+<tr class="expandrow expanded-content">
+    <td></td>
+    <td colspan="2">
+            <span class="composerinfo">Komposit&#246;r: Ok&#228;nd</span>
+        <span class="searchinfo">Sök: </span>
+        
+
+<a class="icon icnExternalLink spotify" href="http://open.spotify.com/search/artist:Solange%20track:Losing You" rel="nofollow" target="_blank">Spotify</a>    
+<a class="icon icnExternalLink google" href="http://www.google.com/search?q=Solange Losing You" rel="nofollow" target="_blank">Google</a>
+
+    </td>
+</tr>
+ <tr class="mainrow expand-container">
+    <td class="time">10:33</td>
+    <td>
+        <span class="artist">Tjuvjakt </span>-<span class="title"> Tandtr&#229;d</span>
+    </td>
+    <td class="moreinfo tune-list">
+        <a title="Mer information" href="#" class="icon expand-trigger plus blue" rel="nofollow"></a>
+    </td>
+</tr>
+<tr class="expandrow expanded-content">
+    <td></td>
+    <td colspan="2">
+            <span class="composerinfo">Komposit&#246;r: Grafstr&#246;m, Lundquist. Holmquist, Sv&#228;rd,</span>
+        <span class="searchinfo">Sök: </span>
+        
+
+<a class="icon icnExternalLink spotify" href="http://open.spotify.com/search/artist:Tjuvjakt%20track:Tandtr&#229;d" rel="nofollow" target="_blank">Spotify</a>    
+<a class="icon icnExternalLink google" href="http://www.google.com/search?q=Tjuvjakt Tandtr&#229;d" rel="nofollow" target="_blank">Google</a>
+
+    </td>
+</tr>
+ <tr class="mainrow expand-container">
+    <td class="time">10:39</td>
+    <td>
+        <span class="artist">Katy Perry &amp; Missy Elliot </span>-<span class="title"> Last Friday Night (T.G.I.F.)</span>
+    </td>
+    <td class="moreinfo tune-list">
+        <a title="Mer information" href="#" class="icon expand-trigger plus blue" rel="nofollow"></a>
+    </td>
+</tr>
+<tr class="expandrow expanded-content">
+    <td></td>
+    <td colspan="2">
+            <span class="composerinfo">Komposit&#246;r: anges ej</span>
+        <span class="searchinfo">Sök: </span>
+        
+
+<a class="icon icnExternalLink spotify" href="http://open.spotify.com/search/artist:Katy Perry &amp; Missy Elliot%20track:Last Friday Night (T.G.I.F.)" rel="nofollow" target="_blank">Spotify</a>    
+<a class="icon icnExternalLink google" href="http://www.google.com/search?q=Katy Perry &amp; Missy Elliot Last Friday Night (T.G.I.F.)" rel="nofollow" target="_blank">Google</a>
+
+    </td>
+</tr>
+ <tr class="mainrow expand-container">
+    <td class="time">10:47</td>
+    <td>
+        <span class="artist">Shout Out Louds </span>-<span class="title"> Walking In Your Footsteps</span>
+    </td>
+    <td class="moreinfo tune-list">
+        <a title="Mer information" href="#" class="icon expand-trigger plus blue" rel="nofollow"></a>
+    </td>
+</tr>
+<tr class="expandrow expanded-content">
+    <td></td>
+    <td colspan="2">
+            <span class="composerinfo">Komposit&#246;r: Adam Olenius, Adam Olenius</span>
+        <span class="searchinfo">Sök: </span>
+        
+
+<a class="icon icnExternalLink spotify" href="http://open.spotify.com/search/artist:Shout Out Louds%20track:Walking In Your Footsteps" rel="nofollow" target="_blank">Spotify</a>    
+<a class="icon icnExternalLink google" href="http://www.google.com/search?q=Shout Out Louds Walking In Your Footsteps" rel="nofollow" target="_blank">Google</a>
+
+    </td>
+</tr>
+ <tr class="mainrow expand-container">
+    <td class="time">10:54</td>
+    <td>
+        <span class="artist">Duvchi </span>-<span class="title"> Whole Life Tour</span>
+    </td>
+    <td class="moreinfo tune-list">
+        <a title="Mer information" href="#" class="icon expand-trigger plus blue" rel="nofollow"></a>
+    </td>
+</tr>
+<tr class="expandrow expanded-content">
+    <td></td>
+    <td colspan="2">
+            <span class="composerinfo">Komposit&#246;r: Jens Duvsj&#246;, Jens Duvsj&#246;</span>
+        <span class="searchinfo">Sök: </span>
+        
+
+<a class="icon icnExternalLink spotify" href="http://open.spotify.com/search/artist:Duvchi%20track:Whole Life Tour" rel="nofollow" target="_blank">Spotify</a>    
+<a class="icon icnExternalLink google" href="http://www.google.com/search?q=Duvchi Whole Life Tour" rel="nofollow" target="_blank">Google</a>
+
+    </td>
+</tr>
+ <tr class="mainrow expand-container">
+    <td class="time">10:57</td>
+    <td>
+        <span class="artist">Darin </span>-<span class="title"> En Apa Som Liknar Dig</span>
+    </td>
+    <td class="moreinfo tune-list">
+        <a title="Mer information" href="#" class="icon expand-trigger plus blue" rel="nofollow"></a>
+    </td>
+</tr>
+<tr class="expandrow expanded-content">
+    <td></td>
+    <td colspan="2">
+            <span class="recordinfo">Album: S&#229; Mycket B&#228;ttre 2012</span>
+            <span class="composerinfo">Komposit&#246;r: Heinz Liljedahl, Olle Ljungstr&#246;m, Heinz Liljedahl, Olle Ljungstr&#246;m</span>
+        <span class="searchinfo">Sök: </span>
+        
+
+<a class="icon icnExternalLink spotify" href="http://open.spotify.com/search/artist:Darin%20track:En Apa Som Liknar Dig" rel="nofollow" target="_blank">Spotify</a>    
+<a class="icon icnExternalLink google" href="http://www.google.com/search?q=Darin En Apa Som Liknar Dig" rel="nofollow" target="_blank">Google</a>
+
+    </td>
+</tr>
+ <tr class="mainrow expand-container">
+    <td class="time">11:03</td>
+    <td>
+        <span class="artist">Carlito &amp; Chords &amp; Fille </span>-<span class="title"> Aldrig tillbaka</span>
+    </td>
+    <td class="moreinfo tune-list">
+        <a title="Mer information" href="#" class="icon expand-trigger plus blue" rel="nofollow"></a>
+    </td>
+</tr>
+<tr class="expandrow expanded-content">
+    <td></td>
+    <td colspan="2">
+            <span class="composerinfo">Komposit&#246;r: Salla Salazar, Jens Resch, Juan Carlos,</span>
+        <span class="searchinfo">Sök: </span>
+        
+
+<a class="icon icnExternalLink spotify" href="http://open.spotify.com/search/artist:Carlito &amp; Chords &amp; Fille%20track:Aldrig tillbaka" rel="nofollow" target="_blank">Spotify</a>    
+<a class="icon icnExternalLink google" href="http://www.google.com/search?q=Carlito &amp; Chords &amp; Fille Aldrig tillbaka" rel="nofollow" target="_blank">Google</a>
+
+    </td>
+</tr>
+ <tr class="mainrow expand-container">
+    <td class="time">11:09</td>
+    <td>
+        <span class="artist">Rebecca &amp; Fiona &amp; Style of Eye </span>-<span class="title"> Taken Over</span>
+    </td>
+    <td class="moreinfo tune-list">
+        <a title="Mer information" href="#" class="icon expand-trigger plus blue" rel="nofollow"></a>
+    </td>
+</tr>
+<tr class="expandrow expanded-content">
+    <td></td>
+    <td colspan="2">
+            <span class="composerinfo">Komposit&#246;r: Style Of Eye</span>
+        <span class="searchinfo">Sök: </span>
+        
+
+<a class="icon icnExternalLink spotify" href="http://open.spotify.com/search/artist:Rebecca &amp; Fiona &amp; Style of Eye%20track:Taken Over" rel="nofollow" target="_blank">Spotify</a>    
+<a class="icon icnExternalLink google" href="http://www.google.com/search?q=Rebecca &amp; Fiona &amp; Style of Eye Taken Over" rel="nofollow" target="_blank">Google</a>
+
+    </td>
+</tr>
+ <tr class="mainrow expand-container">
+    <td class="time">11:36</td>
+    <td>
+        <span class="artist">Rihanna &amp; Mikky Ekko </span>-<span class="title"> Stay</span>
+    </td>
+    <td class="moreinfo tune-list">
+        <a title="Mer information" href="#" class="icon expand-trigger plus blue" rel="nofollow"></a>
+    </td>
+</tr>
+<tr class="expandrow expanded-content">
+    <td></td>
+    <td colspan="2">
+            <span class="composerinfo">Komposit&#246;r: Mikky Ekko &amp; Elof Loelv &amp; Justin Parker</span>
+        <span class="searchinfo">Sök: </span>
+        
+
+<a class="icon icnExternalLink spotify" href="http://open.spotify.com/search/artist:Rihanna &amp; Mikky Ekko%20track:Stay" rel="nofollow" target="_blank">Spotify</a>    
+<a class="icon icnExternalLink google" href="http://www.google.com/search?q=Rihanna &amp; Mikky Ekko Stay" rel="nofollow" target="_blank">Google</a>
+
+    </td>
+</tr>
+ <tr class="mainrow expand-container">
+    <td class="time">11:42</td>
+    <td>
+        <span class="artist">Robyn </span>-<span class="title"> Who&#39;s That Girl</span>
+    </td>
+    <td class="moreinfo tune-list">
+        <a title="Mer information" href="#" class="icon expand-trigger plus blue" rel="nofollow"></a>
+    </td>
+</tr>
+<tr class="expandrow expanded-content">
+    <td></td>
+    <td colspan="2">
+            <span class="recordinfo">Album: Robyn</span>
+            <span class="composerinfo">Komposit&#246;r: Robyn/CARLSSON, ROBYN (C,A) DREIJER, KARIN (C) DREIJER, OLOF (C) KRONLUND, A/DREIJER/k.dreijer/o.dreijer</span>
+        <span class="searchinfo">Sök: </span>
+        
+
+<a class="icon icnExternalLink spotify" href="http://open.spotify.com/search/artist:Robyn%20track:Who&#39;s That Girl" rel="nofollow" target="_blank">Spotify</a>    
+<a class="icon icnExternalLink google" href="http://www.google.com/search?q=Robyn Who&#39;s That Girl" rel="nofollow" target="_blank">Google</a>
+
+    </td>
+</tr>
+ <tr class="mainrow expand-container">
+    <td class="time">11:48</td>
+    <td>
+        <span class="artist">Of Monsters And Men </span>-<span class="title"> Little Talks</span>
+    </td>
+    <td class="moreinfo tune-list">
+        <a title="Mer information" href="#" class="icon expand-trigger plus blue" rel="nofollow"></a>
+    </td>
+</tr>
+<tr class="expandrow expanded-content">
+    <td></td>
+    <td colspan="2">
+            <span class="composerinfo">Komposit&#246;r: Nanna Bryndis Hilmarsdottir | Brynjar Leifsson | Arnar Rosenkranz Hilmarsson | Ragnar Thorhallsson</span>
+        <span class="searchinfo">Sök: </span>
+        
+
+<a class="icon icnExternalLink spotify" href="http://open.spotify.com/search/artist:Of Monsters And Men%20track:Little Talks" rel="nofollow" target="_blank">Spotify</a>    
+<a class="icon icnExternalLink google" href="http://www.google.com/search?q=Of Monsters And Men Little Talks" rel="nofollow" target="_blank">Google</a>
+
+    </td>
+</tr>
+ <tr class="mainrow expand-container">
+    <td class="time">11:52</td>
+    <td>
+        <span class="artist">Macklemore &amp; Ryan Lewis &amp; Wanz </span>-<span class="title"> Thrift Shop</span>
+    </td>
+    <td class="moreinfo tune-list">
+        <a title="Mer information" href="#" class="icon expand-trigger plus blue" rel="nofollow"></a>
+    </td>
+</tr>
+<tr class="expandrow expanded-content">
+    <td></td>
+    <td colspan="2">
+            <span class="composerinfo">Komposit&#246;r: .</span>
+        <span class="searchinfo">Sök: </span>
+        
+
+<a class="icon icnExternalLink spotify" href="http://open.spotify.com/search/artist:Macklemore &amp; Ryan Lewis &amp; Wanz%20track:Thrift Shop" rel="nofollow" target="_blank">Spotify</a>    
+<a class="icon icnExternalLink google" href="http://www.google.com/search?q=Macklemore &amp; Ryan Lewis &amp; Wanz Thrift Shop" rel="nofollow" target="_blank">Google</a>
+
+    </td>
+</tr>
+ <tr class="mainrow expand-container">
+    <td class="time">12:06</td>
+    <td>
+        <span class="artist">Chvrches </span>-<span class="title"> The Mother We Share</span>
+    </td>
+    <td class="moreinfo tune-list">
+        <a title="Mer information" href="#" class="icon expand-trigger plus blue" rel="nofollow"></a>
+    </td>
+</tr>
+<tr class="expandrow expanded-content">
+    <td></td>
+    <td colspan="2">
+        <span class="searchinfo">Sök: </span>
+        
+
+<a class="icon icnExternalLink spotify" href="http://open.spotify.com/search/artist:Chvrches%20track:The Mother We Share" rel="nofollow" target="_blank">Spotify</a>    
+<a class="icon icnExternalLink google" href="http://www.google.com/search?q=Chvrches The Mother We Share" rel="nofollow" target="_blank">Google</a>
+
+    </td>
+</tr>
+ <tr class="mainrow expand-container">
+    <td class="time">12:09</td>
+    <td>
+        <span class="artist">Kaah </span>-<span class="title"> Vill Bara Leka Mer</span>
+    </td>
+    <td class="moreinfo tune-list">
+        <a title="Mer information" href="#" class="icon expand-trigger plus blue" rel="nofollow"></a>
+    </td>
+</tr>
+<tr class="expandrow expanded-content">
+    <td></td>
+    <td colspan="2">
+            <span class="composerinfo">Komposit&#246;r: Kaah</span>
+        <span class="searchinfo">Sök: </span>
+        
+
+<a class="icon icnExternalLink spotify" href="http://open.spotify.com/search/artist:Kaah%20track:Vill Bara Leka Mer" rel="nofollow" target="_blank">Spotify</a>    
+<a class="icon icnExternalLink google" href="http://www.google.com/search?q=Kaah Vill Bara Leka Mer" rel="nofollow" target="_blank">Google</a>
+
+    </td>
+</tr>
+ <tr class="mainrow expand-container">
+    <td class="time">12:12</td>
+    <td>
+        <span class="artist">Siri Nilsen </span>-<span class="title"> Alle Snakker Sant</span>
+    </td>
+    <td class="moreinfo tune-list">
+        <a title="Mer information" href="#" class="icon expand-trigger plus blue" rel="nofollow"></a>
+    </td>
+</tr>
+<tr class="expandrow expanded-content">
+    <td></td>
+    <td colspan="2">
+        <span class="searchinfo">Sök: </span>
+        
+
+<a class="icon icnExternalLink spotify" href="http://open.spotify.com/search/artist:Siri Nilsen%20track:Alle Snakker Sant" rel="nofollow" target="_blank">Spotify</a>    
+<a class="icon icnExternalLink google" href="http://www.google.com/search?q=Siri Nilsen Alle Snakker Sant" rel="nofollow" target="_blank">Google</a>
+
+    </td>
+</tr>
+ <tr class="mainrow expand-container">
+    <td class="time">12:18</td>
+    <td>
+        <span class="artist">Johnossi </span>-<span class="title"> Gone Forever</span>
+    </td>
+    <td class="moreinfo tune-list">
+        <a title="Mer information" href="#" class="icon expand-trigger plus blue" rel="nofollow"></a>
+    </td>
+</tr>
+<tr class="expandrow expanded-content">
+    <td></td>
+    <td colspan="2">
+            <span class="composerinfo">Komposit&#246;r: John Engelbert, Oskar Bonde</span>
+        <span class="searchinfo">Sök: </span>
+        
+
+<a class="icon icnExternalLink spotify" href="http://open.spotify.com/search/artist:Johnossi%20track:Gone Forever" rel="nofollow" target="_blank">Spotify</a>    
+<a class="icon icnExternalLink google" href="http://www.google.com/search?q=Johnossi Gone Forever" rel="nofollow" target="_blank">Google</a>
+
+    </td>
+</tr>
+ <tr class="mainrow expand-container">
+    <td class="time">12:22</td>
+    <td>
+        <span class="artist">Zara Larsson </span>-<span class="title"> Uncover</span>
+    </td>
+    <td class="moreinfo tune-list">
+        <a title="Mer information" href="#" class="icon expand-trigger plus blue" rel="nofollow"></a>
+    </td>
+</tr>
+<tr class="expandrow expanded-content">
+    <td></td>
+    <td colspan="2">
+            <span class="composerinfo">Komposit&#246;r: -</span>
+        <span class="searchinfo">Sök: </span>
+        
+
+<a class="icon icnExternalLink spotify" href="http://open.spotify.com/search/artist:Zara Larsson%20track:Uncover" rel="nofollow" target="_blank">Spotify</a>    
+<a class="icon icnExternalLink google" href="http://www.google.com/search?q=Zara Larsson Uncover" rel="nofollow" target="_blank">Google</a>
+
+    </td>
+</tr>
+ <tr class="mainrow expand-container">
+    <td class="time">12:27</td>
+    <td>
+        <span class="artist">Kleerup [+] Robyn </span>-<span class="title"> With Every Heartbeat</span>
+    </td>
+    <td class="moreinfo tune-list">
+        <a title="Mer information" href="#" class="icon expand-trigger plus blue" rel="nofollow"></a>
+    </td>
+</tr>
+<tr class="expandrow expanded-content">
+    <td></td>
+    <td colspan="2">
+        <span class="searchinfo">Sök: </span>
+        
+
+<a class="icon icnExternalLink spotify" href="http://open.spotify.com/search/artist:Kleerup [+] Robyn%20track:With Every Heartbeat" rel="nofollow" target="_blank">Spotify</a>    
+<a class="icon icnExternalLink google" href="http://www.google.com/search?q=Kleerup [+] Robyn With Every Heartbeat" rel="nofollow" target="_blank">Google</a>
+
+    </td>
+</tr>
+ <tr class="mainrow expand-container">
+    <td class="time">12:33</td>
+    <td>
+        <span class="artist">Icona Pop </span>-<span class="title"> We Got The World</span>
+    </td>
+    <td class="moreinfo tune-list">
+        <a title="Mer information" href="#" class="icon expand-trigger plus blue" rel="nofollow"></a>
+    </td>
+</tr>
+<tr class="expandrow expanded-content">
+    <td></td>
+    <td colspan="2">
+            <span class="composerinfo">Komposit&#246;r: Elof Loelv,Aino Jawo</span>
+        <span class="searchinfo">Sök: </span>
+        
+
+<a class="icon icnExternalLink spotify" href="http://open.spotify.com/search/artist:Icona Pop%20track:We Got The World" rel="nofollow" target="_blank">Spotify</a>    
+<a class="icon icnExternalLink google" href="http://www.google.com/search?q=Icona Pop We Got The World" rel="nofollow" target="_blank">Google</a>
+
+    </td>
+</tr>
+ <tr class="mainrow expand-container">
+    <td class="time">12:35</td>
+    <td>
+        <span class="artist">Milo Greene </span>-<span class="title"> 1957</span>
+    </td>
+    <td class="moreinfo tune-list">
+        <a title="Mer information" href="#" class="icon expand-trigger plus blue" rel="nofollow"></a>
+    </td>
+</tr>
+<tr class="expandrow expanded-content">
+    <td></td>
+    <td colspan="2">
+            <span class="composerinfo">Komposit&#246;r: Milo Greene</span>
+        <span class="searchinfo">Sök: </span>
+        
+
+<a class="icon icnExternalLink spotify" href="http://open.spotify.com/search/artist:Milo Greene%20track:1957" rel="nofollow" target="_blank">Spotify</a>    
+<a class="icon icnExternalLink google" href="http://www.google.com/search?q=Milo Greene 1957" rel="nofollow" target="_blank">Google</a>
+
+    </td>
+</tr>
+ <tr class="mainrow expand-container">
+    <td class="time">12:39</td>
+    <td>
+        <span class="artist">Petter &amp; Daniel Adams-Ray </span>-<span class="title"> H&#229;ll Om Mig</span>
+    </td>
+    <td class="moreinfo tune-list">
+        <a title="Mer information" href="#" class="icon expand-trigger plus blue" rel="nofollow"></a>
+    </td>
+</tr>
+<tr class="expandrow expanded-content">
+    <td></td>
+    <td colspan="2">
+            <span class="composerinfo">Komposit&#246;r: M. Lideh&#228;ll, S. Al-Fakir, V. Pontare, P</span>
+        <span class="searchinfo">Sök: </span>
+        
+
+<a class="icon icnExternalLink spotify" href="http://open.spotify.com/search/artist:Petter &amp; Daniel Adams-Ray%20track:H&#229;ll Om Mig" rel="nofollow" target="_blank">Spotify</a>    
+<a class="icon icnExternalLink google" href="http://www.google.com/search?q=Petter &amp; Daniel Adams-Ray H&#229;ll Om Mig" rel="nofollow" target="_blank">Google</a>
+
+    </td>
+</tr>
+ <tr class="mainrow expand-container">
+    <td class="time">12:43</td>
+    <td>
+        <span class="artist">Avicii &amp; Nicky Romero </span>-<span class="title"> I Could Be The One</span>
+    </td>
+    <td class="moreinfo tune-list">
+        <a title="Mer information" href="#" class="icon expand-trigger plus blue" rel="nofollow"></a>
+    </td>
+</tr>
+<tr class="expandrow expanded-content">
+    <td></td>
+    <td colspan="2">
+            <span class="composerinfo">Komposit&#246;r: Tim Bergling, Nicky Romero, , Jonnali P</span>
+        <span class="searchinfo">Sök: </span>
+        
+
+<a class="icon icnExternalLink spotify" href="http://open.spotify.com/search/artist:Avicii &amp; Nicky Romero%20track:I Could Be The One" rel="nofollow" target="_blank">Spotify</a>    
+<a class="icon icnExternalLink google" href="http://www.google.com/search?q=Avicii &amp; Nicky Romero I Could Be The One" rel="nofollow" target="_blank">Google</a>
+
+    </td>
+</tr>
+ <tr class="mainrow expand-container">
+    <td class="time">12:47</td>
+    <td>
+        <span class="artist">Aki &amp; Kapten R&#246;d </span>-<span class="title"> N&#228;r solen g&#229;r ner</span>
+    </td>
+    <td class="moreinfo tune-list">
+        <a title="Mer information" href="#" class="icon expand-trigger plus blue" rel="nofollow"></a>
+    </td>
+</tr>
+<tr class="expandrow expanded-content">
+    <td></td>
+    <td colspan="2">
+            <span class="composerinfo">Komposit&#246;r: Aleksi Swallow, Bj&#246;rn Nilson, Masse Sal</span>
+        <span class="searchinfo">Sök: </span>
+        
+
+<a class="icon icnExternalLink spotify" href="http://open.spotify.com/search/artist:Aki &amp; Kapten R&#246;d%20track:N&#228;r solen g&#229;r ner" rel="nofollow" target="_blank">Spotify</a>    
+<a class="icon icnExternalLink google" href="http://www.google.com/search?q=Aki &amp; Kapten R&#246;d N&#228;r solen g&#229;r ner" rel="nofollow" target="_blank">Google</a>
+
+    </td>
+</tr>
+ <tr class="mainrow expand-container">
+    <td class="time">12:50</td>
+    <td>
+        <span class="artist">Shout Out Louds </span>-<span class="title"> Walking In Your Footsteps</span>
+    </td>
+    <td class="moreinfo tune-list">
+        <a title="Mer information" href="#" class="icon expand-trigger plus blue" rel="nofollow"></a>
+    </td>
+</tr>
+<tr class="expandrow expanded-content">
+    <td></td>
+    <td colspan="2">
+            <span class="composerinfo">Komposit&#246;r: Adam Olenius, Adam Olenius</span>
+        <span class="searchinfo">Sök: </span>
+        
+
+<a class="icon icnExternalLink spotify" href="http://open.spotify.com/search/artist:Shout Out Louds%20track:Walking In Your Footsteps" rel="nofollow" target="_blank">Spotify</a>    
+<a class="icon icnExternalLink google" href="http://www.google.com/search?q=Shout Out Louds Walking In Your Footsteps" rel="nofollow" target="_blank">Google</a>
+
+    </td>
+</tr>
+ <tr class="mainrow expand-container">
+    <td class="time">12:54</td>
+    <td>
+        <span class="artist">Tame Impala </span>-<span class="title"> Feels Like We Only Go Backwards</span>
+    </td>
+    <td class="moreinfo tune-list">
+        <a title="Mer information" href="#" class="icon expand-trigger plus blue" rel="nofollow"></a>
+    </td>
+</tr>
+<tr class="expandrow expanded-content">
+    <td></td>
+    <td colspan="2">
+            <span class="composerinfo">Komposit&#246;r: Kevin Parker</span>
+        <span class="searchinfo">Sök: </span>
+        
+
+<a class="icon icnExternalLink spotify" href="http://open.spotify.com/search/artist:Tame Impala%20track:Feels Like We Only Go Backwards" rel="nofollow" target="_blank">Spotify</a>    
+<a class="icon icnExternalLink google" href="http://www.google.com/search?q=Tame Impala Feels Like We Only Go Backwards" rel="nofollow" target="_blank">Google</a>
+
+    </td>
+</tr>
+ <tr class="mainrow expand-container">
+    <td class="time">12:57</td>
+    <td>
+        <span class="artist">Bobastian </span>-<span class="title"> Samma Som Dom</span>
+    </td>
+    <td class="moreinfo tune-list">
+        <a title="Mer information" href="#" class="icon expand-trigger plus blue" rel="nofollow"></a>
+    </td>
+</tr>
+<tr class="expandrow expanded-content">
+    <td></td>
+    <td colspan="2">
+            <span class="composerinfo">Komposit&#246;r: Aspenskog, Esping, Nordling, Johansson</span>
+        <span class="searchinfo">Sök: </span>
+        
+
+<a class="icon icnExternalLink spotify" href="http://open.spotify.com/search/artist:Bobastian%20track:Samma Som Dom" rel="nofollow" target="_blank">Spotify</a>    
+<a class="icon icnExternalLink google" href="http://www.google.com/search?q=Bobastian Samma Som Dom" rel="nofollow" target="_blank">Google</a>
+
+    </td>
+</tr>
+ <tr class="mainrow expand-container">
+    <td class="time">13:04</td>
+    <td>
+        <span class="artist">Nause </span>-<span class="title"> This Is The Song</span>
+    </td>
+    <td class="moreinfo tune-list">
+        <a title="Mer information" href="#" class="icon expand-trigger plus blue" rel="nofollow"></a>
+    </td>
+</tr>
+<tr class="expandrow expanded-content">
+    <td></td>
+    <td colspan="2">
+            <span class="composerinfo">Komposit&#246;r: Jacob Criborn, Lenoard Scheja</span>
+        <span class="searchinfo">Sök: </span>
+        
+
+<a class="icon icnExternalLink spotify" href="http://open.spotify.com/search/artist:Nause%20track:This Is The Song" rel="nofollow" target="_blank">Spotify</a>    
+<a class="icon icnExternalLink google" href="http://www.google.com/search?q=Nause This Is The Song" rel="nofollow" target="_blank">Google</a>
+
+    </td>
+</tr>
+ <tr class="mainrow expand-container">
+    <td class="time">13:07</td>
+    <td>
+        <span class="artist">The Lumineers </span>-<span class="title"> Ho Hey</span>
+    </td>
+    <td class="moreinfo tune-list">
+        <a title="Mer information" href="#" class="icon expand-trigger plus blue" rel="nofollow"></a>
+    </td>
+</tr>
+<tr class="expandrow expanded-content">
+    <td></td>
+    <td colspan="2">
+            <span class="composerinfo">Komposit&#246;r: The Lumineers, Ryan Hadlock</span>
+        <span class="searchinfo">Sök: </span>
+        
+
+<a class="icon icnExternalLink spotify" href="http://open.spotify.com/search/artist:The Lumineers%20track:Ho Hey" rel="nofollow" target="_blank">Spotify</a>    
+<a class="icon icnExternalLink google" href="http://www.google.com/search?q=The Lumineers Ho Hey" rel="nofollow" target="_blank">Google</a>
+
+    </td>
+</tr>
+ <tr class="mainrow expand-container">
+    <td class="time">13:11</td>
+    <td>
+        <span class="artist">Oskar Linnros </span>-<span class="title"> Fr&#229;n Och Med Du</span>
+    </td>
+    <td class="moreinfo tune-list">
+        <a title="Mer information" href="#" class="icon expand-trigger plus blue" rel="nofollow"></a>
+    </td>
+</tr>
+<tr class="expandrow expanded-content">
+    <td></td>
+    <td colspan="2">
+        <span class="searchinfo">Sök: </span>
+        
+
+<a class="icon icnExternalLink spotify" href="http://open.spotify.com/search/artist:Oskar Linnros%20track:Fr&#229;n Och Med Du" rel="nofollow" target="_blank">Spotify</a>    
+<a class="icon icnExternalLink google" href="http://www.google.com/search?q=Oskar Linnros Fr&#229;n Och Med Du" rel="nofollow" target="_blank">Google</a>
+
+    </td>
+</tr>
+ <tr class="mainrow expand-container">
+    <td class="time">13:26</td>
+    <td>
+        <span class="artist">Baboon Show </span>-<span class="title"> Queen of the Dagger</span>
+    </td>
+    <td class="moreinfo tune-list">
+        <a title="Mer information" href="#" class="icon expand-trigger plus blue" rel="nofollow"></a>
+    </td>
+</tr>
+<tr class="expandrow expanded-content">
+    <td></td>
+    <td colspan="2">
+            <span class="recordinfo">Album: People&#39;s Republic of the Baboon Show Formerly Known as Sweden</span>
+            <span class="composerinfo">Komposit&#246;r: Baboon Show</span>
+        <span class="searchinfo">Sök: </span>
+        
+
+<a class="icon icnExternalLink spotify" href="http://open.spotify.com/search/artist:Baboon Show%20track:Queen of the Dagger" rel="nofollow" target="_blank">Spotify</a>    
+<a class="icon icnExternalLink google" href="http://www.google.com/search?q=Baboon Show Queen of the Dagger" rel="nofollow" target="_blank">Google</a>
+
+    </td>
+</tr>
+ <tr class="mainrow expand-container">
+    <td class="time">13:34</td>
+    <td>
+        <span class="artist">Will.I.Am &amp; Britney Spears </span>-<span class="title"> Scream &amp; Shout</span>
+    </td>
+    <td class="moreinfo tune-list">
+        <a title="Mer information" href="#" class="icon expand-trigger plus blue" rel="nofollow"></a>
+    </td>
+</tr>
+<tr class="expandrow expanded-content">
+    <td></td>
+    <td colspan="2">
+            <span class="composerinfo">Komposit&#246;r: William Adams, Jef Martens. , William A</span>
+        <span class="searchinfo">Sök: </span>
+        
+
+<a class="icon icnExternalLink spotify" href="http://open.spotify.com/search/artist:Will.I.Am &amp; Britney Spears%20track:Scream &amp; Shout" rel="nofollow" target="_blank">Spotify</a>    
+<a class="icon icnExternalLink google" href="http://www.google.com/search?q=Will.I.Am &amp; Britney Spears Scream &amp; Shout" rel="nofollow" target="_blank">Google</a>
+
+    </td>
+</tr>
+ <tr class="mainrow expand-container">
+    <td class="time">13:37</td>
+    <td>
+        <span class="artist">Zacke &amp; Timbuktu </span>-<span class="title"> Minicall</span>
+    </td>
+    <td class="moreinfo tune-list">
+        <a title="Mer information" href="#" class="icon expand-trigger plus blue" rel="nofollow"></a>
+    </td>
+</tr>
+<tr class="expandrow expanded-content">
+    <td></td>
+    <td colspan="2">
+            <span class="composerinfo">Komposit&#246;r: Anders Rensfeldt, Zakarias Lekberg, Jas</span>
+        <span class="searchinfo">Sök: </span>
+        
+
+<a class="icon icnExternalLink spotify" href="http://open.spotify.com/search/artist:Zacke &amp; Timbuktu%20track:Minicall" rel="nofollow" target="_blank">Spotify</a>    
+<a class="icon icnExternalLink google" href="http://www.google.com/search?q=Zacke &amp; Timbuktu Minicall" rel="nofollow" target="_blank">Google</a>
+
+    </td>
+</tr>
+ <tr class="mainrow expand-container">
+    <td class="time">13:47</td>
+    <td>
+        <span class="artist">Imagine Dragons </span>-<span class="title"> It&#39;s Time</span>
+    </td>
+    <td class="moreinfo tune-list">
+        <a title="Mer information" href="#" class="icon expand-trigger plus blue" rel="nofollow"></a>
+    </td>
+</tr>
+<tr class="expandrow expanded-content">
+    <td></td>
+    <td colspan="2">
+        <span class="searchinfo">Sök: </span>
+        
+
+<a class="icon icnExternalLink spotify" href="http://open.spotify.com/search/artist:Imagine Dragons%20track:It&#39;s Time" rel="nofollow" target="_blank">Spotify</a>    
+<a class="icon icnExternalLink google" href="http://www.google.com/search?q=Imagine Dragons It&#39;s Time" rel="nofollow" target="_blank">Google</a>
+
+    </td>
+</tr>
+ <tr class="mainrow expand-container">
+    <td class="time">13:55</td>
+    <td>
+        <span class="artist">M&#248; </span>-<span class="title"> Glass</span>
+    </td>
+    <td class="moreinfo tune-list">
+        <a title="Mer information" href="#" class="icon expand-trigger plus blue" rel="nofollow"></a>
+    </td>
+</tr>
+<tr class="expandrow expanded-content">
+    <td></td>
+    <td colspan="2">
+            <span class="composerinfo">Komposit&#246;r: Karen Marie &#216;rsted, Ronni Vindahl, Augu</span>
+        <span class="searchinfo">Sök: </span>
+        
+
+<a class="icon icnExternalLink spotify" href="http://open.spotify.com/search/artist:M&#248;%20track:Glass" rel="nofollow" target="_blank">Spotify</a>    
+<a class="icon icnExternalLink google" href="http://www.google.com/search?q=M&#248; Glass" rel="nofollow" target="_blank">Google</a>
+
+    </td>
+</tr>        </tbody>
+    </table>    
+        <h2 class="small">Eftermiddag</h2>
+    <table cellpadding="0" cellspacing="0">
+        <thead id="listhead">
+            <tr>
+                <th scope="col">Tid</th>
+                <th scope="col">Låt</th>
+                <th class="latlista" scope="col">Mer om låten</th>
+            </tr>
+        </thead>
+        <tbody id="listbody">
+
+ <tr class="mainrow expand-container">
+    <td class="time">14:01</td>
+    <td>
+        <span class="artist">Solange </span>-<span class="title"> Losing You</span>
+    </td>
+    <td class="moreinfo tune-list">
+        <a title="Mer information" href="#" class="icon expand-trigger plus blue" rel="nofollow"></a>
+    </td>
+</tr>
+<tr class="expandrow expanded-content">
+    <td></td>
+    <td colspan="2">
+            <span class="composerinfo">Komposit&#246;r: Ok&#228;nd</span>
+        <span class="searchinfo">Sök: </span>
+        
+
+<a class="icon icnExternalLink spotify" href="http://open.spotify.com/search/artist:Solange%20track:Losing You" rel="nofollow" target="_blank">Spotify</a>    
+<a class="icon icnExternalLink google" href="http://www.google.com/search?q=Solange Losing You" rel="nofollow" target="_blank">Google</a>
+
+    </td>
+</tr>
+ <tr class="mainrow expand-container">
+    <td class="time">14:05</td>
+    <td>
+        <span class="artist">Nicole Saboun&#233; </span>-<span class="title"> Conquer or Suffer</span>
+    </td>
+    <td class="moreinfo tune-list">
+        <a title="Mer information" href="#" class="icon expand-trigger plus blue" rel="nofollow"></a>
+    </td>
+</tr>
+<tr class="expandrow expanded-content">
+    <td></td>
+    <td colspan="2">
+            <span class="composerinfo">Komposit&#246;r: Nicole Saboun&#233;/Nicklas Stenemo , Nicole</span>
+        <span class="searchinfo">Sök: </span>
+        
+
+<a class="icon icnExternalLink spotify" href="http://open.spotify.com/search/artist:Nicole Saboun&#233;%20track:Conquer or Suffer" rel="nofollow" target="_blank">Spotify</a>    
+<a class="icon icnExternalLink google" href="http://www.google.com/search?q=Nicole Saboun&#233; Conquer or Suffer" rel="nofollow" target="_blank">Google</a>
+
+    </td>
+</tr>
+ <tr class="mainrow expand-container">
+    <td class="time">14:12</td>
+    <td>
+        <span class="artist">Miguel </span>-<span class="title"> Do You</span>
+    </td>
+    <td class="moreinfo tune-list">
+        <a title="Mer information" href="#" class="icon expand-trigger plus blue" rel="nofollow"></a>
+    </td>
+</tr>
+<tr class="expandrow expanded-content">
+    <td></td>
+    <td colspan="2">
+        <span class="searchinfo">Sök: </span>
+        
+
+<a class="icon icnExternalLink spotify" href="http://open.spotify.com/search/artist:Miguel%20track:Do You" rel="nofollow" target="_blank">Spotify</a>    
+<a class="icon icnExternalLink google" href="http://www.google.com/search?q=Miguel Do You" rel="nofollow" target="_blank">Google</a>
+
+    </td>
+</tr>
+ <tr class="mainrow expand-container">
+    <td class="time">14:25</td>
+    <td>
+        <span class="artist">Kesha </span>-<span class="title"> Die Young</span>
+    </td>
+    <td class="moreinfo tune-list">
+        <a title="Mer information" href="#" class="icon expand-trigger plus blue" rel="nofollow"></a>
+    </td>
+</tr>
+<tr class="expandrow expanded-content">
+    <td></td>
+    <td colspan="2">
+            <span class="composerinfo">Komposit&#246;r: Benjamin Levin, Lukasz Gottwald, Henry</span>
+        <span class="searchinfo">Sök: </span>
+        
+
+<a class="icon icnExternalLink spotify" href="http://open.spotify.com/search/artist:Kesha%20track:Die Young" rel="nofollow" target="_blank">Spotify</a>    
+<a class="icon icnExternalLink google" href="http://www.google.com/search?q=Kesha Die Young" rel="nofollow" target="_blank">Google</a>
+
+    </td>
+</tr>
+ <tr class="mainrow expand-container">
+    <td class="time">14:29</td>
+    <td>
+        <span class="artist">Dani M </span>-<span class="title"> En Som Mej</span>
+    </td>
+    <td class="moreinfo tune-list">
+        <a title="Mer information" href="#" class="icon expand-trigger plus blue" rel="nofollow"></a>
+    </td>
+</tr>
+<tr class="expandrow expanded-content">
+    <td></td>
+    <td colspan="2">
+            <span class="composerinfo">Komposit&#246;r: -</span>
+        <span class="searchinfo">Sök: </span>
+        
+
+<a class="icon icnExternalLink spotify" href="http://open.spotify.com/search/artist:Dani M%20track:En Som Mej" rel="nofollow" target="_blank">Spotify</a>    
+<a class="icon icnExternalLink google" href="http://www.google.com/search?q=Dani M En Som Mej" rel="nofollow" target="_blank">Google</a>
+
+    </td>
+</tr>
+ <tr class="mainrow expand-container">
+    <td class="time">14:38</td>
+    <td>
+        <span class="artist">Petra Marklund </span>-<span class="title"> Sanningen (Punchy Radio Remix)</span>
+    </td>
+    <td class="moreinfo tune-list">
+        <a title="Mer information" href="#" class="icon expand-trigger plus blue" rel="nofollow"></a>
+    </td>
+</tr>
+<tr class="expandrow expanded-content">
+    <td></td>
+    <td colspan="2">
+            <span class="composerinfo">Komposit&#246;r: Jocke Berg, Saska Becker och Daniel Led</span>
+        <span class="searchinfo">Sök: </span>
+        
+
+<a class="icon icnExternalLink spotify" href="http://open.spotify.com/search/artist:Petra Marklund%20track:Sanningen (Punchy Radio Remix)" rel="nofollow" target="_blank">Spotify</a>    
+<a class="icon icnExternalLink google" href="http://www.google.com/search?q=Petra Marklund Sanningen (Punchy Radio Remix)" rel="nofollow" target="_blank">Google</a>
+
+    </td>
+</tr>
+ <tr class="mainrow expand-container">
+    <td class="time">14:46</td>
+    <td>
+        <span class="artist">Mumford &amp; Sons </span>-<span class="title"> I Will Wait</span>
+    </td>
+    <td class="moreinfo tune-list">
+        <a title="Mer information" href="#" class="icon expand-trigger plus blue" rel="nofollow"></a>
+    </td>
+</tr>
+<tr class="expandrow expanded-content">
+    <td></td>
+    <td colspan="2">
+            <span class="recordinfo">Album: Babel</span>
+            <span class="composerinfo">Komposit&#246;r: Mumford &amp; Sons</span>
+        <span class="searchinfo">Sök: </span>
+        
+
+<a class="icon icnExternalLink spotify" href="http://open.spotify.com/search/artist:Mumford &amp; Sons%20track:I Will Wait" rel="nofollow" target="_blank">Spotify</a>    
+<a class="icon icnExternalLink google" href="http://www.google.com/search?q=Mumford &amp; Sons I Will Wait" rel="nofollow" target="_blank">Google</a>
+
+    </td>
+</tr>
+ <tr class="mainrow expand-container">
+    <td class="time">14:55</td>
+    <td>
+        <span class="artist">Sibille Attar </span>-<span class="title"> Come Night</span>
+    </td>
+    <td class="moreinfo tune-list">
+        <a title="Mer information" href="#" class="icon expand-trigger plus blue" rel="nofollow"></a>
+    </td>
+</tr>
+<tr class="expandrow expanded-content">
+    <td></td>
+    <td colspan="2">
+            <span class="composerinfo">Komposit&#246;r: Bj&#246;rn Yttling, Sibille Attar, Bj&#246;rn Ytt</span>
+        <span class="searchinfo">Sök: </span>
+        
+
+<a class="icon icnExternalLink spotify" href="http://open.spotify.com/search/artist:Sibille Attar%20track:Come Night" rel="nofollow" target="_blank">Spotify</a>    
+<a class="icon icnExternalLink google" href="http://www.google.com/search?q=Sibille Attar Come Night" rel="nofollow" target="_blank">Google</a>
+
+    </td>
+</tr>
+ <tr class="mainrow expand-container">
+    <td class="time">15:02</td>
+    <td>
+        <span class="artist">Britta Persson </span>-<span class="title"> Baby No Name (Radio Edit)</span>
+    </td>
+    <td class="moreinfo tune-list">
+        <a title="Mer information" href="#" class="icon expand-trigger plus blue" rel="nofollow"></a>
+    </td>
+</tr>
+<tr class="expandrow expanded-content">
+    <td></td>
+    <td colspan="2">
+            <span class="composerinfo">Komposit&#246;r: Britta Persson. Co-writers: Markus J&#228;ge</span>
+        <span class="searchinfo">Sök: </span>
+        
+
+<a class="icon icnExternalLink spotify" href="http://open.spotify.com/search/artist:Britta Persson%20track:Baby No Name (Radio Edit)" rel="nofollow" target="_blank">Spotify</a>    
+<a class="icon icnExternalLink google" href="http://www.google.com/search?q=Britta Persson Baby No Name (Radio Edit)" rel="nofollow" target="_blank">Google</a>
+
+    </td>
+</tr>
+ <tr class="mainrow expand-container">
+    <td class="time">15:05</td>
+    <td>
+        <span class="artist">Passenger </span>-<span class="title"> Let Her Go</span>
+    </td>
+    <td class="moreinfo tune-list">
+        <a title="Mer information" href="#" class="icon expand-trigger plus blue" rel="nofollow"></a>
+    </td>
+</tr>
+<tr class="expandrow expanded-content">
+    <td></td>
+    <td colspan="2">
+            <span class="composerinfo">Komposit&#246;r: Mike Rosenberg, Mike Rosenberg</span>
+        <span class="searchinfo">Sök: </span>
+        
+
+<a class="icon icnExternalLink spotify" href="http://open.spotify.com/search/artist:Passenger%20track:Let Her Go" rel="nofollow" target="_blank">Spotify</a>    
+<a class="icon icnExternalLink google" href="http://www.google.com/search?q=Passenger Let Her Go" rel="nofollow" target="_blank">Google</a>
+
+    </td>
+</tr>
+ <tr class="mainrow expand-container">
+    <td class="time">15:16</td>
+    <td>
+        <span class="artist">Otto Knows </span>-<span class="title"> Million Voices</span>
+    </td>
+    <td class="moreinfo tune-list">
+        <a title="Mer information" href="#" class="icon expand-trigger plus blue" rel="nofollow"></a>
+    </td>
+</tr>
+<tr class="expandrow expanded-content">
+    <td></td>
+    <td colspan="2">
+            <span class="composerinfo">Komposit&#246;r: Otto Jettmann</span>
+        <span class="searchinfo">Sök: </span>
+        
+
+<a class="icon icnExternalLink spotify" href="http://open.spotify.com/search/artist:Otto Knows%20track:Million Voices" rel="nofollow" target="_blank">Spotify</a>    
+<a class="icon icnExternalLink google" href="http://www.google.com/search?q=Otto Knows Million Voices" rel="nofollow" target="_blank">Google</a>
+
+    </td>
+</tr>
+ <tr class="mainrow expand-container">
+    <td class="time">15:26</td>
+    <td>
+        <span class="artist">First Aid Kit &amp; Conor Oberst </span>-<span class="title"> King Of The World</span>
+    </td>
+    <td class="moreinfo tune-list">
+        <a title="Mer information" href="#" class="icon expand-trigger plus blue" rel="nofollow"></a>
+    </td>
+</tr>
+<tr class="expandrow expanded-content">
+    <td></td>
+    <td colspan="2">
+            <span class="recordinfo">Album: The Lion&#39;s Roar</span>
+            <span class="composerinfo">Komposit&#246;r: Conor Oberst | Johanna S&#246;derberg | Klar</span>
+        <span class="searchinfo">Sök: </span>
+        
+
+<a class="icon icnExternalLink spotify" href="http://open.spotify.com/search/artist:First Aid Kit &amp; Conor Oberst%20track:King Of The World" rel="nofollow" target="_blank">Spotify</a>    
+<a class="icon icnExternalLink google" href="http://www.google.com/search?q=First Aid Kit &amp; Conor Oberst King Of The World" rel="nofollow" target="_blank">Google</a>
+
+    </td>
+</tr>
+ <tr class="mainrow expand-container">
+    <td class="time">15:38</td>
+    <td>
+        <span class="artist">Zara Larsson </span>-<span class="title"> Uncover</span>
+    </td>
+    <td class="moreinfo tune-list">
+        <a title="Mer information" href="#" class="icon expand-trigger plus blue" rel="nofollow"></a>
+    </td>
+</tr>
+<tr class="expandrow expanded-content">
+    <td></td>
+    <td colspan="2">
+            <span class="composerinfo">Komposit&#246;r: -</span>
+        <span class="searchinfo">Sök: </span>
+        
+
+<a class="icon icnExternalLink spotify" href="http://open.spotify.com/search/artist:Zara Larsson%20track:Uncover" rel="nofollow" target="_blank">Spotify</a>    
+<a class="icon icnExternalLink google" href="http://www.google.com/search?q=Zara Larsson Uncover" rel="nofollow" target="_blank">Google</a>
+
+    </td>
+</tr>
+ <tr class="mainrow expand-container">
+    <td class="time">15:48</td>
+    <td>
+        <span class="artist">Jessie Ware </span>-<span class="title"> If You&#39;re Never Gonna Move</span>
+    </td>
+    <td class="moreinfo tune-list">
+        <a title="Mer information" href="#" class="icon expand-trigger plus blue" rel="nofollow"></a>
+    </td>
+</tr>
+<tr class="expandrow expanded-content">
+    <td></td>
+    <td colspan="2">
+            <span class="composerinfo">Komposit&#246;r: Julio Bashmore | Jessie Ware</span>
+        <span class="searchinfo">Sök: </span>
+        
+
+<a class="icon icnExternalLink spotify" href="http://open.spotify.com/search/artist:Jessie Ware%20track:If You&#39;re Never Gonna Move" rel="nofollow" target="_blank">Spotify</a>    
+<a class="icon icnExternalLink google" href="http://www.google.com/search?q=Jessie Ware If You&#39;re Never Gonna Move" rel="nofollow" target="_blank">Google</a>
+
+    </td>
+</tr>
+ <tr class="mainrow expand-container">
+    <td class="time">15:57</td>
+    <td>
+        <span class="artist">Haim </span>-<span class="title"> Don&#39;t Save Me</span>
+    </td>
+    <td class="moreinfo tune-list">
+        <a title="Mer information" href="#" class="icon expand-trigger plus blue" rel="nofollow"></a>
+    </td>
+</tr>
+<tr class="expandrow expanded-content">
+    <td></td>
+    <td colspan="2">
+            <span class="composerinfo">Komposit&#246;r: Alana Haim, Este Haim, Danielle Haim, A</span>
+        <span class="searchinfo">Sök: </span>
+        
+
+<a class="icon icnExternalLink spotify" href="http://open.spotify.com/search/artist:Haim%20track:Don&#39;t Save Me" rel="nofollow" target="_blank">Spotify</a>    
+<a class="icon icnExternalLink google" href="http://www.google.com/search?q=Haim Don&#39;t Save Me" rel="nofollow" target="_blank">Google</a>
+
+    </td>
+</tr>
+ <tr class="mainrow expand-container">
+    <td class="time">16:11</td>
+    <td>
+        <span class="artist">Linnea Henriksson </span>-<span class="title"> Jag Vet N&#229;t Som Inte Du Vet</span>
+    </td>
+    <td class="moreinfo tune-list">
+        <a title="Mer information" href="#" class="icon expand-trigger plus blue" rel="nofollow"></a>
+    </td>
+</tr>
+<tr class="expandrow expanded-content">
+    <td></td>
+    <td colspan="2">
+            <span class="recordinfo">Album: Till Mina &#196;lskade Och &#196;lskare</span>
+            <span class="composerinfo">Komposit&#246;r: Linnea Henriksson,Bj&#246;rn Hallberg, Bj&#246;rn</span>
+        <span class="searchinfo">Sök: </span>
+        
+
+<a class="icon icnExternalLink spotify" href="http://open.spotify.com/search/artist:Linnea Henriksson%20track:Jag Vet N&#229;t Som Inte Du Vet" rel="nofollow" target="_blank">Spotify</a>    
+<a class="icon icnExternalLink google" href="http://www.google.com/search?q=Linnea Henriksson Jag Vet N&#229;t Som Inte Du Vet" rel="nofollow" target="_blank">Google</a>
+
+    </td>
+</tr>
+ <tr class="mainrow expand-container">
+    <td class="time">16:19</td>
+    <td>
+        <span class="artist">Coldplay </span>-<span class="title"> Every Teardrop Is A Waterfall</span>
+    </td>
+    <td class="moreinfo tune-list">
+        <a title="Mer information" href="#" class="icon expand-trigger plus blue" rel="nofollow"></a>
+    </td>
+</tr>
+<tr class="expandrow expanded-content">
+    <td></td>
+    <td colspan="2">
+            <span class="composerinfo">Komposit&#246;r: Berryman, Buckland, Champion, Martin, E</span>
+        <span class="searchinfo">Sök: </span>
+        
+
+<a class="icon icnExternalLink spotify" href="http://open.spotify.com/search/artist:Coldplay%20track:Every Teardrop Is A Waterfall" rel="nofollow" target="_blank">Spotify</a>    
+<a class="icon icnExternalLink google" href="http://www.google.com/search?q=Coldplay Every Teardrop Is A Waterfall" rel="nofollow" target="_blank">Google</a>
+
+    </td>
+</tr>
+ <tr class="mainrow expand-container">
+    <td class="time">16:28</td>
+    <td>
+        <span class="artist">Rebecca &amp; Fiona &amp; Style of Eye </span>-<span class="title"> Taken Over</span>
+    </td>
+    <td class="moreinfo tune-list">
+        <a title="Mer information" href="#" class="icon expand-trigger plus blue" rel="nofollow"></a>
+    </td>
+</tr>
+<tr class="expandrow expanded-content">
+    <td></td>
+    <td colspan="2">
+            <span class="composerinfo">Komposit&#246;r: Style Of Eye</span>
+        <span class="searchinfo">Sök: </span>
+        
+
+<a class="icon icnExternalLink spotify" href="http://open.spotify.com/search/artist:Rebecca &amp; Fiona &amp; Style of Eye%20track:Taken Over" rel="nofollow" target="_blank">Spotify</a>    
+<a class="icon icnExternalLink google" href="http://www.google.com/search?q=Rebecca &amp; Fiona &amp; Style of Eye Taken Over" rel="nofollow" target="_blank">Google</a>
+
+    </td>
+</tr>
+ <tr class="mainrow expand-container">
+    <td class="time">16:32</td>
+    <td>
+        <span class="artist">H&#228;stpojken </span>-<span class="title"> Sommarvin</span>
+    </td>
+    <td class="moreinfo tune-list">
+        <a title="Mer information" href="#" class="icon expand-trigger plus blue" rel="nofollow"></a>
+    </td>
+</tr>
+<tr class="expandrow expanded-content">
+    <td></td>
+    <td colspan="2">
+            <span class="composerinfo">Komposit&#246;r: Martin Elisson,  Adam Bolm&#232;us , Martin</span>
+        <span class="searchinfo">Sök: </span>
+        
+
+<a class="icon icnExternalLink spotify" href="http://open.spotify.com/search/artist:H&#228;stpojken%20track:Sommarvin" rel="nofollow" target="_blank">Spotify</a>    
+<a class="icon icnExternalLink google" href="http://www.google.com/search?q=H&#228;stpojken Sommarvin" rel="nofollow" target="_blank">Google</a>
+
+    </td>
+</tr>
+ <tr class="mainrow expand-container">
+    <td class="time">16:42</td>
+    <td>
+        <span class="artist">Florence &amp; The Machine </span>-<span class="title"> Spectrum (Calvin Harris Mix)</span>
+    </td>
+    <td class="moreinfo tune-list">
+        <a title="Mer information" href="#" class="icon expand-trigger plus blue" rel="nofollow"></a>
+    </td>
+</tr>
+<tr class="expandrow expanded-content">
+    <td></td>
+    <td colspan="2">
+        <span class="searchinfo">Sök: </span>
+        
+
+<a class="icon icnExternalLink spotify" href="http://open.spotify.com/search/artist:Florence &amp; The Machine%20track:Spectrum (Calvin Harris Mix)" rel="nofollow" target="_blank">Spotify</a>    
+<a class="icon icnExternalLink google" href="http://www.google.com/search?q=Florence &amp; The Machine Spectrum (Calvin Harris Mix)" rel="nofollow" target="_blank">Google</a>
+
+    </td>
+</tr>
+ <tr class="mainrow expand-container">
+    <td class="time">16:48</td>
+    <td>
+        <span class="artist">Elliphant </span>-<span class="title"> Live Till I Die</span>
+    </td>
+    <td class="moreinfo tune-list">
+        <a title="Mer information" href="#" class="icon expand-trigger plus blue" rel="nofollow"></a>
+    </td>
+</tr>
+<tr class="expandrow expanded-content">
+    <td></td>
+    <td colspan="2">
+            <span class="composerinfo">Komposit&#246;r: Ted Krotkiewski, Tim Den&#233;ve, Ted Krotki</span>
+        <span class="searchinfo">Sök: </span>
+        
+
+<a class="icon icnExternalLink spotify" href="http://open.spotify.com/search/artist:Elliphant%20track:Live Till I Die" rel="nofollow" target="_blank">Spotify</a>    
+<a class="icon icnExternalLink google" href="http://www.google.com/search?q=Elliphant Live Till I Die" rel="nofollow" target="_blank">Google</a>
+
+    </td>
+</tr>
+ <tr class="mainrow expand-container">
+    <td class="time">16:54</td>
+    <td>
+        <span class="artist">Macklemore &amp; Ryan Lewis &amp; Wanz </span>-<span class="title"> Thrift Shop</span>
+    </td>
+    <td class="moreinfo tune-list">
+        <a title="Mer information" href="#" class="icon expand-trigger plus blue" rel="nofollow"></a>
+    </td>
+</tr>
+<tr class="expandrow expanded-content">
+    <td></td>
+    <td colspan="2">
+            <span class="composerinfo">Komposit&#246;r: .</span>
+        <span class="searchinfo">Sök: </span>
+        
+
+<a class="icon icnExternalLink spotify" href="http://open.spotify.com/search/artist:Macklemore &amp; Ryan Lewis &amp; Wanz%20track:Thrift Shop" rel="nofollow" target="_blank">Spotify</a>    
+<a class="icon icnExternalLink google" href="http://www.google.com/search?q=Macklemore &amp; Ryan Lewis &amp; Wanz Thrift Shop" rel="nofollow" target="_blank">Google</a>
+
+    </td>
+</tr>
+ <tr class="mainrow expand-container">
+    <td class="time">17:06</td>
+    <td>
+        <span class="artist">Far &amp; Son </span>-<span class="title"> Hyr St&#228;llet</span>
+    </td>
+    <td class="moreinfo tune-list">
+        <a title="Mer information" href="#" class="icon expand-trigger plus blue" rel="nofollow"></a>
+    </td>
+</tr>
+<tr class="expandrow expanded-content">
+    <td></td>
+    <td colspan="2">
+            <span class="composerinfo">Komposit&#246;r: Tony Senghore, Frej Larsson</span>
+        <span class="searchinfo">Sök: </span>
+        
+
+<a class="icon icnExternalLink spotify" href="http://open.spotify.com/search/artist:Far &amp; Son%20track:Hyr St&#228;llet" rel="nofollow" target="_blank">Spotify</a>    
+<a class="icon icnExternalLink google" href="http://www.google.com/search?q=Far &amp; Son Hyr St&#228;llet" rel="nofollow" target="_blank">Google</a>
+
+    </td>
+</tr>
+ <tr class="mainrow expand-container">
+    <td class="time">17:13</td>
+    <td>
+        <span class="artist">Miriam Bryant </span>-<span class="title"> Push Play</span>
+    </td>
+    <td class="moreinfo tune-list">
+        <a title="Mer information" href="#" class="icon expand-trigger plus blue" rel="nofollow"></a>
+    </td>
+</tr>
+<tr class="expandrow expanded-content">
+    <td></td>
+    <td colspan="2">
+            <span class="composerinfo">Komposit&#246;r: Miriam Bryant,Victor R&#229;dstr&#246;m , Miriam</span>
+        <span class="searchinfo">Sök: </span>
+        
+
+<a class="icon icnExternalLink spotify" href="http://open.spotify.com/search/artist:Miriam Bryant%20track:Push Play" rel="nofollow" target="_blank">Spotify</a>    
+<a class="icon icnExternalLink google" href="http://www.google.com/search?q=Miriam Bryant Push Play" rel="nofollow" target="_blank">Google</a>
+
+    </td>
+</tr>
+ <tr class="mainrow expand-container">
+    <td class="time">17:20</td>
+    <td>
+        <span class="artist">Johnossi </span>-<span class="title"> Gone Forever</span>
+    </td>
+    <td class="moreinfo tune-list">
+        <a title="Mer information" href="#" class="icon expand-trigger plus blue" rel="nofollow"></a>
+    </td>
+</tr>
+<tr class="expandrow expanded-content">
+    <td></td>
+    <td colspan="2">
+            <span class="composerinfo">Komposit&#246;r: John Engelbert, Oskar Bonde</span>
+        <span class="searchinfo">Sök: </span>
+        
+
+<a class="icon icnExternalLink spotify" href="http://open.spotify.com/search/artist:Johnossi%20track:Gone Forever" rel="nofollow" target="_blank">Spotify</a>    
+<a class="icon icnExternalLink google" href="http://www.google.com/search?q=Johnossi Gone Forever" rel="nofollow" target="_blank">Google</a>
+
+    </td>
+</tr>
+ <tr class="mainrow expand-container">
+    <td class="time">17:24</td>
+    <td>
+        <span class="artist">The Script &amp; Will.I.Am </span>-<span class="title"> Hall Of Fame</span>
+    </td>
+    <td class="moreinfo tune-list">
+        <a title="Mer information" href="#" class="icon expand-trigger plus blue" rel="nofollow"></a>
+    </td>
+</tr>
+<tr class="expandrow expanded-content">
+    <td></td>
+    <td colspan="2">
+            <span class="composerinfo">Komposit&#246;r: William Adams; James Barry; Mark Sheeha</span>
+        <span class="searchinfo">Sök: </span>
+        
+
+<a class="icon icnExternalLink spotify" href="http://open.spotify.com/search/artist:The Script &amp; Will.I.Am%20track:Hall Of Fame" rel="nofollow" target="_blank">Spotify</a>    
+<a class="icon icnExternalLink google" href="http://www.google.com/search?q=The Script &amp; Will.I.Am Hall Of Fame" rel="nofollow" target="_blank">Google</a>
+
+    </td>
+</tr>
+ <tr class="mainrow expand-container">
+    <td class="time">17:29</td>
+    <td>
+        <span class="artist">Zedd &amp; Foxes </span>-<span class="title"> Clarity</span>
+    </td>
+    <td class="moreinfo tune-list">
+        <a title="Mer information" href="#" class="icon expand-trigger plus blue" rel="nofollow"></a>
+    </td>
+</tr>
+<tr class="expandrow expanded-content">
+    <td></td>
+    <td colspan="2">
+            <span class="composerinfo">Komposit&#246;r: Se notering, Se notering</span>
+        <span class="searchinfo">Sök: </span>
+        
+
+<a class="icon icnExternalLink spotify" href="http://open.spotify.com/search/artist:Zedd &amp; Foxes%20track:Clarity" rel="nofollow" target="_blank">Spotify</a>    
+<a class="icon icnExternalLink google" href="http://www.google.com/search?q=Zedd &amp; Foxes Clarity" rel="nofollow" target="_blank">Google</a>
+
+    </td>
+</tr>
+ <tr class="mainrow expand-container">
+    <td class="time">17:36</td>
+    <td>
+        <span class="artist">Movits </span>-<span class="title"> R&#246;ksignaler</span>
+    </td>
+    <td class="moreinfo tune-list">
+        <a title="Mer information" href="#" class="icon expand-trigger plus blue" rel="nofollow"></a>
+    </td>
+</tr>
+<tr class="expandrow expanded-content">
+    <td></td>
+    <td colspan="2">
+            <span class="composerinfo">Komposit&#246;r: Movits!</span>
+        <span class="searchinfo">Sök: </span>
+        
+
+<a class="icon icnExternalLink spotify" href="http://open.spotify.com/search/artist:Movits%20track:R&#246;ksignaler" rel="nofollow" target="_blank">Spotify</a>    
+<a class="icon icnExternalLink google" href="http://www.google.com/search?q=Movits R&#246;ksignaler" rel="nofollow" target="_blank">Google</a>
+
+    </td>
+</tr>
+ <tr class="mainrow expand-container">
+    <td class="time">17:42</td>
+    <td>
+        <span class="artist">Cat Power &amp; Angel Haze </span>-<span class="title"> Manhattan (Ryan Hemsworth Remix)</span>
+    </td>
+    <td class="moreinfo tune-list">
+        <a title="Mer information" href="#" class="icon expand-trigger plus blue" rel="nofollow"></a>
+    </td>
+</tr>
+<tr class="expandrow expanded-content">
+    <td></td>
+    <td colspan="2">
+            <span class="composerinfo">Komposit&#246;r: -</span>
+        <span class="searchinfo">Sök: </span>
+        
+
+<a class="icon icnExternalLink spotify" href="http://open.spotify.com/search/artist:Cat Power &amp; Angel Haze%20track:Manhattan (Ryan Hemsworth Remix)" rel="nofollow" target="_blank">Spotify</a>    
+<a class="icon icnExternalLink google" href="http://www.google.com/search?q=Cat Power &amp; Angel Haze Manhattan (Ryan Hemsworth Remix)" rel="nofollow" target="_blank">Google</a>
+
+    </td>
+</tr>
+ <tr class="mainrow expand-container">
+    <td class="time">17:45</td>
+    <td>
+        <span class="artist">John De Sohn &amp; Kristin Amparo </span>-<span class="title"> Dance Our Tears Away</span>
+    </td>
+    <td class="moreinfo tune-list">
+        <a title="Mer information" href="#" class="icon expand-trigger plus blue" rel="nofollow"></a>
+    </td>
+</tr>
+<tr class="expandrow expanded-content">
+    <td></td>
+    <td colspan="2">
+            <span class="composerinfo">Komposit&#246;r: Bj&#246;rn Johnsson, Andreas Moe, Bj&#246;rn John</span>
+        <span class="searchinfo">Sök: </span>
+        
+
+<a class="icon icnExternalLink spotify" href="http://open.spotify.com/search/artist:John De Sohn &amp; Kristin Amparo%20track:Dance Our Tears Away" rel="nofollow" target="_blank">Spotify</a>    
+<a class="icon icnExternalLink google" href="http://www.google.com/search?q=John De Sohn &amp; Kristin Amparo Dance Our Tears Away" rel="nofollow" target="_blank">Google</a>
+
+    </td>
+</tr>
+ <tr class="mainrow expand-container">
+    <td class="time">17:50</td>
+    <td>
+        <span class="artist">Lilla Namo </span>-<span class="title"> H&#246;j Volymen</span>
+    </td>
+    <td class="moreinfo tune-list">
+        <a title="Mer information" href="#" class="icon expand-trigger plus blue" rel="nofollow"></a>
+    </td>
+</tr>
+<tr class="expandrow expanded-content">
+    <td></td>
+    <td colspan="2">
+            <span class="composerinfo">Komposit&#246;r: N. Marouf, A. Peristeris J. Ljunggren,</span>
+        <span class="searchinfo">Sök: </span>
+        
+
+<a class="icon icnExternalLink spotify" href="http://open.spotify.com/search/artist:Lilla Namo%20track:H&#246;j Volymen" rel="nofollow" target="_blank">Spotify</a>    
+<a class="icon icnExternalLink google" href="http://www.google.com/search?q=Lilla Namo H&#246;j Volymen" rel="nofollow" target="_blank">Google</a>
+
+    </td>
+</tr>        </tbody>
+    </table>    
+        <h2 class="small">Kv&#228;ll</h2>
+    <table cellpadding="0" cellspacing="0">
+        <thead id="listhead">
+            <tr>
+                <th scope="col">Tid</th>
+                <th scope="col">Låt</th>
+                <th class="latlista" scope="col">Mer om låten</th>
+            </tr>
+        </thead>
+        <tbody id="listbody">
+
+ <tr class="mainrow expand-container">
+    <td class="time">18:03</td>
+    <td>
+        <span class="artist">Matthew E White </span>-<span class="title"> Big Love (Single)</span>
+    </td>
+    <td class="moreinfo tune-list">
+        <a title="Mer information" href="#" class="icon expand-trigger plus blue" rel="nofollow"></a>
+    </td>
+</tr>
+<tr class="expandrow expanded-content">
+    <td></td>
+    <td colspan="2">
+            <span class="recordinfo">Album: Big Love</span>
+            <span class="composerinfo">Komposit&#246;r: Andy C Jenkins, Eddie Prendergast, Matthew E White</span>
+        <span class="searchinfo">Sök: </span>
+        
+
+<a class="icon icnExternalLink spotify" href="http://open.spotify.com/search/artist:Matthew E White%20track:Big Love (Single)" rel="nofollow" target="_blank">Spotify</a>    
+<a class="icon icnExternalLink google" href="http://www.google.com/search?q=Matthew E White Big Love (Single)" rel="nofollow" target="_blank">Google</a>
+
+    </td>
+</tr>
+ <tr class="mainrow expand-container">
+    <td class="time">18:14</td>
+    <td>
+        <span class="artist">Peace </span>-<span class="title"> Bloodshake</span>
+    </td>
+    <td class="moreinfo tune-list">
+        <a title="Mer information" href="#" class="icon expand-trigger plus blue" rel="nofollow"></a>
+    </td>
+</tr>
+<tr class="expandrow expanded-content">
+    <td></td>
+    <td colspan="2">
+            <span class="recordinfo">Album: Bloodshake</span>
+            <span class="composerinfo">Komposit&#246;r: Koisser Harrison</span>
+        <span class="searchinfo">Sök: </span>
+        
+
+<a class="icon icnExternalLink spotify" href="http://open.spotify.com/search/artist:Peace%20track:Bloodshake" rel="nofollow" target="_blank">Spotify</a>    
+<a class="icon icnExternalLink google" href="http://www.google.com/search?q=Peace Bloodshake" rel="nofollow" target="_blank">Google</a>
+
+    </td>
+</tr>
+ <tr class="mainrow expand-container">
+    <td class="time">18:25</td>
+    <td>
+        <span class="artist">The Deer Tracks </span>-<span class="title"> Lazarus</span>
+    </td>
+    <td class="moreinfo tune-list">
+        <a title="Mer information" href="#" class="icon expand-trigger plus blue" rel="nofollow"></a>
+    </td>
+</tr>
+<tr class="expandrow expanded-content">
+    <td></td>
+    <td colspan="2">
+            <span class="recordinfo">Album: Lazarus</span>
+            <span class="composerinfo">Komposit&#246;r: David Lehnberg, Elin Lindfors</span>
+        <span class="searchinfo">Sök: </span>
+        
+
+<a class="icon icnExternalLink spotify" href="http://open.spotify.com/search/artist:The Deer Tracks%20track:Lazarus" rel="nofollow" target="_blank">Spotify</a>    
+<a class="icon icnExternalLink google" href="http://www.google.com/search?q=The Deer Tracks Lazarus" rel="nofollow" target="_blank">Google</a>
+
+    </td>
+</tr>
+ <tr class="mainrow expand-container">
+    <td class="time">18:30</td>
+    <td>
+        <span class="artist">Pet Shop Boys </span>-<span class="title"> Always On My Mind</span>
+    </td>
+    <td class="moreinfo tune-list">
+        <a title="Mer information" href="#" class="icon expand-trigger plus blue" rel="nofollow"></a>
+    </td>
+</tr>
+<tr class="expandrow expanded-content">
+    <td></td>
+    <td colspan="2">
+            <span class="recordinfo">Album: Pet Shop Boys Discography</span>
+            <span class="composerinfo">Komposit&#246;r: Johnny Christopher, Mark James, Wayne Carson Thompson</span>
+        <span class="searchinfo">Sök: </span>
+        
+
+<a class="icon icnExternalLink spotify" href="http://open.spotify.com/search/artist:Pet Shop Boys%20track:Always On My Mind" rel="nofollow" target="_blank">Spotify</a>    
+<a class="icon icnExternalLink google" href="http://www.google.com/search?q=Pet Shop Boys Always On My Mind" rel="nofollow" target="_blank">Google</a>
+
+    </td>
+</tr>
+ <tr class="mainrow expand-container">
+    <td class="time">18:30</td>
+    <td>
+        <span class="artist">Joni Mitchell, James Taylor, Sneaky Pete Kleinow, Russ Kunkel </span>-<span class="title"> California</span>
+    </td>
+    <td class="moreinfo tune-list">
+        <a title="Mer information" href="#" class="icon expand-trigger plus blue" rel="nofollow"></a>
+    </td>
+</tr>
+<tr class="expandrow expanded-content">
+    <td></td>
+    <td colspan="2">
+            <span class="recordinfo">Album: Blue</span>
+            <span class="composerinfo">Komposit&#246;r: Joni Mitchell</span>
+        <span class="searchinfo">Sök: </span>
+        
+
+<a class="icon icnExternalLink spotify" href="http://open.spotify.com/search/artist:Joni Mitchell, James Taylor, Sneaky Pete Kleinow, Russ Kunkel%20track:California" rel="nofollow" target="_blank">Spotify</a>    
+<a class="icon icnExternalLink google" href="http://www.google.com/search?q=Joni Mitchell, James Taylor, Sneaky Pete Kleinow, Russ Kunkel California" rel="nofollow" target="_blank">Google</a>
+
+    </td>
+</tr>
+ <tr class="mainrow expand-container">
+    <td class="time">18:30</td>
+    <td>
+        <span class="artist">Phosphorescent </span>-<span class="title"> Wolves</span>
+    </td>
+    <td class="moreinfo tune-list">
+        <a title="Mer information" href="#" class="icon expand-trigger plus blue" rel="nofollow"></a>
+    </td>
+</tr>
+<tr class="expandrow expanded-content">
+    <td></td>
+    <td colspan="2">
+            <span class="recordinfo">Album: Wolves</span>
+            <span class="composerinfo">Komposit&#246;r: Matthew Houck</span>
+        <span class="searchinfo">Sök: </span>
+        
+
+<a class="icon icnExternalLink spotify" href="http://open.spotify.com/search/artist:Phosphorescent%20track:Wolves" rel="nofollow" target="_blank">Spotify</a>    
+<a class="icon icnExternalLink google" href="http://www.google.com/search?q=Phosphorescent Wolves" rel="nofollow" target="_blank">Google</a>
+
+    </td>
+</tr>
+ <tr class="mainrow expand-container">
+    <td class="time">18:30</td>
+    <td>
+        <span class="artist">Peter Bjorn &amp; John </span>-<span class="title"> Up Against The Wall</span>
+    </td>
+    <td class="moreinfo tune-list">
+        <a title="Mer information" href="#" class="icon expand-trigger plus blue" rel="nofollow"></a>
+    </td>
+</tr>
+<tr class="expandrow expanded-content">
+    <td></td>
+    <td colspan="2">
+            <span class="recordinfo">Album: Writer&#39;s Block</span>
+            <span class="composerinfo">Komposit&#246;r: John Eriksson</span>
+        <span class="searchinfo">Sök: </span>
+        
+
+<a class="icon icnExternalLink spotify" href="http://open.spotify.com/search/artist:Peter Bjorn &amp; John%20track:Up Against The Wall" rel="nofollow" target="_blank">Spotify</a>    
+<a class="icon icnExternalLink google" href="http://www.google.com/search?q=Peter Bjorn &amp; John Up Against The Wall" rel="nofollow" target="_blank">Google</a>
+
+    </td>
+</tr>
+ <tr class="mainrow expand-container">
+    <td class="time">18:30</td>
+    <td>
+        <span class="artist">Neu </span>-<span class="title"> Hallogallo</span>
+    </td>
+    <td class="moreinfo tune-list">
+        <a title="Mer information" href="#" class="icon expand-trigger plus blue" rel="nofollow"></a>
+    </td>
+</tr>
+<tr class="expandrow expanded-content">
+    <td></td>
+    <td colspan="2">
+            <span class="recordinfo">Album: Neu</span>
+            <span class="composerinfo">Komposit&#246;r: Klaus Dinger, Michael Rother</span>
+        <span class="searchinfo">Sök: </span>
+        
+
+<a class="icon icnExternalLink spotify" href="http://open.spotify.com/search/artist:Neu%20track:Hallogallo" rel="nofollow" target="_blank">Spotify</a>    
+<a class="icon icnExternalLink google" href="http://www.google.com/search?q=Neu Hallogallo" rel="nofollow" target="_blank">Google</a>
+
+    </td>
+</tr>
+ <tr class="mainrow expand-container">
+    <td class="time">18:30</td>
+    <td>
+        <span class="artist">Bob Dylan </span>-<span class="title"> A Hard Rain&#39;s A-Gonna Fall</span>
+    </td>
+    <td class="moreinfo tune-list">
+        <a title="Mer information" href="#" class="icon expand-trigger plus blue" rel="nofollow"></a>
+    </td>
+</tr>
+<tr class="expandrow expanded-content">
+    <td></td>
+    <td colspan="2">
+            <span class="recordinfo">Album: The Freewheelin&#39; Bob Dylan</span>
+            <span class="composerinfo">Komposit&#246;r: Bob Dylan</span>
+        <span class="searchinfo">Sök: </span>
+        
+
+<a class="icon icnExternalLink spotify" href="http://open.spotify.com/search/artist:Bob Dylan%20track:A Hard Rain&#39;s A-Gonna Fall" rel="nofollow" target="_blank">Spotify</a>    
+<a class="icon icnExternalLink google" href="http://www.google.com/search?q=Bob Dylan A Hard Rain&#39;s A-Gonna Fall" rel="nofollow" target="_blank">Google</a>
+
+    </td>
+</tr>
+ <tr class="mainrow expand-container">
+    <td class="time">18:30</td>
+    <td>
+        <span class="artist">James Husband </span>-<span class="title"> While The Boys Went Down Under</span>
+    </td>
+    <td class="moreinfo tune-list">
+        <a title="Mer information" href="#" class="icon expand-trigger plus blue" rel="nofollow"></a>
+    </td>
+</tr>
+<tr class="expandrow expanded-content">
+    <td></td>
+    <td colspan="2">
+            <span class="recordinfo">Album: A Parallaxi I</span>
+            <span class="composerinfo">Komposit&#246;r: James Husband</span>
+        <span class="searchinfo">Sök: </span>
+        
+
+<a class="icon icnExternalLink spotify" href="http://open.spotify.com/search/artist:James Husband%20track:While The Boys Went Down Under" rel="nofollow" target="_blank">Spotify</a>    
+<a class="icon icnExternalLink google" href="http://www.google.com/search?q=James Husband While The Boys Went Down Under" rel="nofollow" target="_blank">Google</a>
+
+    </td>
+</tr>
+ <tr class="mainrow expand-container">
+    <td class="time">18:30</td>
+    <td>
+        <span class="artist">Caetano Veloso </span>-<span class="title"> O Leaozinho</span>
+    </td>
+    <td class="moreinfo tune-list">
+        <a title="Mer information" href="#" class="icon expand-trigger plus blue" rel="nofollow"></a>
+    </td>
+</tr>
+<tr class="expandrow expanded-content">
+    <td></td>
+    <td colspan="2">
+            <span class="recordinfo">Album: Antologia 67/03</span>
+            <span class="composerinfo">Komposit&#246;r: Caetano Veloso</span>
+        <span class="searchinfo">Sök: </span>
+        
+
+<a class="icon icnExternalLink spotify" href="http://open.spotify.com/search/artist:Caetano Veloso%20track:O Leaozinho" rel="nofollow" target="_blank">Spotify</a>    
+<a class="icon icnExternalLink google" href="http://www.google.com/search?q=Caetano Veloso O Leaozinho" rel="nofollow" target="_blank">Google</a>
+
+    </td>
+</tr>
+ <tr class="mainrow expand-container">
+    <td class="time">18:30</td>
+    <td>
+        <span class="artist">Kyu Sakamoto </span>-<span class="title"> Sukiyaki</span>
+    </td>
+    <td class="moreinfo tune-list">
+        <a title="Mer information" href="#" class="icon expand-trigger plus blue" rel="nofollow"></a>
+    </td>
+</tr>
+<tr class="expandrow expanded-content">
+    <td></td>
+    <td colspan="2">
+            <span class="recordinfo">Album: Absolute Sixties (1)</span>
+            <span class="composerinfo">Komposit&#246;r: Hachidai Nakamura</span>
+        <span class="searchinfo">Sök: </span>
+        
+
+<a class="icon icnExternalLink spotify" href="http://open.spotify.com/search/artist:Kyu Sakamoto%20track:Sukiyaki" rel="nofollow" target="_blank">Spotify</a>    
+<a class="icon icnExternalLink google" href="http://www.google.com/search?q=Kyu Sakamoto Sukiyaki" rel="nofollow" target="_blank">Google</a>
+
+    </td>
+</tr>
+ <tr class="mainrow expand-container">
+    <td class="time">18:30</td>
+    <td>
+        <span class="artist">Vampire Weekend </span>-<span class="title"> The Kids Don&#39;T Stand A Chance</span>
+    </td>
+    <td class="moreinfo tune-list">
+        <a title="Mer information" href="#" class="icon expand-trigger plus blue" rel="nofollow"></a>
+    </td>
+</tr>
+<tr class="expandrow expanded-content">
+    <td></td>
+    <td colspan="2">
+            <span class="recordinfo">Album: Vampire Weekend</span>
+            <span class="composerinfo">Komposit&#246;r: Vampire Weekend</span>
+        <span class="searchinfo">Sök: </span>
+        
+
+<a class="icon icnExternalLink spotify" href="http://open.spotify.com/search/artist:Vampire Weekend%20track:The Kids Don&#39;T Stand A Chance" rel="nofollow" target="_blank">Spotify</a>    
+<a class="icon icnExternalLink google" href="http://www.google.com/search?q=Vampire Weekend The Kids Don&#39;T Stand A Chance" rel="nofollow" target="_blank">Google</a>
+
+    </td>
+</tr>
+ <tr class="mainrow expand-container">
+    <td class="time">18:30</td>
+    <td>
+        <span class="artist">Phoenix (Fra) (2) </span>-<span class="title"> Too Young</span>
+    </td>
+    <td class="moreinfo tune-list">
+        <a title="Mer information" href="#" class="icon expand-trigger plus blue" rel="nofollow"></a>
+    </td>
+</tr>
+<tr class="expandrow expanded-content">
+    <td></td>
+    <td colspan="2">
+            <span class="recordinfo">Album: Too Young</span>
+            <span class="composerinfo">Komposit&#246;r: Phoenix (Fra) (2)</span>
+        <span class="searchinfo">Sök: </span>
+        
+
+<a class="icon icnExternalLink spotify" href="http://open.spotify.com/search/artist:Phoenix (Fra) (2)%20track:Too Young" rel="nofollow" target="_blank">Spotify</a>    
+<a class="icon icnExternalLink google" href="http://www.google.com/search?q=Phoenix (Fra) (2) Too Young" rel="nofollow" target="_blank">Google</a>
+
+    </td>
+</tr>
+ <tr class="mainrow expand-container">
+    <td class="time">18:30</td>
+    <td>
+        <span class="artist">Daft Punk </span>-<span class="title"> Da Funk</span>
+    </td>
+    <td class="moreinfo tune-list">
+        <a title="Mer information" href="#" class="icon expand-trigger plus blue" rel="nofollow"></a>
+    </td>
+</tr>
+<tr class="expandrow expanded-content">
+    <td></td>
+    <td colspan="2">
+            <span class="recordinfo">Album: Da Funk</span>
+            <span class="composerinfo">Komposit&#246;r: Thomas Bangalter, Guy-Manuel De Homem-Christo</span>
+        <span class="searchinfo">Sök: </span>
+        
+
+<a class="icon icnExternalLink spotify" href="http://open.spotify.com/search/artist:Daft Punk%20track:Da Funk" rel="nofollow" target="_blank">Spotify</a>    
+<a class="icon icnExternalLink google" href="http://www.google.com/search?q=Daft Punk Da Funk" rel="nofollow" target="_blank">Google</a>
+
+    </td>
+</tr>        </tbody>
+    </table>    
+    <table cellpadding="0" cellspacing="0">
+        <thead id="listhead">
+            <tr>
+                <th scope="col">Tid</th>
+                <th scope="col">Låt</th>
+                <th class="latlista" scope="col">Mer om låten</th>
+            </tr>
+        </thead>
+        <tbody id="listbody">
+
+ <tr class="mainrow expand-container">
+    <td class="time">19:30</td>
+    <td>
+        <span class="artist">Yyz </span>-<span class="title"> Lost In The Mix</span>
+    </td>
+    <td class="moreinfo tune-list">
+        <a title="Mer information" href="#" class="icon expand-trigger plus blue" rel="nofollow"></a>
+    </td>
+</tr>
+<tr class="expandrow expanded-content">
+    <td></td>
+    <td colspan="2">
+            <span class="composerinfo">Komposit&#246;r: Mcnalley Gamble Wilder Dean</span>
+        <span class="searchinfo">Sök: </span>
+        
+
+<a class="icon icnExternalLink spotify" href="http://open.spotify.com/search/artist:Yyz%20track:Lost In The Mix" rel="nofollow" target="_blank">Spotify</a>    
+<a class="icon icnExternalLink google" href="http://www.google.com/search?q=Yyz Lost In The Mix" rel="nofollow" target="_blank">Google</a>
+
+    </td>
+</tr>
+ <tr class="mainrow expand-container">
+    <td class="time">19:35</td>
+    <td>
+        <span class="artist">Materikaa </span>-<span class="title"> Pick Up Lines</span>
+    </td>
+    <td class="moreinfo tune-list">
+        <a title="Mer information" href="#" class="icon expand-trigger plus blue" rel="nofollow"></a>
+    </td>
+</tr>
+<tr class="expandrow expanded-content">
+    <td></td>
+    <td colspan="2">
+            <span class="composerinfo">Komposit&#246;r: Erik Lid N Mattias Axelsson Erik Lid N Mattias Axelsson</span>
+        <span class="searchinfo">Sök: </span>
+        
+
+<a class="icon icnExternalLink spotify" href="http://open.spotify.com/search/artist:Materikaa%20track:Pick Up Lines" rel="nofollow" target="_blank">Spotify</a>    
+<a class="icon icnExternalLink google" href="http://www.google.com/search?q=Materikaa Pick Up Lines" rel="nofollow" target="_blank">Google</a>
+
+    </td>
+</tr>
+ <tr class="mainrow expand-container">
+    <td class="time">19:43</td>
+    <td>
+        <span class="artist">El Perro Del Mar </span>-<span class="title"> Hold Off The Dawn (Gidge Remix)</span>
+    </td>
+    <td class="moreinfo tune-list">
+        <a title="Mer information" href="#" class="icon expand-trigger plus blue" rel="nofollow"></a>
+    </td>
+</tr>
+<tr class="expandrow expanded-content">
+    <td></td>
+    <td colspan="2">
+            <span class="composerinfo">Komposit&#246;r: ?</span>
+        <span class="searchinfo">Sök: </span>
+        
+
+<a class="icon icnExternalLink spotify" href="http://open.spotify.com/search/artist:El Perro Del Mar%20track:Hold Off The Dawn (Gidge Remix)" rel="nofollow" target="_blank">Spotify</a>    
+<a class="icon icnExternalLink google" href="http://www.google.com/search?q=El Perro Del Mar Hold Off The Dawn (Gidge Remix)" rel="nofollow" target="_blank">Google</a>
+
+    </td>
+</tr>
+ <tr class="mainrow expand-container">
+    <td class="time">19:47</td>
+    <td>
+        <span class="artist">The Royal Concept </span>-<span class="title"> Digital Love (Daft Punk Cover)</span>
+    </td>
+    <td class="moreinfo tune-list">
+        <a title="Mer information" href="#" class="icon expand-trigger plus blue" rel="nofollow"></a>
+    </td>
+</tr>
+<tr class="expandrow expanded-content">
+    <td></td>
+    <td colspan="2">
+            <span class="composerinfo">Komposit&#246;r: ?</span>
+        <span class="searchinfo">Sök: </span>
+        
+
+<a class="icon icnExternalLink spotify" href="http://open.spotify.com/search/artist:The Royal Concept%20track:Digital Love (Daft Punk Cover)" rel="nofollow" target="_blank">Spotify</a>    
+<a class="icon icnExternalLink google" href="http://www.google.com/search?q=The Royal Concept Digital Love (Daft Punk Cover)" rel="nofollow" target="_blank">Google</a>
+
+    </td>
+</tr>
+ <tr class="mainrow expand-container">
+    <td class="time">19:52</td>
+    <td>
+        <span class="artist">Lulu James </span>-<span class="title"> Closer</span>
+    </td>
+    <td class="moreinfo tune-list">
+        <a title="Mer information" href="#" class="icon expand-trigger plus blue" rel="nofollow"></a>
+    </td>
+</tr>
+<tr class="expandrow expanded-content">
+    <td></td>
+    <td colspan="2">
+            <span class="composerinfo">Komposit&#246;r: ?</span>
+        <span class="searchinfo">Sök: </span>
+        
+
+<a class="icon icnExternalLink spotify" href="http://open.spotify.com/search/artist:Lulu James%20track:Closer" rel="nofollow" target="_blank">Spotify</a>    
+<a class="icon icnExternalLink google" href="http://www.google.com/search?q=Lulu James Closer" rel="nofollow" target="_blank">Google</a>
+
+    </td>
+</tr>
+ <tr class="mainrow expand-container">
+    <td class="time">19:57</td>
+    <td>
+        <span class="artist">Kaah </span>-<span class="title"> Vill Bara Leka Mer</span>
+    </td>
+    <td class="moreinfo tune-list">
+        <a title="Mer information" href="#" class="icon expand-trigger plus blue" rel="nofollow"></a>
+    </td>
+</tr>
+<tr class="expandrow expanded-content">
+    <td></td>
+    <td colspan="2">
+            <span class="composerinfo">Komposit&#246;r: Kaah Kaah</span>
+        <span class="searchinfo">Sök: </span>
+        
+
+<a class="icon icnExternalLink spotify" href="http://open.spotify.com/search/artist:Kaah%20track:Vill Bara Leka Mer" rel="nofollow" target="_blank">Spotify</a>    
+<a class="icon icnExternalLink google" href="http://www.google.com/search?q=Kaah Vill Bara Leka Mer" rel="nofollow" target="_blank">Google</a>
+
+    </td>
+</tr>
+ <tr class="mainrow expand-container">
+    <td class="time">20:07</td>
+    <td>
+        <span class="artist">Chords </span>-<span class="title"> The Dude</span>
+    </td>
+    <td class="moreinfo tune-list">
+        <a title="Mer information" href="#" class="icon expand-trigger plus blue" rel="nofollow"></a>
+    </td>
+</tr>
+<tr class="expandrow expanded-content">
+    <td></td>
+    <td colspan="2">
+            <span class="recordinfo">Album: The Dude</span>
+            <span class="composerinfo">Komposit&#246;r: Jens Resch Thomason</span>
+        <span class="searchinfo">Sök: </span>
+        
+
+<a class="icon icnExternalLink spotify" href="http://open.spotify.com/search/artist:Chords%20track:The Dude" rel="nofollow" target="_blank">Spotify</a>    
+<a class="icon icnExternalLink google" href="http://www.google.com/search?q=Chords The Dude" rel="nofollow" target="_blank">Google</a>
+
+    </td>
+</tr>
+ <tr class="mainrow expand-container">
+    <td class="time">20:28</td>
+    <td>
+        <span class="artist">? </span>-<span class="title"> Entertainment</span>
+    </td>
+    <td class="moreinfo tune-list">
+        <a title="Mer information" href="#" class="icon expand-trigger plus blue" rel="nofollow"></a>
+    </td>
+</tr>
+<tr class="expandrow expanded-content">
+    <td></td>
+    <td colspan="2">
+            <span class="composerinfo">Komposit&#246;r: ?</span>
+        <span class="searchinfo">Sök: </span>
+        
+
+<a class="icon icnExternalLink spotify" href="http://open.spotify.com/search/artist:?%20track:Entertainment" rel="nofollow" target="_blank">Spotify</a>    
+<a class="icon icnExternalLink google" href="http://www.google.com/search?q=? Entertainment" rel="nofollow" target="_blank">Google</a>
+
+    </td>
+</tr>
+ <tr class="mainrow expand-container">
+    <td class="time">20:32</td>
+    <td>
+        <span class="artist">Best Coast </span>-<span class="title"> Goodbye</span>
+    </td>
+    <td class="moreinfo tune-list">
+        <a title="Mer information" href="#" class="icon expand-trigger plus blue" rel="nofollow"></a>
+    </td>
+</tr>
+<tr class="expandrow expanded-content">
+    <td></td>
+    <td colspan="2">
+            <span class="composerinfo">Komposit&#246;r: Bethany Cosentino Bobb Bruno</span>
+        <span class="searchinfo">Sök: </span>
+        
+
+<a class="icon icnExternalLink spotify" href="http://open.spotify.com/search/artist:Best Coast%20track:Goodbye" rel="nofollow" target="_blank">Spotify</a>    
+<a class="icon icnExternalLink google" href="http://www.google.com/search?q=Best Coast Goodbye" rel="nofollow" target="_blank">Google</a>
+
+    </td>
+</tr>
+ <tr class="mainrow expand-container">
+    <td class="time">20:35</td>
+    <td>
+        <span class="artist">Best Coast </span>-<span class="title"> The Only Place</span>
+    </td>
+    <td class="moreinfo tune-list">
+        <a title="Mer information" href="#" class="icon expand-trigger plus blue" rel="nofollow"></a>
+    </td>
+</tr>
+<tr class="expandrow expanded-content">
+    <td></td>
+    <td colspan="2">
+            <span class="composerinfo">Komposit&#246;r: Bethany Cosentino Bobb Bruno</span>
+        <span class="searchinfo">Sök: </span>
+        
+
+<a class="icon icnExternalLink spotify" href="http://open.spotify.com/search/artist:Best Coast%20track:The Only Place" rel="nofollow" target="_blank">Spotify</a>    
+<a class="icon icnExternalLink google" href="http://www.google.com/search?q=Best Coast The Only Place" rel="nofollow" target="_blank">Google</a>
+
+    </td>
+</tr>
+ <tr class="mainrow expand-container">
+    <td class="time">20:37</td>
+    <td>
+        <span class="artist">Best Coast </span>-<span class="title"> No One Like You</span>
+    </td>
+    <td class="moreinfo tune-list">
+        <a title="Mer information" href="#" class="icon expand-trigger plus blue" rel="nofollow"></a>
+    </td>
+</tr>
+<tr class="expandrow expanded-content">
+    <td></td>
+    <td colspan="2">
+            <span class="composerinfo">Komposit&#246;r: Bethany Cosentino Bobb Bruno</span>
+        <span class="searchinfo">Sök: </span>
+        
+
+<a class="icon icnExternalLink spotify" href="http://open.spotify.com/search/artist:Best Coast%20track:No One Like You" rel="nofollow" target="_blank">Spotify</a>    
+<a class="icon icnExternalLink google" href="http://www.google.com/search?q=Best Coast No One Like You" rel="nofollow" target="_blank">Google</a>
+
+    </td>
+</tr>
+ <tr class="mainrow expand-container">
+    <td class="time">20:40</td>
+    <td>
+        <span class="artist">Best Coast </span>-<span class="title"> Why I Cry</span>
+    </td>
+    <td class="moreinfo tune-list">
+        <a title="Mer information" href="#" class="icon expand-trigger plus blue" rel="nofollow"></a>
+    </td>
+</tr>
+<tr class="expandrow expanded-content">
+    <td></td>
+    <td colspan="2">
+            <span class="composerinfo">Komposit&#246;r: Bethany Cosentino Bobb Bruno</span>
+        <span class="searchinfo">Sök: </span>
+        
+
+<a class="icon icnExternalLink spotify" href="http://open.spotify.com/search/artist:Best Coast%20track:Why I Cry" rel="nofollow" target="_blank">Spotify</a>    
+<a class="icon icnExternalLink google" href="http://www.google.com/search?q=Best Coast Why I Cry" rel="nofollow" target="_blank">Google</a>
+
+    </td>
+</tr>
+ <tr class="mainrow expand-container">
+    <td class="time">20:42</td>
+    <td>
+        <span class="artist">Best Coast </span>-<span class="title"> Let&#39;s Go Home</span>
+    </td>
+    <td class="moreinfo tune-list">
+        <a title="Mer information" href="#" class="icon expand-trigger plus blue" rel="nofollow"></a>
+    </td>
+</tr>
+<tr class="expandrow expanded-content">
+    <td></td>
+    <td colspan="2">
+            <span class="composerinfo">Komposit&#246;r: Bethany Cosentino Bobb Bruno</span>
+        <span class="searchinfo">Sök: </span>
+        
+
+<a class="icon icnExternalLink spotify" href="http://open.spotify.com/search/artist:Best Coast%20track:Let&#39;s Go Home" rel="nofollow" target="_blank">Spotify</a>    
+<a class="icon icnExternalLink google" href="http://www.google.com/search?q=Best Coast Let&#39;s Go Home" rel="nofollow" target="_blank">Google</a>
+
+    </td>
+</tr>
+ <tr class="mainrow expand-container">
+    <td class="time">20:45</td>
+    <td>
+        <span class="artist">Best Coast </span>-<span class="title"> Our Deal</span>
+    </td>
+    <td class="moreinfo tune-list">
+        <a title="Mer information" href="#" class="icon expand-trigger plus blue" rel="nofollow"></a>
+    </td>
+</tr>
+<tr class="expandrow expanded-content">
+    <td></td>
+    <td colspan="2">
+            <span class="composerinfo">Komposit&#246;r: Bethany Cosentino Bobb Bruno</span>
+        <span class="searchinfo">Sök: </span>
+        
+
+<a class="icon icnExternalLink spotify" href="http://open.spotify.com/search/artist:Best Coast%20track:Our Deal" rel="nofollow" target="_blank">Spotify</a>    
+<a class="icon icnExternalLink google" href="http://www.google.com/search?q=Best Coast Our Deal" rel="nofollow" target="_blank">Google</a>
+
+    </td>
+</tr>
+ <tr class="mainrow expand-container">
+    <td class="time">20:48</td>
+    <td>
+        <span class="artist">Best Coast </span>-<span class="title"> I Want You</span>
+    </td>
+    <td class="moreinfo tune-list">
+        <a title="Mer information" href="#" class="icon expand-trigger plus blue" rel="nofollow"></a>
+    </td>
+</tr>
+<tr class="expandrow expanded-content">
+    <td></td>
+    <td colspan="2">
+            <span class="composerinfo">Komposit&#246;r: Bethany Cosentino Bobb Bruno</span>
+        <span class="searchinfo">Sök: </span>
+        
+
+<a class="icon icnExternalLink spotify" href="http://open.spotify.com/search/artist:Best Coast%20track:I Want You" rel="nofollow" target="_blank">Spotify</a>    
+<a class="icon icnExternalLink google" href="http://www.google.com/search?q=Best Coast I Want You" rel="nofollow" target="_blank">Google</a>
+
+    </td>
+</tr>
+ <tr class="mainrow expand-container">
+    <td class="time">20:49</td>
+    <td>
+        <span class="artist">Best Coast </span>-<span class="title"> When I&#39;M With You</span>
+    </td>
+    <td class="moreinfo tune-list">
+        <a title="Mer information" href="#" class="icon expand-trigger plus blue" rel="nofollow"></a>
+    </td>
+</tr>
+<tr class="expandrow expanded-content">
+    <td></td>
+    <td colspan="2">
+            <span class="composerinfo">Komposit&#246;r: Bethany Cosentino Bobb Bruno</span>
+        <span class="searchinfo">Sök: </span>
+        
+
+<a class="icon icnExternalLink spotify" href="http://open.spotify.com/search/artist:Best Coast%20track:When I&#39;M With You" rel="nofollow" target="_blank">Spotify</a>    
+<a class="icon icnExternalLink google" href="http://www.google.com/search?q=Best Coast When I&#39;M With You" rel="nofollow" target="_blank">Google</a>
+
+    </td>
+</tr>
+ <tr class="mainrow expand-container">
+    <td class="time">20:52</td>
+    <td>
+        <span class="artist">Best Coast </span>-<span class="title"> Boyfriend</span>
+    </td>
+    <td class="moreinfo tune-list">
+        <a title="Mer information" href="#" class="icon expand-trigger plus blue" rel="nofollow"></a>
+    </td>
+</tr>
+<tr class="expandrow expanded-content">
+    <td></td>
+    <td colspan="2">
+            <span class="composerinfo">Komposit&#246;r: Bethany Cosentino Bobb Bruno</span>
+        <span class="searchinfo">Sök: </span>
+        
+
+<a class="icon icnExternalLink spotify" href="http://open.spotify.com/search/artist:Best Coast%20track:Boyfriend" rel="nofollow" target="_blank">Spotify</a>    
+<a class="icon icnExternalLink google" href="http://www.google.com/search?q=Best Coast Boyfriend" rel="nofollow" target="_blank">Google</a>
+
+    </td>
+</tr>
+ <tr class="mainrow expand-container">
+    <td class="time">20:57</td>
+    <td>
+        <span class="artist">Shlomo </span>-<span class="title"> Don&#39;T Say No Ft. How To Dress Well</span>
+    </td>
+    <td class="moreinfo tune-list">
+        <a title="Mer information" href="#" class="icon expand-trigger plus blue" rel="nofollow"></a>
+    </td>
+</tr>
+<tr class="expandrow expanded-content">
+    <td></td>
+    <td colspan="2">
+            <span class="composerinfo">Komposit&#246;r: ?</span>
+        <span class="searchinfo">Sök: </span>
+        
+
+<a class="icon icnExternalLink spotify" href="http://open.spotify.com/search/artist:Shlomo%20track:Don&#39;T Say No Ft. How To Dress Well" rel="nofollow" target="_blank">Spotify</a>    
+<a class="icon icnExternalLink google" href="http://www.google.com/search?q=Shlomo Don&#39;T Say No Ft. How To Dress Well" rel="nofollow" target="_blank">Google</a>
+
+    </td>
+</tr>
+ <tr class="mainrow expand-container">
+    <td class="time">21:03</td>
+    <td>
+        <span class="artist">Andreas Mattsson </span>-<span class="title"> Festen Forts&#228;tter</span>
+    </td>
+    <td class="moreinfo tune-list">
+        <a title="Mer information" href="#" class="icon expand-trigger plus blue" rel="nofollow"></a>
+    </td>
+</tr>
+<tr class="expandrow expanded-content">
+    <td></td>
+    <td colspan="2">
+            <span class="composerinfo">Komposit&#246;r: Andreas Mattsson</span>
+        <span class="searchinfo">Sök: </span>
+        
+
+<a class="icon icnExternalLink spotify" href="http://open.spotify.com/search/artist:Andreas Mattsson%20track:Festen Forts&#228;tter" rel="nofollow" target="_blank">Spotify</a>    
+<a class="icon icnExternalLink google" href="http://www.google.com/search?q=Andreas Mattsson Festen Forts&#228;tter" rel="nofollow" target="_blank">Google</a>
+
+    </td>
+</tr>
+ <tr class="mainrow expand-container">
+    <td class="time">21:03</td>
+    <td>
+        <span class="artist">Dungen, Reine Fiske, Henrik Nilsson, Fredrik Bj&#246;rling </span>-<span class="title"> Krona</span>
+    </td>
+    <td class="moreinfo tune-list">
+        <a title="Mer information" href="#" class="icon expand-trigger plus blue" rel="nofollow"></a>
+    </td>
+</tr>
+<tr class="expandrow expanded-content">
+    <td></td>
+    <td colspan="2">
+            <span class="recordinfo">Album: Stadsvandringar</span>
+            <span class="composerinfo">Komposit&#246;r: Gustav Ejstes</span>
+        <span class="searchinfo">Sök: </span>
+        
+
+<a class="icon icnExternalLink spotify" href="http://open.spotify.com/search/artist:Dungen, Reine Fiske, Henrik Nilsson, Fredrik Bj&#246;rling%20track:Krona" rel="nofollow" target="_blank">Spotify</a>    
+<a class="icon icnExternalLink google" href="http://www.google.com/search?q=Dungen, Reine Fiske, Henrik Nilsson, Fredrik Bj&#246;rling Krona" rel="nofollow" target="_blank">Google</a>
+
+    </td>
+</tr>
+ <tr class="mainrow expand-container">
+    <td class="time">21:04</td>
+    <td>
+        <span class="artist">Dungen </span>-<span class="title"> Panda</span>
+    </td>
+    <td class="moreinfo tune-list">
+        <a title="Mer information" href="#" class="icon expand-trigger plus blue" rel="nofollow"></a>
+    </td>
+</tr>
+<tr class="expandrow expanded-content">
+    <td></td>
+    <td colspan="2">
+            <span class="recordinfo">Album: Ta Det Lugnt</span>
+            <span class="composerinfo">Komposit&#246;r: Gustav Ejstes</span>
+        <span class="searchinfo">Sök: </span>
+        
+
+<a class="icon icnExternalLink spotify" href="http://open.spotify.com/search/artist:Dungen%20track:Panda" rel="nofollow" target="_blank">Spotify</a>    
+<a class="icon icnExternalLink google" href="http://www.google.com/search?q=Dungen Panda" rel="nofollow" target="_blank">Google</a>
+
+    </td>
+</tr>
+ <tr class="mainrow expand-container">
+    <td class="time">21:06</td>
+    <td>
+        <span class="artist">Andreas Mattsson </span>-<span class="title"> Festen Forts&#228;tter</span>
+    </td>
+    <td class="moreinfo tune-list">
+        <a title="Mer information" href="#" class="icon expand-trigger plus blue" rel="nofollow"></a>
+    </td>
+</tr>
+<tr class="expandrow expanded-content">
+    <td></td>
+    <td colspan="2">
+            <span class="composerinfo">Komposit&#246;r: Andreas Mattsson</span>
+        <span class="searchinfo">Sök: </span>
+        
+
+<a class="icon icnExternalLink spotify" href="http://open.spotify.com/search/artist:Andreas Mattsson%20track:Festen Forts&#228;tter" rel="nofollow" target="_blank">Spotify</a>    
+<a class="icon icnExternalLink google" href="http://www.google.com/search?q=Andreas Mattsson Festen Forts&#228;tter" rel="nofollow" target="_blank">Google</a>
+
+    </td>
+</tr>
+ <tr class="mainrow expand-container">
+    <td class="time">21:06</td>
+    <td>
+        <span class="artist">Robyn, Kleerup </span>-<span class="title"> With Every Heartbeat</span>
+    </td>
+    <td class="moreinfo tune-list">
+        <a title="Mer information" href="#" class="icon expand-trigger plus blue" rel="nofollow"></a>
+    </td>
+</tr>
+<tr class="expandrow expanded-content">
+    <td></td>
+    <td colspan="2">
+            <span class="recordinfo">Album: With Every Heartbeat</span>
+            <span class="composerinfo">Komposit&#246;r: Robyn Carlsson, Andreas Kleerup</span>
+        <span class="searchinfo">Sök: </span>
+        
+
+<a class="icon icnExternalLink spotify" href="http://open.spotify.com/search/artist:Robyn, Kleerup%20track:With Every Heartbeat" rel="nofollow" target="_blank">Spotify</a>    
+<a class="icon icnExternalLink google" href="http://www.google.com/search?q=Robyn, Kleerup With Every Heartbeat" rel="nofollow" target="_blank">Google</a>
+
+    </td>
+</tr>
+ <tr class="mainrow expand-container">
+    <td class="time">21:12</td>
+    <td>
+        <span class="artist">Robyn </span>-<span class="title"> Handle Me</span>
+    </td>
+    <td class="moreinfo tune-list">
+        <a title="Mer information" href="#" class="icon expand-trigger plus blue" rel="nofollow"></a>
+    </td>
+</tr>
+<tr class="expandrow expanded-content">
+    <td></td>
+    <td colspan="2">
+            <span class="recordinfo">Album: Robyn</span>
+            <span class="composerinfo">Komposit&#246;r: Klas &#197;hlund</span>
+        <span class="searchinfo">Sök: </span>
+        
+
+<a class="icon icnExternalLink spotify" href="http://open.spotify.com/search/artist:Robyn%20track:Handle Me" rel="nofollow" target="_blank">Spotify</a>    
+<a class="icon icnExternalLink google" href="http://www.google.com/search?q=Robyn Handle Me" rel="nofollow" target="_blank">Google</a>
+
+    </td>
+</tr>
+ <tr class="mainrow expand-container">
+    <td class="time">21:14</td>
+    <td>
+        <span class="artist">Robyn, Kleerup </span>-<span class="title"> With Every Heartbeat</span>
+    </td>
+    <td class="moreinfo tune-list">
+        <a title="Mer information" href="#" class="icon expand-trigger plus blue" rel="nofollow"></a>
+    </td>
+</tr>
+<tr class="expandrow expanded-content">
+    <td></td>
+    <td colspan="2">
+            <span class="composerinfo">Komposit&#246;r: Robyn Carlsson, Andreas Kleerup</span>
+        <span class="searchinfo">Sök: </span>
+        
+
+<a class="icon icnExternalLink spotify" href="http://open.spotify.com/search/artist:Robyn, Kleerup%20track:With Every Heartbeat" rel="nofollow" target="_blank">Spotify</a>    
+<a class="icon icnExternalLink google" href="http://www.google.com/search?q=Robyn, Kleerup With Every Heartbeat" rel="nofollow" target="_blank">Google</a>
+
+    </td>
+</tr>
+ <tr class="mainrow expand-container">
+    <td class="time">21:19</td>
+    <td>
+        <span class="artist">Kartellen </span>-<span class="title"> Programrebeller</span>
+    </td>
+    <td class="moreinfo tune-list">
+        <a title="Mer information" href="#" class="icon expand-trigger plus blue" rel="nofollow"></a>
+    </td>
+</tr>
+<tr class="expandrow expanded-content">
+    <td></td>
+    <td colspan="2">
+            <span class="recordinfo">Album: Programrebeller</span>
+            <span class="composerinfo">Komposit&#246;r: Kartellen</span>
+        <span class="searchinfo">Sök: </span>
+        
+
+<a class="icon icnExternalLink spotify" href="http://open.spotify.com/search/artist:Kartellen%20track:Programrebeller" rel="nofollow" target="_blank">Spotify</a>    
+<a class="icon icnExternalLink google" href="http://www.google.com/search?q=Kartellen Programrebeller" rel="nofollow" target="_blank">Google</a>
+
+    </td>
+</tr>
+ <tr class="mainrow expand-container">
+    <td class="time">21:25</td>
+    <td>
+        <span class="artist">Hoffmaestro &amp; Chraa </span>-<span class="title"> Young Dad</span>
+    </td>
+    <td class="moreinfo tune-list">
+        <a title="Mer information" href="#" class="icon expand-trigger plus blue" rel="nofollow"></a>
+    </td>
+</tr>
+<tr class="expandrow expanded-content">
+    <td></td>
+    <td colspan="2">
+            <span class="recordinfo">Album: The Storm</span>
+            <span class="composerinfo">Komposit&#246;r: Tobias Karlsson, Jens Malml&#246;f</span>
+        <span class="searchinfo">Sök: </span>
+        
+
+<a class="icon icnExternalLink spotify" href="http://open.spotify.com/search/artist:Hoffmaestro &amp; Chraa%20track:Young Dad" rel="nofollow" target="_blank">Spotify</a>    
+<a class="icon icnExternalLink google" href="http://www.google.com/search?q=Hoffmaestro &amp; Chraa Young Dad" rel="nofollow" target="_blank">Google</a>
+
+    </td>
+</tr>
+ <tr class="mainrow expand-container">
+    <td class="time">21:27</td>
+    <td>
+        <span class="artist">Those Dancing Days </span>-<span class="title"> Hitten</span>
+    </td>
+    <td class="moreinfo tune-list">
+        <a title="Mer information" href="#" class="icon expand-trigger plus blue" rel="nofollow"></a>
+    </td>
+</tr>
+<tr class="expandrow expanded-content">
+    <td></td>
+    <td colspan="2">
+            <span class="recordinfo">Album: Those Dancing Days Ep</span>
+            <span class="composerinfo">Komposit&#246;r: Those Dancing Days</span>
+        <span class="searchinfo">Sök: </span>
+        
+
+<a class="icon icnExternalLink spotify" href="http://open.spotify.com/search/artist:Those Dancing Days%20track:Hitten" rel="nofollow" target="_blank">Spotify</a>    
+<a class="icon icnExternalLink google" href="http://www.google.com/search?q=Those Dancing Days Hitten" rel="nofollow" target="_blank">Google</a>
+
+    </td>
+</tr>
+ <tr class="mainrow expand-container">
+    <td class="time">21:33</td>
+    <td>
+        <span class="artist">Those Dancing Days </span>-<span class="title"> Can&#39;T Find Entrance</span>
+    </td>
+    <td class="moreinfo tune-list">
+        <a title="Mer information" href="#" class="icon expand-trigger plus blue" rel="nofollow"></a>
+    </td>
+</tr>
+<tr class="expandrow expanded-content">
+    <td></td>
+    <td colspan="2">
+            <span class="recordinfo">Album: Daydreams &amp; Nightmares</span>
+            <span class="composerinfo">Komposit&#246;r: Max (2) Martin, Shellback, Those Dancing Days</span>
+        <span class="searchinfo">Sök: </span>
+        
+
+<a class="icon icnExternalLink spotify" href="http://open.spotify.com/search/artist:Those Dancing Days%20track:Can&#39;T Find Entrance" rel="nofollow" target="_blank">Spotify</a>    
+<a class="icon icnExternalLink google" href="http://www.google.com/search?q=Those Dancing Days Can&#39;T Find Entrance" rel="nofollow" target="_blank">Google</a>
+
+    </td>
+</tr>
+ <tr class="mainrow expand-container">
+    <td class="time">21:40</td>
+    <td>
+        <span class="artist">Robyn </span>-<span class="title"> Dancing On My Own</span>
+    </td>
+    <td class="moreinfo tune-list">
+        <a title="Mer information" href="#" class="icon expand-trigger plus blue" rel="nofollow"></a>
+    </td>
+</tr>
+<tr class="expandrow expanded-content">
+    <td></td>
+    <td colspan="2">
+            <span class="recordinfo">Album: Dancing On My Own</span>
+            <span class="composerinfo">Komposit&#246;r: Patrik Berger, Robyn Carlsson</span>
+        <span class="searchinfo">Sök: </span>
+        
+
+<a class="icon icnExternalLink spotify" href="http://open.spotify.com/search/artist:Robyn%20track:Dancing On My Own" rel="nofollow" target="_blank">Spotify</a>    
+<a class="icon icnExternalLink google" href="http://www.google.com/search?q=Robyn Dancing On My Own" rel="nofollow" target="_blank">Google</a>
+
+    </td>
+</tr>
+ <tr class="mainrow expand-container">
+    <td class="time">21:45</td>
+    <td>
+        <span class="artist">Jos&#233; Gonzalez </span>-<span class="title"> Crosses</span>
+    </td>
+    <td class="moreinfo tune-list">
+        <a title="Mer information" href="#" class="icon expand-trigger plus blue" rel="nofollow"></a>
+    </td>
+</tr>
+<tr class="expandrow expanded-content">
+    <td></td>
+    <td colspan="2">
+            <span class="recordinfo">Album: Veneer</span>
+            <span class="composerinfo">Komposit&#246;r: Jos&#233; Gonzalez</span>
+        <span class="searchinfo">Sök: </span>
+        
+
+<a class="icon icnExternalLink spotify" href="http://open.spotify.com/search/artist:Jos&#233; Gonzalez%20track:Crosses" rel="nofollow" target="_blank">Spotify</a>    
+<a class="icon icnExternalLink google" href="http://www.google.com/search?q=Jos&#233; Gonzalez Crosses" rel="nofollow" target="_blank">Google</a>
+
+    </td>
+</tr>
+ <tr class="mainrow expand-container">
+    <td class="time">21:52</td>
+    <td>
+        <span class="artist">Lykke Li </span>-<span class="title"> Possibility</span>
+    </td>
+    <td class="moreinfo tune-list">
+        <a title="Mer information" href="#" class="icon expand-trigger plus blue" rel="nofollow"></a>
+    </td>
+</tr>
+<tr class="expandrow expanded-content">
+    <td></td>
+    <td colspan="2">
+            <span class="recordinfo">Album: The Twilight Saga: New Moon</span>
+            <span class="composerinfo">Komposit&#246;r: Lykke Li Zachrisson</span>
+        <span class="searchinfo">Sök: </span>
+        
+
+<a class="icon icnExternalLink spotify" href="http://open.spotify.com/search/artist:Lykke Li%20track:Possibility" rel="nofollow" target="_blank">Spotify</a>    
+<a class="icon icnExternalLink google" href="http://www.google.com/search?q=Lykke Li Possibility" rel="nofollow" target="_blank">Google</a>
+
+    </td>
+</tr>
+ <tr class="mainrow expand-container">
+    <td class="time">21:56</td>
+    <td>
+        <span class="artist">The Radio Department </span>-<span class="title"> Pulling Our Weight</span>
+    </td>
+    <td class="moreinfo tune-list">
+        <a title="Mer information" href="#" class="icon expand-trigger plus blue" rel="nofollow"></a>
+    </td>
+</tr>
+<tr class="expandrow expanded-content">
+    <td></td>
+    <td colspan="2">
+            <span class="recordinfo">Album: Pulling Our Weight</span>
+            <span class="composerinfo">Komposit&#246;r: Johan Duncanson</span>
+        <span class="searchinfo">Sök: </span>
+        
+
+<a class="icon icnExternalLink spotify" href="http://open.spotify.com/search/artist:The Radio Department%20track:Pulling Our Weight" rel="nofollow" target="_blank">Spotify</a>    
+<a class="icon icnExternalLink google" href="http://www.google.com/search?q=The Radio Department Pulling Our Weight" rel="nofollow" target="_blank">Google</a>
+
+    </td>
+</tr>
+ <tr class="mainrow expand-container">
+    <td class="time">21:59</td>
+    <td>
+        <span class="artist">Andreas Mattsson </span>-<span class="title"> Festen Forts&#228;tter</span>
+    </td>
+    <td class="moreinfo tune-list">
+        <a title="Mer information" href="#" class="icon expand-trigger plus blue" rel="nofollow"></a>
+    </td>
+</tr>
+<tr class="expandrow expanded-content">
+    <td></td>
+    <td colspan="2">
+            <span class="composerinfo">Komposit&#246;r: Andreas Mattsson</span>
+        <span class="searchinfo">Sök: </span>
+        
+
+<a class="icon icnExternalLink spotify" href="http://open.spotify.com/search/artist:Andreas Mattsson%20track:Festen Forts&#228;tter" rel="nofollow" target="_blank">Spotify</a>    
+<a class="icon icnExternalLink google" href="http://www.google.com/search?q=Andreas Mattsson Festen Forts&#228;tter" rel="nofollow" target="_blank">Google</a>
+
+    </td>
+</tr>        </tbody>
+    </table>    
+    <table cellpadding="0" cellspacing="0">
+        <thead id="listhead">
+            <tr>
+                <th scope="col">Tid</th>
+                <th scope="col">Låt</th>
+                <th class="latlista" scope="col">Mer om låten</th>
+            </tr>
+        </thead>
+        <tbody id="listbody">
+
+ <tr class="mainrow expand-container">
+    <td class="time">23:08</td>
+    <td>
+        <span class="artist">Shout Out Louds </span>-<span class="title"> Walking In Your Footsteps</span>
+    </td>
+    <td class="moreinfo tune-list">
+        <a title="Mer information" href="#" class="icon expand-trigger plus blue" rel="nofollow"></a>
+    </td>
+</tr>
+<tr class="expandrow expanded-content">
+    <td></td>
+    <td colspan="2">
+            <span class="recordinfo">Album: Walking In Your Footsteps</span>
+            <span class="composerinfo">Komposit&#246;r: Adam Olenius</span>
+        <span class="searchinfo">Sök: </span>
+        
+
+<a class="icon icnExternalLink spotify" href="http://open.spotify.com/search/artist:Shout Out Louds%20track:Walking In Your Footsteps" rel="nofollow" target="_blank">Spotify</a>    
+<a class="icon icnExternalLink google" href="http://www.google.com/search?q=Shout Out Louds Walking In Your Footsteps" rel="nofollow" target="_blank">Google</a>
+
+    </td>
+</tr>
+ <tr class="mainrow expand-container">
+    <td class="time">23:16</td>
+    <td>
+        <span class="artist">Mando Diao </span>-<span class="title"> En S&#229;ngarsaga</span>
+    </td>
+    <td class="moreinfo tune-list">
+        <a title="Mer information" href="#" class="icon expand-trigger plus blue" rel="nofollow"></a>
+    </td>
+</tr>
+<tr class="expandrow expanded-content">
+    <td></td>
+    <td colspan="2">
+            <span class="recordinfo">Album: En S&#229;ngarsaga</span>
+            <span class="composerinfo">Komposit&#246;r: Mando Diao</span>
+        <span class="searchinfo">Sök: </span>
+        
+
+<a class="icon icnExternalLink spotify" href="http://open.spotify.com/search/artist:Mando Diao%20track:En S&#229;ngarsaga" rel="nofollow" target="_blank">Spotify</a>    
+<a class="icon icnExternalLink google" href="http://www.google.com/search?q=Mando Diao En S&#229;ngarsaga" rel="nofollow" target="_blank">Google</a>
+
+    </td>
+</tr>
+ <tr class="mainrow expand-container">
+    <td class="time">23:25</td>
+    <td>
+        <span class="artist">Zedd, Foxes </span>-<span class="title"> Clarity (Radio Mix)</span>
+    </td>
+    <td class="moreinfo tune-list">
+        <a title="Mer information" href="#" class="icon expand-trigger plus blue" rel="nofollow"></a>
+    </td>
+</tr>
+<tr class="expandrow expanded-content">
+    <td></td>
+    <td colspan="2">
+            <span class="recordinfo">Album: Clarity</span>
+            <span class="composerinfo">Komposit&#246;r: H Hafferman, Matthew Koma, Porter Robinson, Anton Zaslavski</span>
+        <span class="searchinfo">Sök: </span>
+        
+
+<a class="icon icnExternalLink spotify" href="http://open.spotify.com/search/artist:Zedd, Foxes%20track:Clarity (Radio Mix)" rel="nofollow" target="_blank">Spotify</a>    
+<a class="icon icnExternalLink google" href="http://www.google.com/search?q=Zedd, Foxes Clarity (Radio Mix)" rel="nofollow" target="_blank">Google</a>
+
+    </td>
+</tr>
+ <tr class="mainrow expand-container">
+    <td class="time">23:29</td>
+    <td>
+        <span class="artist">Feed Me, Crystal Fighters </span>-<span class="title"> Love Is All I Got</span>
+    </td>
+    <td class="moreinfo tune-list">
+        <a title="Mer information" href="#" class="icon expand-trigger plus blue" rel="nofollow"></a>
+    </td>
+</tr>
+<tr class="expandrow expanded-content">
+    <td></td>
+    <td colspan="2">
+            <span class="recordinfo">Album: Love Is All I Got</span>
+            <span class="composerinfo">Komposit&#246;r: Jon Gooch</span>
+        <span class="searchinfo">Sök: </span>
+        
+
+<a class="icon icnExternalLink spotify" href="http://open.spotify.com/search/artist:Feed Me, Crystal Fighters%20track:Love Is All I Got" rel="nofollow" target="_blank">Spotify</a>    
+<a class="icon icnExternalLink google" href="http://www.google.com/search?q=Feed Me, Crystal Fighters Love Is All I Got" rel="nofollow" target="_blank">Google</a>
+
+    </td>
+</tr>
+ <tr class="mainrow expand-container">
+    <td class="time">23:36</td>
+    <td>
+        <span class="artist">Petter, Daniel Adams-Ray </span>-<span class="title"> H&#229;ll Om Mig</span>
+    </td>
+    <td class="moreinfo tune-list">
+        <a title="Mer information" href="#" class="icon expand-trigger plus blue" rel="nofollow"></a>
+    </td>
+</tr>
+<tr class="expandrow expanded-content">
+    <td></td>
+    <td colspan="2">
+            <span class="recordinfo">Album: H&#229;ll Om Mig</span>
+            <span class="composerinfo">Komposit&#246;r: S Al-Fakir, Magnus Lideh&#228;ll, Vincent Pontare</span>
+        <span class="searchinfo">Sök: </span>
+        
+
+<a class="icon icnExternalLink spotify" href="http://open.spotify.com/search/artist:Petter, Daniel Adams-Ray%20track:H&#229;ll Om Mig" rel="nofollow" target="_blank">Spotify</a>    
+<a class="icon icnExternalLink google" href="http://www.google.com/search?q=Petter, Daniel Adams-Ray H&#229;ll Om Mig" rel="nofollow" target="_blank">Google</a>
+
+    </td>
+</tr>
+ <tr class="mainrow expand-container">
+    <td class="time">23:42</td>
+    <td>
+        <span class="artist">Noonie Bao </span>-<span class="title"> The Game</span>
+    </td>
+    <td class="moreinfo tune-list">
+        <a title="Mer information" href="#" class="icon expand-trigger plus blue" rel="nofollow"></a>
+    </td>
+</tr>
+<tr class="expandrow expanded-content">
+    <td></td>
+    <td colspan="2">
+            <span class="composerinfo">Komposit&#246;r: Das Pop</span>
+        <span class="searchinfo">Sök: </span>
+        
+
+<a class="icon icnExternalLink spotify" href="http://open.spotify.com/search/artist:Noonie Bao%20track:The Game" rel="nofollow" target="_blank">Spotify</a>    
+<a class="icon icnExternalLink google" href="http://www.google.com/search?q=Noonie Bao The Game" rel="nofollow" target="_blank">Google</a>
+
+    </td>
+</tr>
+ <tr class="mainrow expand-container">
+    <td class="time">23:48</td>
+    <td>
+        <span class="artist">Molitor, Sebastian Silverberg </span>-<span class="title"> Open Your Eyes (Radio)</span>
+    </td>
+    <td class="moreinfo tune-list">
+        <a title="Mer information" href="#" class="icon expand-trigger plus blue" rel="nofollow"></a>
+    </td>
+</tr>
+<tr class="expandrow expanded-content">
+    <td></td>
+    <td colspan="2">
+            <span class="recordinfo">Album: Open Your Eyes (Radio)</span>
+            <span class="composerinfo">Komposit&#246;r: Peter Arrhenius, Daniel Andreasson, Per Carl&#233;n, Lisa James Larsson, Magnus Tingsek</span>
+        <span class="searchinfo">Sök: </span>
+        
+
+<a class="icon icnExternalLink spotify" href="http://open.spotify.com/search/artist:Molitor, Sebastian Silverberg%20track:Open Your Eyes (Radio)" rel="nofollow" target="_blank">Spotify</a>    
+<a class="icon icnExternalLink google" href="http://www.google.com/search?q=Molitor, Sebastian Silverberg Open Your Eyes (Radio)" rel="nofollow" target="_blank">Google</a>
+
+    </td>
+</tr>
+ <tr class="mainrow expand-container">
+    <td class="time">23:54</td>
+    <td>
+        <span class="artist">Linena Henriksson, Hej Kalle, Kalle Moraeus </span>-<span class="title"> Jag Vet N&#229;t Som Inte Du Vet</span>
+    </td>
+    <td class="moreinfo tune-list">
+        <a title="Mer information" href="#" class="icon expand-trigger plus blue" rel="nofollow"></a>
+    </td>
+</tr>
+<tr class="expandrow expanded-content">
+    <td></td>
+    <td colspan="2">
+            <span class="composerinfo">Komposit&#246;r: Linnea Henriksson, Bj&#246;rn Hallberg</span>
+        <span class="searchinfo">Sök: </span>
+        
+
+<a class="icon icnExternalLink spotify" href="http://open.spotify.com/search/artist:Linena Henriksson, Hej Kalle, Kalle Moraeus%20track:Jag Vet N&#229;t Som Inte Du Vet" rel="nofollow" target="_blank">Spotify</a>    
+<a class="icon icnExternalLink google" href="http://www.google.com/search?q=Linena Henriksson, Hej Kalle, Kalle Moraeus Jag Vet N&#229;t Som Inte Du Vet" rel="nofollow" target="_blank">Google</a>
+
+    </td>
+</tr>
+ <tr class="mainrow expand-container">
+    <td class="time">23:57</td>
+    <td>
+        <span class="artist">Kesha </span>-<span class="title"> C&#39;Mon</span>
+    </td>
+    <td class="moreinfo tune-list">
+        <a title="Mer information" href="#" class="icon expand-trigger plus blue" rel="nofollow"></a>
+    </td>
+</tr>
+<tr class="expandrow expanded-content">
+    <td></td>
+    <td colspan="2">
+            <span class="recordinfo">Album: Warrior</span>
+            <span class="composerinfo">Komposit&#246;r: Lukasz Gottwald, Benjamin Levin, Max Martin, Bonnie Mckee, Kesha Sebert, Henry Walter</span>
+        <span class="searchinfo">Sök: </span>
+        
+
+<a class="icon icnExternalLink spotify" href="http://open.spotify.com/search/artist:Kesha%20track:C&#39;Mon" rel="nofollow" target="_blank">Spotify</a>    
+<a class="icon icnExternalLink google" href="http://www.google.com/search?q=Kesha C&#39;Mon" rel="nofollow" target="_blank">Google</a>
+
+    </td>
+</tr>        </tbody>
+    </table>    
+<a class="icnPrintLink clearfix" href="#" title="Utskriftsvänligt format">Skriv ut låtlistan</a>
+<nav role="navigation">
+	<div class="archiveNavigation clearfix">
+	<div class="quickBar">
+		<a href="/sida/latlista.aspx?programid=164&amp;date=2013-02-18" class="icon backward-large"><span>Föregående</span></a>
+		<span class="dateRange">tisdag 19 februari 2013</span>
+		<a href="/sida/latlista.aspx?programid=164&amp;date=2013-02-20" class="icon forward-large"><span>Nästa</span></a>
+	</div>
+</div>
+</nav>		</div>
+	</section>
+
+            </div>
+        </div>
+		<div class="asideColumn fixed-heading">
+			    <div class="rightColumn">
+        <div class="sr-cal-container">
+            <div data-require="modules/calendar" class="{startDate: '2012-06-01 14:14:47', endDate: '2013-06-01 14:07:11'}">
+            </div>
+        </div>
+        <div class="srModule">
+            <div class="srModuleHeader">
+                <h2>Fler Låtlistor</h2>
+            </div>
+            <div class="srModuleContent">
+                <div class="col-content">
+                    <ul>
+                        <li>
+                            <a href="/sida/latlista.aspx?programid=163">P2</a>
+                        </li>
+                        <li>
+                            <a href="/sida/latlista.aspx?programid=164">P3</a>
+                        </li>
+                        <li>
+                            <a href="/sida/latlista.aspx?programid=213">P4 Blekinge</a>
+                        </li>
+                        <li>
+                            <a href="/sida/latlista.aspx?programid=223">P4 Dalarna</a>
+                        </li>
+                        <li>
+                            <a href="/sida/latlista.aspx?programid=205">P4 Gotland</a>
+                        </li>
+                        <li>
+                            <a href="/sida/latlista.aspx?programid=210">P4 G&#228;vleborg</a>
+                        </li>
+                        <li>
+                            <a href="/sida/latlista.aspx?programid=212">P4 G&#246;teborg</a>
+                        </li>
+                        <li>
+                            <a href="/sida/latlista.aspx?programid=220">P4 Halland</a>
+                        </li>
+                        <li>
+                            <a href="/sida/latlista.aspx?programid=200">P4 J&#228;mtland</a>
+                        </li>
+                        <li>
+                            <a href="/sida/latlista.aspx?programid=203">P4 J&#246;nk&#246;ping</a>
+                        </li>
+                        <li>
+                            <a href="/sida/latlista.aspx?programid=201">P4 Kalmar</a>
+                        </li>
+                        <li>
+                            <a href="/sida/latlista.aspx?programid=211">P4 Kristianstad</a>
+                        </li>
+                        <li>
+                            <a href="/sida/latlista.aspx?programid=214">P4 Kronoberg</a>
+                        </li>
+                        <li>
+                            <a href="/sida/latlista.aspx?programid=207">P4 Malm&#246;hus</a>
+                        </li>
+                        <li>
+                            <a href="/sida/latlista.aspx?programid=209">P4 Norrbotten</a>
+                        </li>
+                        <li>
+                            <a href="/sida/latlista.aspx?programid=206">P4 Sjuh&#228;rad</a>
+                        </li>
+                        <li>
+                            <a href="/sida/latlista.aspx?programid=208">P4 Skaraborg</a>
+                        </li>
+                        <li>
+                            <a href="/sida/latlista.aspx?programid=701">P4 Stockholm</a>
+                        </li>
+                        <li>
+                            <a href="/sida/latlista.aspx?programid=202">P4 S&#246;rmland</a>
+                        </li>
+                        <li>
+                            <a href="/sida/latlista.aspx?programid=218">P4 Uppland</a>
+                        </li>
+                        <li>
+                            <a href="/sida/latlista.aspx?programid=204">P4 V&#228;rmland</a>
+                        </li>
+                        <li>
+                            <a href="/sida/latlista.aspx?programid=219">P4 V&#228;st</a>
+                        </li>
+                        <li>
+                            <a href="/sida/latlista.aspx?programid=215">P4 V&#228;sterbotten</a>
+                        </li>
+                        <li>
+                            <a href="/sida/latlista.aspx?programid=216">P4 V&#228;sternorrland</a>
+                        </li>
+                        <li>
+                            <a href="/sida/latlista.aspx?programid=217">P4 V&#228;stmanland</a>
+                        </li>
+                        <li>
+                            <a href="/sida/latlista.aspx?programid=221">P4 &#214;rebro</a>
+                        </li>
+                        <li>
+                            <a href="/sida/latlista.aspx?programid=222">P4 &#214;sterg&#246;tland</a>
+                        </li>
+                        <li>
+                            <a href="/sida/latlista.aspx?programid=224">SR S&#225;pmi</a>
+                        </li>
+                        <li>
+                            <a href="/sida/latlista.aspx?programid=226">SR Sisuradio</a>
+                        </li>
+                        <li>
+                            <a href="/sida/latlista.aspx?programid=2576">Din gata</a>
+                        </li>
+                        <li>
+                            <a href="/sida/latlista.aspx?programid=2842">Metropol</a>
+                        </li>
+                        <li>
+                            <a href="/sida/latlista.aspx?programid=2562">P2 Musik</a>
+                        </li>
+                        <li>
+                            <a href="/sida/latlista.aspx?programid=1607">P3 Star</a>
+                        </li>
+                        <li>
+                            <a href="/sida/latlista.aspx?programid=2755">Radioapans knattekanal</a>
+                        </li>
+                        <li>
+                            <a href="/sida/latlista.aspx?programid=1603">P2 Klassiskt</a>
+                        </li>
+                        <li>
+                            <a href="/sida/latlista.aspx?programid=2619">P2 V&#228;rlden</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+
+		</div>
+    </div>
+
+<div data-require="modules/ajaxloader" data-ajax-action="load" data-ajax-cache="true" class="content-url-/sida/discover/ajax/?programid=3630&amp;header=&amp;subHeader=">
+    <div id="srDiscover" class="srModule cols-6-3-3 jaggedSeparator ajax-target"></div>
+</div>
+
+
+
+
+
+
+
+                </div>
+            </div>
+        </div>
+    </section>
+    <footer>
+	<div id="srFooterWrapper" class="clearfix">
+		<div id="srFooter">
+			<div class="sr-titles-container srFooterContent roundCorner8pixels pageBackgroundColor nocontent">
+				
+<h1>Sajtkarta</h1>
+
+<div id="allonsr">
+    <div class="footer-sitemap-links" data-require="modules/sr.columns" data-columns-width="155" data-columns-height="200">
+            <h2 class="rubrik">GUIDER</h2>
+            <ul>
+                <li><a href="/p1">P1</a></li>
+                <li><a href="/p2">P2</a></li>
+                <li><a href="/p3">P3</a></li>
+                <li><a href="/blekinge/">P4 Blekinge</a></li>
+                <li><a href="/dalarna/">P4 Dalarna</a></li>
+                <li><a href="/gotland/">P4 Gotland</a></li>
+                <li><a href="/gavleborg/">P4 G&#228;vleborg</a></li>
+                <li><a href="/goteborg/">P4 G&#246;teborg</a></li>
+                <li><a href="/halland/">P4 Halland</a></li>
+                <li><a href="/jamtland/">P4 J&#228;mtland</a></li>
+                <li><a href="/jonkoping/">P4 J&#246;nk&#246;ping</a></li>
+                <li><a href="/kalmar/">P4 Kalmar</a></li>
+                <li><a href="/kristianstad/">P4 Kristianstad</a></li>
+                <li><a href="/kronoberg/">P4 Kronoberg</a></li>
+                <li><a href="/malmo/">P4 Malm&#246;hus</a></li>
+                <li><a href="/norrbotten/">P4 Norrbotten</a></li>
+                <li><a href="/radiosporten/">P4 Radiosporten</a></li>
+                <li><a href="/sjuharad/">P4 Sjuh&#228;rad</a></li>
+                <li><a href="/skaraborg/">P4 Skaraborg</a></li>
+                <li><a href="/stockholm/">P4 Stockholm</a></li>
+                <li><a href="/sormland/">P4 S&#246;rmland</a></li>
+                <li><a href="/uppland/">P4 Uppland</a></li>
+                <li><a href="/varmland/">P4 V&#228;rmland</a></li>
+                <li><a href="/vast/">P4 V&#228;st</a></li>
+                <li><a href="/vasterbotten/">P4 V&#228;sterbotten</a></li>
+                <li><a href="/vasternorrland/">P4 V&#228;sternorrland</a></li>
+                <li><a href="/vastmanland/">P4 V&#228;stmanland</a></li>
+                <li><a href="/orebro/">P4 &#214;rebro</a></li>
+                <li><a href="/ostergotland/">P4 &#214;sterg&#246;tland</a></li>
+                <li><a href="http://sverigesradio.se/nyheter">Nyheter</a></li>
+                <li><a href="http://sverigesradio.se/sport">Sport</a></li>
+                <li><a href="http://sverigesradio.se/barn">Barn</a></li>
+            </ul>
+            <h2 class="rubrik">MINORITET &amp; SPR&#197;K</h2>
+            <ul>
+                <li><a href="/sameradion/">Sameradion</a></li>
+                <li><a href="/sisuradio/">Sisuradio</a></li>
+                <li><a href="/sida/default.aspx?programid=2494">العربية (arabiska)</a></li>
+                <li><a href="/sida/default.aspx?programid=2108">Deutsch (tyska)</a></li>
+                <li><a href="/sida/default.aspx?programid=2054">English (engelska)</a></li>
+                <li><a href="/sida/default.aspx?programid=2200">Kurd&#238; كوردی (kurdiska)</a></li>
+                <li><a href="/sida/default.aspx?programid=1017">Me&#228;nkieli</a></li>
+                <li><a href="/sida/default.aspx?programid=2493">فارسی (persiska)</a></li>
+                <li><a href="/sida/default.aspx?programid=2122">Romani</a></li>
+                <li><a href="/sida/default.aspx?programid=2103">Русский (ryska)</a></li>
+                <li><a href="/sameradion/">S&#225;mi</a></li>
+                <li><a href="/sida/default.aspx?programid=2172">Somali (somaliska)</a></li>
+                <li><a href="/sisuradio/">Suomi</a></li>
+            </ul>
+            <h2 class="rubrik">FLER KANALER</h2>
+            <ul>
+                <li><a href="/sida/default.aspx?programid=2576">Din gata</a></li>
+                <li><a href="/sida/default.aspx?programid=2842">Metropol</a></li>
+                <li><a href="/srminnen">Minnen</a></li>
+                <li><a href="/p2/srk/">P2 Klassiskt</a></li>
+                <li><a href="/sida/tabla.aspx?programid=2562">P2 Musik</a></li>
+                <li><a href="/srvarlden/">P2 V&#228;rlden</a></li>
+                <li><a href="/p3star">P3 Star</a></li>
+                <li><a href="/sida/default.aspx?ProgramId=2521">P4 Melodifest</a></li>
+                <li><a href="/sida/default.aspx?programid=2755">Radioapans knattekanal</a></li>
+            </ul>
+            <h2 class="rubrik">TEMASIDOR</h2>
+            <ul>
+                <li><a href="/sida/gruppsida.aspx?programid=4206&amp;grupp=16071">Dawit Isaak</a></li>
+                <li><a href="/sida/default.aspx?programid=478">Kultur</a></li>
+                <li><a href="/sida/default.aspx?programid=406">Vetenskap &amp; milj&#246;</a></li>
+            </ul>
+            <h2 class="rubrik">TJ&#196;NSTER</h2>
+            <ul>
+                <li><a href="/sida/default.aspx?programid=2574">Butiken</a></li>
+                <li><a href="/berwaldhallen">Berwaldhallen - konserthus</a></li>
+                <li><a href="/sida/default.aspx?programid=2205">Digitalradion/DAB</a></li>
+                <li><a href="/sida/default.aspx?programid=3072">Lyssnarservice</a></li>
+                <li><a href="/sida/default.aspx?programid=2332">Poddradio</a></li>
+                <li><a href="/sida/default.aspx?programid=4069">Radioleaks</a></li>
+                <li><a href="http://kundo.se/org/sverigesradio/">Support</a></li>
+                <li><a href="/trafik">Trafik</a></li>
+                <li><a href="/vader">V&#228;der</a></li>
+            </ul>
+    </div>
+    <div class="info">
+        
+<div class="listContainer row_0 c28">
+    <ul>
+			<li >
+    <a href="/sida/default.aspx?programid=3113"      >Om företaget</a>
+			</li>
+			<li >
+    <a href="/press/"      >Pressinformation</a>
+			</li>
+			<li >
+    <a href="/sida/artikel.aspx?programid=3113&amp;artikel=1971266"      >Jobba hos oss</a>
+			</li>
+			<li >
+    <a href="http://www.teracom.se/?page=5131"     rel="nofollow"
+     title="Frekvenser (Teracom) (&#246;ppnas i eget f&#246;nster)"
+     class="icnExternalLink"
+     target="_blank"
+  >Frekvenser (Teracom)</a>
+			</li>
+			<li >
+    <a href="/sida/artikel.aspx?programid=3113&amp;artikel=1971594"      >Kontakta oss</a>
+			</li>
+			<li >
+    <a href="http://kundo.se/org/sverigesradio/"     rel="nofollow"
+     title="Webbsupport (&#246;ppnas i eget f&#246;nster)"
+     class="icnExternalLink"
+     target="_blank"
+  >Webbsupport</a>
+			</li>
+			<li >
+    <a href="/sida/artikel.aspx?programid=3756&amp;artikel=4771512"      title="S&#229; anv&#228;nder Sveriges Radio &quot;cookies&quot;"
+    >Så använder vi "cookies"</a>
+    <span class="tooltip">Så använder Sveriges Radio "cookies"</span>
+			</li>
+    </ul>
+</div>
+
+
+
+
+        
+
+
+
+
+                
+
+
+
+
+
+
+
+    </div>
+</div>
+			</div>
+            
+<div id="srPageSettings" class="srFooterContent roundCorner8pixels pageBackgroundColor">
+	<h2 class="l-hd">
+		<span class="main-sprite settings-bottom-sprite settings-bottom">&nbsp;</span> Välj version av den här sidan
+	</h2>
+	<div class="info">
+		<ul class="srSiteAlternatives">
+			<li><strong><span class="icon check black">&nbsp;</span>Full version av sverigesradio.se </strong>
+				<p>
+					Den version av sajten som är avsedd för datorer.
+				</p>
+			</li>
+			<li><a rel="nofollow" href="/sida/redirect.ashx?sitepreference=touch&amp;url=http%3a%2f%2fm.sverigesradio.se%2fl%25c3%25a5tlista%2findex%2f164">
+				<span class="icon arrow">&nbsp;</span>Byt till sajt för pekskärmar</a>
+				<p>
+					Sverigesradio.se anpassad speciellt för smarta mobiler och surfplattor.
+				</p>
+			</li>
+			<li><a rel="nofollow" href="/sida/redirect.ashx?sitepreference=mobile&amp;url=http%3a%2f%2fmini.sverigesradio.se%2f">
+				<span class="icon arrow">&nbsp;</span>Byt till sajt för enklare mobiltelefoner</a>
+				<p>
+					För dig med en mobiltelefon utan pekskärm.
+				</p>
+			</li>
+		</ul>
+		<ul class="archiveTypeNavigationButton playerOptions">
+			<li>
+				<a class="turnOnSRPlayer" href="#">LYSSNA MED FLASH</a>
+			</li>
+			<li>
+				<a class="turnOffSRPlayer" href="#">LYSSNA UTAN FLASH</a>
+			</li>
+		</ul>
+	</div>
+</div>
+
+			<div class="copyright">
+				© Copyright Sveriges Radio 2013 | Ansvarig utgivare: Lotta Kjellin | Besöksadress (sthlm) för Sveriges Radio AB - Oxenstiernsgatan 20 - 105 10 Stockholm - växel: 08-784 50 00 | <a href="/sida/artikel.aspx?programid=3113&amp;artikel=2025794">Fler besöksadresser</a>
+			</div>
+		</div>
+	</div>
+</footer>
+<!-- / Footer -->
+<div id="no-javascript">
+	<p>
+		<a href="/support">Du måste aktivera javascript för att se sverigesradio.se korrekt.
+			Läs mer på sverigesradio/support</a>
+	</p>
+</div>
+    
+<div id="srPlayerWrapper">
+    <div id="srPlayer" class="text-white " data-require="modules/sr.playerselector">
+	<ul id="srPlayerBody" class="playerLinks clearfix pageWidth">
+        <li id="myRadio" class="nobg">
+            <h1>
+                <span class="main-sprite myradio-heart-sprite">&nbsp;</span>
+                <a	href="#" class="big-heart white tooltip {customClass:&#39;playerTooltip&#39;,alignment:&#39;rel&#39;,x:0,y:-20}"><span>Min radio</span></a>
+                <span class="tooltip"><strong>Öppna Min radio för mer information om vad som spelas</strong></span>
+            </h1>
+            <span class="icon downarrow"></span>
+        </li>
+        <li id="swfWrapper" class="srPlayerSwf nobg">
+            <div id="srPlayerSwf" class="srPlayerSwf">
+                <p>
+                    För att lyssna i spelaren måste du ha 
+                    <a href="http://www.adobe.com/go/getflashplayer/" rel="nofollow">Adobe Flash</a> 
+                    installerat på din dator. Det går även att lyssna med våra 
+                    <a href="/sida/gruppsida.aspx?programid=3756&amp;grupp=10632">direktlänkar</a>. 
+                    <a class="close icon" href="#">Ok</a>
+                </p>
+            </div>
+        </li>
+		<li id="chooseRadioChannel">
+			<div class="expand-container">
+			<a	href="#"
+				class="button blackonblack button expand-trigger static-text channelChooser tooltip {customClass:&#39;playerTooltip&#39;,alignment:&#39;rel&#39;,x:0,y:-20}"
+				title="Välj kanal">
+				<span><strong>Välj kanal</strong></span>
+			</a>
+			<span class="tooltip"><strong>Välj bland 40 direktsända kanaler</strong></span>
+			<div class="channelChooserContainer text-black expanded-content">
+				    <ul class="col">
+        <li class="srmem-opt-132"><a href="/topsy/direkt/132.rtmp" class="icon live play">P1</a></li>
+        <li class="srmem-opt-163"><a href="/topsy/direkt/163.rtmp" class="icon live play">P2</a></li>
+        <li class="srmem-opt-164"><a href="/topsy/direkt/164.rtmp" class="icon live play">P3</a></li>
+        <li class="srmem-opt-179"><a href="/topsy/direkt/179.rtmp" class="icon live play">P4 Radiosporten</a></li>
+        <li class="srmem-opt-213"><a href="/topsy/direkt/213.rtmp" class="icon live play">P4 Blekinge</a></li>
+        <li class="srmem-opt-223"><a href="/topsy/direkt/223.rtmp" class="icon live play">P4 Dalarna</a></li>
+        <li class="srmem-opt-205"><a href="/topsy/direkt/205.rtmp" class="icon live play">P4 Gotland</a></li>
+        <li class="srmem-opt-210"><a href="/topsy/direkt/210.rtmp" class="icon live play">P4 G&#228;vleborg</a></li>
+    </ul>
+
+				    <ul class="col">
+        <li class="srmem-opt-212"><a href="/topsy/direkt/212.rtmp" class="icon live play">P4 G&#246;teborg</a></li>
+        <li class="srmem-opt-220"><a href="/topsy/direkt/220.rtmp" class="icon live play">P4 Halland</a></li>
+        <li class="srmem-opt-200"><a href="/topsy/direkt/200.rtmp" class="icon live play">P4 J&#228;mtland</a></li>
+        <li class="srmem-opt-203"><a href="/topsy/direkt/203.rtmp" class="icon live play">P4 J&#246;nk&#246;ping</a></li>
+        <li class="srmem-opt-201"><a href="/topsy/direkt/201.rtmp" class="icon live play">P4 Kalmar</a></li>
+        <li class="srmem-opt-211"><a href="/topsy/direkt/211.rtmp" class="icon live play">P4 Kristianstad</a></li>
+        <li class="srmem-opt-214"><a href="/topsy/direkt/214.rtmp" class="icon live play">P4 Kronoberg</a></li>
+        <li class="srmem-opt-207"><a href="/topsy/direkt/207.rtmp" class="icon live play">P4 Malm&#246;hus</a></li>
+    </ul>
+
+				    <ul class="col">
+        <li class="srmem-opt-209"><a href="/topsy/direkt/209.rtmp" class="icon live play">P4 Norrbotten</a></li>
+        <li class="srmem-opt-206"><a href="/topsy/direkt/206.rtmp" class="icon live play">P4 Sjuh&#228;rad</a></li>
+        <li class="srmem-opt-208"><a href="/topsy/direkt/208.rtmp" class="icon live play">P4 Skaraborg</a></li>
+        <li class="srmem-opt-701"><a href="/topsy/direkt/701.rtmp" class="icon live play">P4 Stockholm</a></li>
+        <li class="srmem-opt-202"><a href="/topsy/direkt/202.rtmp" class="icon live play">P4 S&#246;rmland</a></li>
+        <li class="srmem-opt-218"><a href="/topsy/direkt/218.rtmp" class="icon live play">P4 Uppland</a></li>
+        <li class="srmem-opt-204"><a href="/topsy/direkt/204.rtmp" class="icon live play">P4 V&#228;rmland</a></li>
+        <li class="srmem-opt-219"><a href="/topsy/direkt/219.rtmp" class="icon live play">P4 V&#228;st</a></li>
+    </ul>
+
+				    <ul class="col">
+        <li class="srmem-opt-215"><a href="/topsy/direkt/215.rtmp" class="icon live play">P4 V&#228;sterbotten</a></li>
+        <li class="srmem-opt-216"><a href="/topsy/direkt/216.rtmp" class="icon live play">P4 V&#228;sternorrland</a></li>
+        <li class="srmem-opt-217"><a href="/topsy/direkt/217.rtmp" class="icon live play">P4 V&#228;stmanland</a></li>
+        <li class="srmem-opt-221"><a href="/topsy/direkt/221.rtmp" class="icon live play">P4 &#214;rebro</a></li>
+        <li class="srmem-opt-222"><a href="/topsy/direkt/222.rtmp" class="icon live play">P4 &#214;sterg&#246;tland</a></li>
+        <li class="srmem-opt-2576"><a href="/topsy/direkt/2576.rtmp" class="icon live play">Din gata</a></li>
+        <li class="srmem-opt-2842"><a href="/topsy/direkt/2842.rtmp" class="icon live play">Metropol</a></li>
+        <li class="srmem-opt-1602"><a href="/topsy/direkt/1602.rtmp" class="icon live play">Minnen</a></li>
+    </ul>
+
+				    <ul class="col">
+        <li class="srmem-opt-1603"><a href="/topsy/direkt/1603.rtmp" class="icon live play">P2 Klassiskt</a></li>
+        <li class="srmem-opt-2562"><a href="/topsy/direkt/2562.rtmp" class="icon live play">P2 Musik</a></li>
+        <li class="srmem-opt-2619"><a href="/topsy/direkt/2619.rtmp" class="icon live play">P2 V&#228;rlden</a></li>
+        <li class="srmem-opt-1607"><a href="/topsy/direkt/1607.rtmp" class="icon live play">P3 Star</a></li>
+        <li class="srmem-opt-2755"><a href="/topsy/direkt/2755.rtmp" class="icon live play">Radioapans knattekanal</a></li>
+        <li class="srmem-opt-2054"><a href="/topsy/direkt/2054.rtmp" class="icon live play">P6</a></li>
+        <li class="srmem-opt-224"><a href="/topsy/direkt/224.rtmp" class="icon live play">SR S&#225;pmi</a></li>
+        <li class="srmem-opt-226"><a href="/topsy/direkt/226.rtmp" class="icon live play">SR Sisuradio</a></li>
+    </ul>
+
+				<a href="#" class="icon close">Stäng</a>
+			</div>
+			</div>
+		</li>
+		<li id="popupWrapper">
+			<a	href="#"
+				id="openPopup"
+				class="button blackonblack button-icon external tooltip {customClass:&#39;playerTooltip&#39;,alignment:&#39;rel&#39;,x:0,y:-20}"
+				title="Öppna popupspelaren">
+				<span><strong>Eget fönster</strong></span>
+				</a>
+			<span class="tooltip"><strong>Öppna spelaren i popup-fönster</strong></span>
+		</li>
+		<li id="minimizeWrapper">
+			<a	href="#"
+				id="minimizePlayer"
+				class="button blackonblack button-icon minimize tooltip {customClass:&#39;playerTooltip&#39;,alignment:&#39;rel&#39;,x:0,y:-20}"
+				title="Minimera spelaren">
+				<span><strong>&nbsp;</strong></span>
+			</a>
+			<span class="tooltip"><strong>Minimera spelaren</strong></span>
+		</li>
+		<li id="focusPopup" class="inactive popup nobg">
+			Spelaren finns i eget fönster <span class="icon focus-popup">&nbsp;</span>
+		</li>
+		<li class="inactive nopopup nobg">
+			Spelaren finns i ett annat fönster
+		</li>
+	</ul>
+ <div id="srPlayerExpanded">
+	<div class="wrapper">
+		<div class="jagged clearfix">
+			<div class="module information">
+				<div class="srModuleHeader clearfix">
+					<span class="date">&nbsp;</span>
+				</div>
+				<div class="srModuleContent clearfix">
+					<!--Direkt Kanal-->
+					<div class="module-content simple-tab stab-default" id="srExpandedInformationDirektKanal">
+						<h2><a href="#" class="icon arrow rubrik" aria-live="polite"></a></h2>
+						<p class="programDesc"></p>
+                        <p class="info"></p>     
+                        <div class="thumbNail"></div>                   
+                        <p class="programutsandInfo"></p>
+						<p class="artistAndSong"></p>
+						<div style="clear:both" class="next-program"></div>   
+                        
+					</div>
+					<!-- Song Kanal-->
+					<div class="module-content simple-tab stab-default" id="srExpandedInformationSongKanal">	
+						<p id="senasteSpelade"></p>
+						<p class="artistAndSong"></p>
+						<p class="nextToPlay"></p>
+                        <p class="latlista"></p>	
+					</div>
+				    <!-- Sändningar och poddar-->
+					<div class="module-content simple-tab stab-default" id="srExpandedInformationSandningar">
+						<h2 class="rubrik"></h2>
+						<p class="timeAndLength"></p>                                          		
+                        <p class="info"></p>
+						<div class="thumbNail"></div>	
+						<!--Sändningsarkivet och poddarkivet länkar-->
+                        <div class="links" style="clear:both">
+				            <a id="archiveLink" class="icon arrow" href="#">Sändningsarkivet</a>
+							<a id="poddarchiveLinks"  class="icon" style="background-position:2px -11003px" >Poddarkivet/MP3</a>
+                        </div>
+					</div>   
+					<!-- Klipp-->
+					<div class="module-content simple-tab stab-default" id="srExpandedInformationKlipp">
+						<h2 class="rubrik noLink"></h2>
+						<p class="timeAndLength"></p>                                      
+						<p class="info"></p>
+						<div class="thumbNail"></div>	
+						<p class="relatedArticle"></p>		
+					</div>
+					<!--Tom-->
+					<div class="module-content simple-tab stab-default active" id="srExpandedInformationNothing">
+						<p>Det här är ljudspelaren på sverigesradio.se. Just nu spelas ingenting. Klicka på en ljudlänk så startar den. Du kan göra spelaren mindre genom att klicka på knappen Min radio.<br><br>Om du har frågor om eller synpunkter på Sveriges radios webbradio kan du höra av dig till webmaster@sverigesradio.se</p>					
+					</div>
+					<!--Dela-->
+					<div class="module-content simple-tab" id="srExpandedShare">
+						<a href="#"  class="icon close"></a>
+						<h3 class="small">Vill du dela med dig?</h3>
+						<input type="text" onclick="this.focus();this.select();" value="" class="copy" />
+						<ul class="bullet-opts clear">
+							<li>
+	<a target="_blank"
+		class="icon external black facebook ga-event {ga_category:&#39;webbradio&#39;,ga_action:&#39;Dela[facebook]&#39;,ga_label:&#39;&#39;}"
+		rel="nofollow"
+		href="http://www.facebook.com/share.php?u=_shareUrl_&amp;title=_shareTitle_"
+		title="Dela via Facebook">Facebook</a>
+</li>
+<li>
+	<a target="_blank"
+		class="icon external black twitter ga-event {ga_category:&#39;webbradio&#39;,ga_action:&#39;Dela[twitter]&#39;,ga_label:&#39;&#39;}"
+		rel="nofollow"
+		href="https://twitter.com/intent/tweet?text=_shareUrl_&amp;title=_shareTitle_"
+		title="Dela via Twitter">Twitter</a>
+</li>
+<li>
+	<a target="_blank"
+		class="icon external black digg ga-event {ga_category:&#39;webbradio&#39;,ga_action:&#39;Dela[digg]&#39;,ga_label:&#39;&#39;}"
+		rel="nofollow"
+		href="http://digg.com/submit?url=_shareUrl_&amp;title=_shareTitle_"
+		title="Dela via Digg">Digg</a>
+</li>
+<li>
+    <a target="_blank"
+     class="icon external black modal ajax ga-event {ga_category:&#39;webbradio&#39;,ga_action:&#39;Dela[epost]&#39;,ga_label:&#39;&#39;}"
+     rel="nofollow" 
+     href="/sida/dela/epost?url=_shareUrl_&amp;title=_shareTitle_"
+     title="Dela via E-post">E-post</a>
+</li>
+
+						</ul>
+						<h4 class="small">Dela ut en viss tidpunkt i ett ljudklipp</h4>
+						<p>Högerklicka på tidsaxeln och välj ”Dela ut till aktuell tidpunkt” så får du en länk som startar ljudet på en visst plats i ljudet. Detta fungerar bara på ljudklipp, inte direktsändningar</p>
+					</div>
+					<div class="module-content simple-tab" id="srExpandedShareAtTime">
+						<a href="#"  class="icon close"></a>
+						<h3 class="small">Vill du dela med dig?</h3>
+						<input type="text" onclick="this.focus();this.select();" value="" class="copy" />
+							<ul class="bullet-opts clear">
+							<li>
+	<a target="_blank"
+		class="icon external black facebook ga-event {ga_category:&#39;webbradio&#39;,ga_action:&#39;Dela[facebook]&#39;,ga_label:&#39;&#39;}"
+		rel="nofollow"
+		href="http://www.facebook.com/share.php?u=_shareUrl_&amp;title=_shareTitle_"
+		title="Dela via Facebook">Facebook</a>
+</li>
+<li>
+	<a target="_blank"
+		class="icon external black twitter ga-event {ga_category:&#39;webbradio&#39;,ga_action:&#39;Dela[twitter]&#39;,ga_label:&#39;&#39;}"
+		rel="nofollow"
+		href="https://twitter.com/intent/tweet?text=_shareUrl_&amp;title=_shareTitle_"
+		title="Dela via Twitter">Twitter</a>
+</li>
+<li>
+	<a target="_blank"
+		class="icon external black digg ga-event {ga_category:&#39;webbradio&#39;,ga_action:&#39;Dela[digg]&#39;,ga_label:&#39;&#39;}"
+		rel="nofollow"
+		href="http://digg.com/submit?url=_shareUrl_&amp;title=_shareTitle_"
+		title="Dela via Digg">Digg</a>
+</li>
+<li>
+    <a target="_blank"
+     class="icon external black modal ajax ga-event {ga_category:&#39;webbradio&#39;,ga_action:&#39;Dela[epost]&#39;,ga_label:&#39;&#39;}"
+     rel="nofollow" 
+     href="/sida/dela/epost?url=_shareUrl_&amp;title=_shareTitle_"
+     title="Dela via E-post">E-post</a>
+</li>
+
+						</ul>
+						<p>Ljudklippet startas på det antal sekunder som du har valt. Den du delar till kan även spola tillbaka till början av ljudklippet och lyssna på hela klippet.</p>
+					</div>
+				</div>
+				<div class="srModuleFooter clearfix">
+	
+			    <!--Dela, Bädda in, spara som fav gilla etc -->
+						
+					<a class="playerEmbed dontClose icon embed modal ga-event iframe {width:&#39;575&#39;,height:&#39;500&#39;,tight:&#39;true&#39;,title:&#39;B&#228;dda in&#39;,ga_category:&#39;webbradio&#39;,ga_action:&#39;B&#228;dda in&#39;,ga_label:&#39;&#39;}" href="#"> Bädda in ljudet</a>
+					<a class="left icon share" id="delaLink" href="#srExpandedShare">Dela</a>
+					<a class="left icon heart ga-event {ga_category:&#39;webbradio&#39;,ga_action:&#39;Spara som favorit&#39;,ga_label:&#39;&#39;}" href="#">favorit</a>
+					<a class="left icon download white" href="#"></a>
+				</div>
+			</div>
+			<div class="module favorites">
+				<div class="srModuleHeader clearfix">
+					<h2 class="xxsmall"><span class="icon heart">Mina favoriter</span></h2>
+				</div>
+				<div class="srModuleContent clearfix">
+					<div class="module-content">
+						<ul class="js-pag">
+							<li class="no-hover"><p>Du kommer alltid åt dina favoritprograms senaste avsnitt och dina favoritkanaler med bara ett klick.<br><br>Lägg till så många du vill!</p></li>
+						</ul>
+					</div>
+				</div>
+			</div>
+			<div class="module history tabNavigation">
+				<div class="srModuleHeader clearfix headerContainer">
+					<div class="header clearfix">
+						<a href="#"><span><b class="icon queue">Spelk&ouml;</b></span></a>
+						<a href="#"><span><b class="icon history">Historik</b></span></a>
+					</div>
+				</div>
+				<div class="srModuleContent clearfix">
+					<div class="module-content">
+						<div class="tabBlock">
+							<h2 class="tabHead">Spelkö</h2>
+							<ul class="js-pag playqueue" id="srPlayerPlayQueue">
+								<li class="no-hover"><p>Du kan spara klipp och program i en spelkö. Klicka på pilen efter en ljudlänk och välj att lägga på kö.</p></li>
+							</ul>
+						</div>
+						<div class="tabBlock">
+							<h2 class="tabHead">Historik</h2>
+							<ul class="js-pag history" id="srPlayerHistory">
+								<li class="no-hover"><p>Allt du lyssnat på kommer du alltid åt med bara ett klick.<br><br>Alla ljudklipp du lyssnar på hamnar här.</p></li>
+							</ul>
+							<a href="#" class="right icon arrow clear-history">Rensa</a>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="below">
+		<a class="right icon arrow modal iframe {width:700,title:'Support',superTop:'true'}" href="/sida/felrapport/report.stm">Hjälp</a>			
+		<div class="left">
+			<dl>
+				<dt class="uc">Byt ljudkvalitet:</dt>
+				<dd>
+					<ul class="rc-opts srmem srmem-select-list srmem-id-quality srmem-default-normal">
+						<li class="srmem-opt-lo roundCorner8pixels" title="32 kbps"><a href="#">Låg</a></li>
+						<li class="srmem-opt-normal roundCorner8pixels" title="96 kbps"><a href="#">Mellan</a></li>
+						<li class="srmem-opt-hi roundCorner8pixels" title="192 kbps"><a href="#">Hög</a></li>
+					</ul>
+				</dd>
+			</dl>
+		</div>
+	</div>
+</div>
+
+</div>
+</div>
+
+</div>
+
+<script type="text/javascript">
+    var SR_version	= "10.22.4.28504";
+    var SR_config	= {
+        urls:	{
+            sida: "/sida/",
+            ajaxpages: "/sida/ajaxpages",
+            programid: "/sida/default.aspx?programid=",
+            popupPlayer: "/sida/spelaren.aspx"
+        }
+    };
+    if (window.SR === undefined)
+    {
+        window.SR = {
+            version:SR_version,
+            config:SR_config
+        };
+    }
+    else
+    {
+        window.SR.version = SR_version;
+        window.SR.config = SR_config;
+    }
+</script>
+
+
+
+<script src="/sida/content/script/sr.min.js?10.22.4.28504" type="text/javascript"></script>
+
+
+
+
+        
+        
+
+<!-- BEGIN: Google Analytics -->
+<script type="text/javascript">
+    var _gaq = _gaq || [];
+    var googleStatKey = '/sr/prgsida/p3[k(164)]/p3[p(164)]/låtlista';
+    _gaq.push(['_setAccount', 'UA-3289092-1']);
+    _gaq.push(['_trackPageview', googleStatKey]);
+    _gaq.push(['_trackPageLoadTime']);
+
+    (function () {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+</script>
+<input type="hidden" id="ga-stat-key" value="/sr/prgsida/p3[k(164)]/p3[p(164)]/låtlista"/>
+<!-- END: Google Analytics! -->
+
+
+<!-- BEGIN: ChartBeat -->
+<script type="text/javascript">
+	var _sf_async_config = { uid: 20919, domain: "sverigesradio.se" };
+	_sf_async_config.sections = "p3";
+	_sf_async_config.authors = "";
+	(function () {
+		function loadChartbeat() {
+			window._sf_endpt = (new Date()).getTime();
+			var e = document.createElement('script');
+			e.setAttribute('language', 'javascript');
+			e.setAttribute('type', 'text/javascript');
+			e.setAttribute('src',
+		(("https:" == document.location.protocol) ? "https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/" : "http://static.chartbeat.com/") +
+		"js/chartbeat.js");
+			document.body.appendChild(e);
+		}
+		var oldonload = window.onload;
+		window.onload = (typeof window.onload != 'function') ?
+	loadChartbeat : function () { oldonload(); loadChartbeat(); };
+	})();
+</script>
+<!-- END: ChartBeat -->
+
+
+           
+
+<div id="Panel_Content" class="offscreen"></div> 
+<!-- BEGIN: sifo -->
+<script type="text/javascript">
+	function send_panel() {
+		var OAS_server = 'http://sifomedia.sverigesradio.se';
+
+		if (!(OAS_rn)) {
+			var OAS_rn = new String(Math.random());
+			var OAS_rns = OAS_rn.substring(2, 11);
+		}
+
+        var OAS_taxonomy = '&Sajt=sverigesradio.se&Sektion=' + encodeURIComponent('p3');
+		var newIframe = document.createElement("iframe");
+		newIframe.src = 'http://panel2.research-int.se/0/RI-Panel/pixel/set_panel2.html?' + OAS_rns + '__!__' + OAS_server + '__!__' + OAS_taxonomy;
+		document.getElementById('Panel_Content').appendChild(newIframe);
+		return true;
+	}
+
+	if (document.cookie.indexOf('member_type=') === -1) {
+	    $("body").one("sr-detection-is-done", function() {
+	        send_panel();
+	    });
+	} 
+</script>
+<!-- END: sifo -->
+<!-- Page generated ok -->
+<script src="/sida/content/script/SitesterSurvey_1243.js" type="text/javascript"></script>
+
+
+    </body>
+</html>
+
+
+
