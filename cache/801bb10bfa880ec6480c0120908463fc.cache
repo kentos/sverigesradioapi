@@ -192,10 +192,10 @@
                             P3 Spel 
                         </span>
                     </span>
-                        <span class="bar sr-progress sr-progress-1403-1500">
+                        <span class="bar sr-progress sr-progress-1503-1600">
                             <span>&nbsp;</span>
                         </span>
-                    <span class="time">15:00</span><span class="rn-next-program">Ekonyheter</span> 
+                    <span class="time">16:00</span><span class="rn-next-program">Ekonyheter</span> 
                 </a>
                 <a class="dropdown ajax channelbg hover {width:220,title:'', align:'right', className:'channel-dropdown p3'}" rel="nofollow" title="Mer information om vad som sänds på P3" aria-haspopup="true" href="http://sverigesradio.se/sida/layout/channeldropdowninfo?unitid=164">
                     <span class="main-sprite down-arrow-white-sprite"></span>
@@ -3715,7 +3715,7 @@
 		<div class="asideColumn fixed-heading">
 			    <div class="rightColumn">
         <div class="sr-cal-container">
-            <div data-require="modules/calendar" class="{startDate: '2012-06-01 14:13:18', endDate: '2013-06-01 14:07:11'}">
+            <div data-require="modules/calendar" class="{startDate: '2012-06-01 15:13:47', endDate: '2013-06-01 15:03:08'}">
             </div>
         </div>
         <div class="srModule">
