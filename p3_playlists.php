@@ -4,7 +4,7 @@
 */
 
 include("cache.php");
-include("phpquery/phpQuery.php");
+include("app/phpquery/phpQuery.php");
 include("functions.php");
 
 date_default_timezone_set('UTC');
