@@ -13,7 +13,7 @@ function get_playlist_by_date($date) {
 	foreach(pq("tbody tr") as $tr) {
 		
 		if(pq($tr)->hasClass("expand-container")) {
-			$rows[$current_index] = (object) array(); // How the fuck do you do a object the easiest way??
+			$rows[$current_index] = new stdClass;
 			$rows[$current_index]->time = $time = pq("td.time", $tr)->text();
 			$rows[$current_index]->artist = trim(pq("span.artist", $tr)->text());
 			$rows[$current_index]->song = trim(pq("span.title", $tr)->text());
