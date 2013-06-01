@@ -19,6 +19,6 @@ class API {
 	}
 	
 	function get_search() {
-		$this->search_string = $_GET['search'];
+		$this->search_string = $_GET['s'];
 	}
 }

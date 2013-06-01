@@ -9,7 +9,7 @@ include(__ROOT__ . "/app/db_info.inc.php");
 
 $ADODB_FETCH_MODE = ADODB_FETCH_ASSOC;
 $db = ADONewConnection("mysql");
-$db->debug=true;
+$db->debug=false;
 $db->Connect($db_host, $db_user, $db_pass, $db_database);
 
 #  Start routing, made simple
