@@ -12,3 +12,5 @@ $date = date("Y-m-d");
 
 $json = get_playlist_by_date($date);
 
+echo json_encode($json);
+
