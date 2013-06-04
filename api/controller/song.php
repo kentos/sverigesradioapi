@@ -8,7 +8,7 @@ class Song extends API {
 		$this->get_search();
 		
 		$song = $this->get_song($this->search_string);
-		$plays = $this->get_plays($song);
+		$plays = $this->get_plays($song[0]);
 		$meta = array(
 			"num_plays" => count($plays)
 		);
@@ -24,12 +24,12 @@ class Song extends API {
 			$song = str_replace("Ä", "ä", $song);
 			$song = str_replace("Ö", "ö", $song);
 			
-			$sql = "SELECT * FROM song WHERE lower(songname) = \"{$song}\" LIMIT 1";
+			$sql = "SELECT * FROM song WHERE lower(songname) = \"{$song}\"";
 		} else {
 			$sql = "SELECT * FROM song WHERE id = {$song} LIMIT 1";
 		}
 		
-		$song = $this->db->GetRow($sql);
+		$song = $this->db->GetArray($sql);
 		
 		return $song;
 	}

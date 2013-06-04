@@ -6,9 +6,9 @@ class Artist extends API {
 		
 		$this->get_search();
 		
-		if(!$this->search_string > '' || $this->search_string > 0) {
-			$this->put(array("status"=> "no data"));
-		} else {
+		/*if(!$this->search_string > '' || $this->search_string > 0) {
+			$this->put(array("error"=> "no data"));
+		} else {*/
 			$artist = $this->get_artist($this->search_string);
 			$plays = $this->get_plays($artist);
 			
@@ -24,7 +24,7 @@ class Artist extends API {
 			);
 		
 			$this->put(array("meta" => $meta, "artist" => $artist, "plays" => $plays));
-		}
+		//}
 	}
 	
 	private function get_artist($artist) {

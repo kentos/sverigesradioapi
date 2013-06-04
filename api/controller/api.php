@@ -29,12 +29,37 @@ class API {
 	
 	function get_search() {
 		// Fix some stuff in the search string
-		$this->search_string = trim($_GET['s']);
-		$this->search_string = addslashes($this->search_string);
-		$this->search_string = urldecode($this->search_string);
+		$this->search_string = $this->sanitize_query($_GET['s']);
 		
 		if(!strlen($this->search_string) > 0) {
 			error_log("No search string provided");
 		}
+	}
+	
+	function get_date_range() {
+		$this->start_date = $this->sanitize_query($_GET['start']);
+		$this->end_date = $this->sanitize_query($_GET['end']);
+		
+		if($this->test_date($this->start_date) && $this->test_date($this->end_date)) {
+			return array(
+				"start_date"=> $this->start_date,
+				"end_date"=> $this->end_date
+			);
+		} else {
+			return false;
+		}
+		
+	}
+	
+	function test_date($d) {
+		return $d;
+	}
+	
+	function sanitize_query($str) {
+		$str = trim($str);
+		$str = addslashes($str);
+		$str = urldecode($str);
+
+		return $str;
 	}
 }

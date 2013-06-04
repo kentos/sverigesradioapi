@@ -25,6 +25,11 @@
 			</tr>
 			
 			<tr>
+				<td valign="top">/api/v1/song?s=%s</td>
+				<td valign="top">Search song and get plays</td>
+			</tr>
+			
+			<tr>
 				<td valign="top">/api/v1/toplist?start=%d&end=%d</td>
 				<td valign="top">Get a toplist of most played songs</td>
 			</tr>
